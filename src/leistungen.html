@@ -1,0 +1,14 @@
+---
+layout: layouts/leistungen.html
+title: Leistungen
+header:
+  heading: "Leistungen"
+  sub: "Diese Seite ist geheim bzw. ein Platzhalter. Ich habe noch keine Blogposts und bin zu faul dafür."
+pagination:
+  data: collections.leistungen
+  size: 3
+permalink: "leistungen{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
+paginationPrevText: "Weitere Leistungen"
+paginationNextText: "Weitere Leistungen"
+paginationAnchor: "#leistungen-list"
+---

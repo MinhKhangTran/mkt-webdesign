@@ -1,0 +1,57 @@
+<section id="social" class="bg-dark" aria-label="social section">
+  <div class="wrapper">
+    <div
+      id="socials"
+      class="carousel slide carousel-fade"
+      data-bs-ride="carousel"
+    >
+      <div class="carousel-indicators">
+        <button
+          type="button"
+          data-bs-target="#socials"
+          data-bs-slide-to="0"
+          class="active"
+          aria-current="true"
+          aria-label="Slide 1"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#socials"
+          data-bs-slide-to="1"
+          aria-label="Slide 2"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#socials"
+          data-bs-slide-to="2"
+          aria-label="Slide 3"
+        ></button>
+      </div>
+      <div class="carousel-inner">
+        {% for item in socials.social %}
+        <div
+          class="carousel-item {% if loop.index === 1 %}active{% endif %} bg-white"
+          data-bs-interval="false"
+        >
+          <div class="testi__wrapper | bg-white">
+            <img
+              class="person"
+              src="/images/{{item.social_img}}.jpg"
+              alt="{{item.social_name}}"
+            />
+
+            <p class="text | body-lg text-dark">{{item.social_text}}</p>
+            <h2 class="name | text-dark">{{item.social_name}}</h2>
+            <p class="job | text-primary text-uppercase">{{item.social_job}}</p>
+          </div>
+          <img
+            class="quote | position-absolute"
+            src="/images/quote.svg"
+            alt=""
+          />
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

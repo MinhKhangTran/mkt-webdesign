@@ -1,0 +1,17 @@
+{
+  "title": "Statische Webseite",
+  "desc1": "Statische Webseiten sind perfekt um deine Webpräsenz aufzubauen.  Sie zeigen Ihren Kunden, was Ihre Dienstleistung ist und wie man Sie kontaktieren kann.",
+  "desc2": "Für wen sind meine Leistungen geeignet:",
+  "image": "circle",
+  "bulletpoints": [
+    {
+      "bulletpoint": "Sie wollen der Welt mitteilen, dass Sie etwas anbietest"
+    },
+    {
+      "bulletpoint": "Sie haben eine altmodische und/oder langsame Webseite und wollen sie wieder auf Vordermann bringen"
+    },
+    {
+      "bulletpoint": "Sie mögen (fast) wartungs- und stressfreie Webseitenerstellung"
+    }
+  ]
+}

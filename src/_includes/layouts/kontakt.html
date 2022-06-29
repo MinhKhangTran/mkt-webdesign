@@ -1,0 +1,23 @@
+{% extends "layouts/base.html" %} {% block content %}
+<section
+  id="contact"
+  aria-label="contact"
+  class="wrapper py-lg-5 my-lg-4 py-3 my-3"
+>
+  <div class="row">
+    <div class="col-lg-6">
+      <h1 class="heading-1 | text-primary">{{heading}}</h1>
+      <p class="body-lg">{{desc}}</p>
+      <a href="mailto:{{info.email}}" class="text-dark">{{info.email}}</a>
+    </div>
+    <div class="col-lg-6 mt-4 mt-lg-0">
+      <img
+        class="img-fluid"
+        src="/images/{{contact_img}}.jpg"
+        alt="Ein Bild von einer Frau, die auf dem Laptop tippt aus der Vogelperspektive"
+      />
+    </div>
+  </div>
+</section>
+
+{% endblock %}

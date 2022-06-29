@@ -1,0 +1,37 @@
+@use "sass:math";
+
+nav {
+  padding-block: 1rem;
+  @include md {
+    padding-block: math.div(11rem, 16);
+  }
+  img {
+    height: 18px;
+    @include md {
+      height: 24px;
+    }
+  }
+  .navbar-collapse {
+    margin-top: 1rem;
+    @include lg {
+      margin-top: 0rem;
+    }
+  }
+  ul {
+    gap: 1rem;
+    @include lg {
+      gap: math.div(64rem, 16);
+    }
+    a {
+      font-weight: 400;
+      color: $dark;
+      @include md {
+        font-size: math.div(24rem, 16);
+      }
+      &[data-state="active"],
+      &[aria-current="page"] {
+        color: #98654c !important;
+      }
+    }
+  }
+}

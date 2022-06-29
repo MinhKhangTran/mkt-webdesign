@@ -1,0 +1,19 @@
+{
+  "benefit": [
+    {
+      "icon": "fast",
+      "benefit_title": "schnell",
+      "benefit_text": "Ich verwende die neueste Technologie, um schnelle statische Websites zu erstellen."
+    },
+    {
+      "icon": "accessible",
+      "benefit_title": "zugänglich",
+      "benefit_text": "Websites sollten standardmäßig für jeden barrierefrei sein. So kann Ihre Website von allen genutzt und gesehen werden."
+    },
+    {
+      "icon": "safe",
+      "benefit_title": "sicher",
+      "benefit_text": "Sie müssen sich keine Gedanken über Server- oder Datenbankangriffe machen."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+@use "sass:math";
+
+#intro {
+  padding-top: math.div(88rem, 16);
+  @include md {
+    padding-top: math.div(102rem, 16);
+  }
+  .static__wrapper {
+    padding-block: math.div(80rem, 16);
+    @include border;
+
+    p {
+      padding-top: 1rem;
+    }
+  }
+  .geeignet__wrapper {
+    padding-block: math.div(48rem, 16);
+    .pro__wrapper {
+      border-radius: 8px;
+      box-shadow: 3px 3px 0px #000000;
+      padding: 2rem;
+      svg {
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+      }
+      p {
+        color: #0f5132;
+      }
+    }
+    .contra__wrapper {
+      border-radius: 8px;
+      box-shadow: 3px 3px 0px #000000;
+      padding: 2rem;
+      svg {
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+      }
+      p {
+        color: #842029;
+      }
+    }
+    .text__wrapper {
+      p {
+        font-weight: 600;
+      }
+      ul {
+        list-style-type: disc;
+        li {
+          padding-top: 0.5rem;
+        }
+      }
+    }
+  }
+}

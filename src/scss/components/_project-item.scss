@@ -1,0 +1,58 @@
+@use "sass:math";
+
+#project__item {
+  time,
+  a {
+    color: #98654c !important;
+  }
+  h2 {
+    margin-top: 2rem;
+    color: $primary;
+    font-size: math.div(24rem, 16);
+    font-weight: 700;
+    @include md {
+      font-size: math.div(36rem, 16);
+    }
+  }
+  h3 {
+    margin-top: 1.5rem;
+    color: $primary;
+    font-size: math.div(20rem, 16);
+    font-weight: 700;
+    @include md {
+      font-size: math.div(24rem, 16);
+    }
+  }
+  h4 {
+    margin-top: 1.5rem;
+    color: $primary;
+    font-size: math.div(18rem, 16);
+    font-weight: 700;
+    @include md {
+      font-size: math.div(20rem, 16);
+    }
+  }
+  p {
+    font-size: math.div(16rem, 16);
+    line-height: 150%;
+    @include md {
+      font-size: math.div(18rem, 16);
+    }
+    margin-block: 1rem;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  ul {
+    list-style: disc;
+    font-size: math.div(16rem, 16);
+    line-height: 150%;
+    @include md {
+      font-size: math.div(18rem, 16);
+    }
+  }
+  .icon {
+    width: 48px;
+  }
+}

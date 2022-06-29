@@ -1,0 +1,47 @@
+{
+  "subheading": "Von Landing Pages über Businesswebsiten bis hin zu Blogs. Geben Sie Ihrer Dienstleistung eine Plattform.",
+  "copyright": "MKT Webdesign",
+  "navigations": [
+    {
+      "url": "/",
+      "navigation": "home"
+    },
+    {
+      "url": "/about/",
+      "navigation": "über mich"
+    },
+    {
+      "url": "/leistungen/web-design/",
+      "navigation": "Web Design"
+    },
+    {
+      "url": "/leistungen/web-development/",
+      "navigation": "Web Development"
+    },
+    {
+      "url": "/leistungen/webseite-optimierung/",
+      "navigation": "Optimierung"
+    },
+
+    {
+      "url": "/kontakt/",
+      "navigation": "kontakt"
+    }
+  ],
+  "recht": [
+    {
+      "url": "/impressum/",
+      "navigation": "impressum"
+    }
+  ],
+  "socials": [
+    {
+      "url": "https://www.xing.com/profile/MinhKhang_Tran/cv",
+      "navigation": "xing"
+    },
+    {
+      "url": "https://github.com/MinhKhangTran",
+      "navigation": "github"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{% extends "layouts/base.html" %} {% block content %} {% if page_cta %} {% set
+ctaContent = page_cta %} {% endif %}
+
+<img src="{{img}}" alt="{{altImg}}" class="img-fluid w-100" />
+<section
+  id="project__item"
+  aria-label="project section"
+  class="sm__wrapper pb-5 pt-md-5 pt-3"
+>
+  <h1 class="heading-1 | text-primary">{{title}}</h1>
+  {{content |safe}}
+</section>
+
+{% if page.url.startsWith("/projekte") %}
+<div class="wrapper | mb-5">
+  <a href="/projekte" class="text-white | btn-main">Zurück zu den Projekten</a>
+</div>
+{% elif page.url.startsWith("/blogposts") %}
+<div class="wrapper | mb-5">
+  <a href="/blog" class="text-white | btn-main">Zurück zu den Blogposts</a>
+</div>
+{% endif %} {% include "partials/cta.html" %} {% endblock %}

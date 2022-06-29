@@ -1,0 +1,13 @@
+@use "sass:math";
+
+#cta {
+  padding-block: math.div(64rem, 16);
+  @include border;
+  p {
+    padding-block: 0.5rem 1rem;
+    color: #bb8060 !important;
+    @include md {
+      padding-block: 0.5rem 2.5rem;
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "navigations": [
+    {
+      "url": "/about/",
+      "navigation": "über mich"
+    },
+
+    {
+      "url": "/kontakt/",
+      "navigation": "kontakt"
+    }
+  ],
+  "brand": "Devlifting"
+}

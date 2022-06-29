@@ -1,0 +1,16 @@
+{
+  "image": "cross",
+  "desc1": "Für wen sind meine Leistungen weniger geeignet:",
+  "title": "blub",
+  "bulletpoints": [
+    {
+      "bulletpoint": "Sie wollen ein neues Facebook oder ähnliche Apps erstellen"
+    },
+    {
+      "bulletpoint": "Ihre Webseite soll aussehen wie jede andere Webseite"
+    },
+    {
+      "bulletpoint": "Sie haben keine Interesse an eine Webpräsenz"
+    }
+  ]
+}

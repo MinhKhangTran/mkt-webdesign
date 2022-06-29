@@ -1,0 +1,18 @@
+{% set ctaPrefix = cta %} {% if ctaContent %} {% set ctaPrefix = ctaContent %}
+{% endif %}
+
+<section class="bg-light" id="cta" aria-label="cta section">
+  <div class="wrapper">
+    <h2 class="cta-heading | text-center text-primary">
+      {{ctaPrefix.cta_heading}}
+    </h2>
+    <p class="cta-heading-sm | text-center text-secondary">
+      {{ctaPrefix.cta_sub}}
+    </p>
+    <div class="d-flex justify-content-center">
+      <a href="/kontakt/" class="text-white | btn-main"
+        >{{ctaPrefix.cta_button}}</a
+      >
+    </div>
+  </div>
+</section>

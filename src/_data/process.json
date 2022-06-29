@@ -1,0 +1,57 @@
+{
+  "title": "RUNDUM-SORGLOS-PAKET",
+  "desc": "Der Prozess der Erstellung und des Hostings einer Website von Grund auf ist schwierig und zeitaufwendig. ",
+  "steps": [
+    {
+      "image": "Design",
+      "benefit_title": "Dialog & Design",
+      "bulletpoints": [
+        {
+          "bulletpoint": "Planung und Umsetzung Ihrer Ziele für die Website"
+        },
+        {
+          "bulletpoint": "Erstellung von Wireframing für Desktop- und Handheld-Geräte"
+        },
+        {
+          "bulletpoint": "Von Anfang an liegt der Fokus bei mir auf UX/UI, Conversion und Barrierefreiheit"
+        }
+      ],
+      "button_text": "Web Design",
+      "href": "/leistungen/web-design"
+    },
+    {
+      "image": "Development",
+      "benefit_title": "Development",
+      "bulletpoints": [
+        {
+          "bulletpoint": "Umsetzung des Designs in Quellcode mit HTML/CSS/JS"
+        },
+        {
+          "bulletpoint": "Entwicklung von statischen Websites mit den neuesten Technologien"
+        },
+        {
+          "bulletpoint": "Fokus auf die Geschwindigkeit und Stabilität der Webseite"
+        }
+      ],
+      "button_text": "Web Development",
+      "href": "/leistungen/web-development"
+    },
+    {
+      "benefit_title": "Deployment",
+      "image": "Deployment",
+      "bulletpoints": [
+        {
+          "bulletpoint": "Optimierung der Performance, Zugänglichkeit und Sicherheit"
+        },
+        {
+          "bulletpoint": "Standard On-Page SEO für optimales Crawling der Webseite"
+        },
+        {
+          "bulletpoint": "Analyse und Verbesserung der Webseite"
+        }
+      ],
+      "button_text": "Optimierung",
+      "href": "/leistungen/webseite-optimierung"
+    }
+  ]
+}
