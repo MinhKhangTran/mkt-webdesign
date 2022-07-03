@@ -31,9 +31,14 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob("./src/blogposts/*.md").reverse();
   });
 
-  // add blogposts to leistungen
+  // add leistungen to collections
   eleventyConfig.addCollection("leistungen", (collection) => {
     return collection.getFilteredByGlob("./src/leistungen/*.md");
+  });
+
+  // add beispiele to collections
+  eleventyConfig.addCollection("beispiele", (collection) => {
+    return collection.getFilteredByGlob("./src/beispiele/*.md");
   });
 
   // Add filters

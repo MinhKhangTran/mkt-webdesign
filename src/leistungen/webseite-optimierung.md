@@ -1,6 +1,6 @@
 ---
 title: "Webseite Optimierung"
-description: Webseite Optimierung
+description: Mit der Optimierung erhöht sich die Performance und die Sichtbarkeit der Website
 img: /images/webseite-optimierung.jpg
 altImg: "Optimierungen Hauptbild"
 page_cta:

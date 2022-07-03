@@ -1,0 +1,18 @@
+---
+layout: layouts/beispiele.html
+title: Website Beispiele
+header:
+  heading: "Website Beispiele"
+  sub: "Gängige Webseiten, mit denen ich mich täglich beschäftige"
+pagination:
+  data: collections.beispiele
+  size: 6
+permalink: "beispiele{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
+paginationPrevText: "Weitere Beispiele"
+paginationNextText: "Weitere Beispiele"
+paginationAnchor: "#beispiele-list"
+page_cta:
+  cta_heading: Sind Sie bereit für eine gelungene Webpräsenz?
+  cta_sub: Jetzt ein Angebot einholen!
+  cta_button: Loslegen!
+---

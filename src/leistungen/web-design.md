@@ -1,6 +1,6 @@
 ---
 title: "Web Design"
-description: Web Design
+description: Web Design beschreibt das Design einer Webseite oder einer App. Der Fokus liegt dabei auf UI, UX und Barrierefreiheit
 img: /images/web-design.jpg
 altImg: "Web Design Hauptbild"
 page_cta:

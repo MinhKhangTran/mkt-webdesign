@@ -1,0 +1,144 @@
+---
+title: "Landingpage"
+description: Eine Landingpage hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben.
+img: /images/landingpage-thumbnail.jpg
+altImg: "Landingpage Hauptbild"
+page_cta:
+  cta_heading: Bessern Sie Ihre Webpräsenz auf!
+  cta_sub: Jetzt ein Angebot einholen!
+  cta_button: Loslegen!
+---
+
+## Was ist eine Landingpage
+
+Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen. Beispiele für eine Conversion können etwa sein: der Verkaufsabschluss eines Produktes oder die Anmeldung zu einem Newsletter.
+
+Landingpages sind verglichen mit "normalen" Websiten etwas spezieller. Landingpages sind vom Aufbau her alle ähnlich gestaltet und haben oft wiederkehrende Komponente. Der Name Landingpage kommt aus dem Englischen _landing page_ und kann mit Landeseite übersetzt werden. Meistens werden im Bereich Marketing englische Begriffe verwendet. Es ist daher üblich, dass viele dieser Begriffe nicht übersetzt werden.
+
+Der Nutzer "landet" auf eine Landingpage, sobald dieser auf eine Werbung oder einen Eintrag auf einer Suchmaschine (Google, Bing, Yahoo etc.) klickt. Dabei kann es sich um eine gezielte Suche des Nutzers handeln.
+
+## Aufbau einer Landingpage
+
+Eine Landingpage ist minimalistisch aufgebaut und alles dreht sich um das geworbene Produkt. Die Information der Landingpage soll kurz und klar rüber gebracht werden, um die Entscheidung der besuchenden Person zu beeinflussen. Dabei wir aus Ablenkungsgründen meistens sogar auf eine Navigationsleiste verzichtet.
+
+Unter Web Designer haben Landingpages eher einen schlechten Ruf. Landingpages sind alle ähnlich aufgebaut und fordern den Web Designer daher wenig. Es geht viel mehr um Copywriting und Marketing und weniger um das Design der Website selber. Es soll aber nicht heißen, dass Landingpages nicht schön gestaltet sind.
+
+Anhand eines einfachen Landingpage Beispiel, werden die immer wiederkehrende Komponenten erklärt und untersucht. Diese Landingpage wurde als Beispiel von mir erstellt. Es beinhaltet einen Shaker, der geruchsneutral ist. Diese Produkt ist fiktiv.
+
+Der Link zu der Landingpage: [https://landingpage-beispiel.netlify.app/](https://landingpage-beispiel.netlify.app/)
+
+### Above the Fold
+
+Beim Betreten der Website erscheint stets der "Hero" der Seite. Der "Hero" (aus dem Englischen _hero_, deutsch: Held) ist das Wichtigste auf der Website und soll den Besucher oder den Besucherinnen dazu bringen weiterzulesen. Der "Hero" ist immer "Above the fold" und dieser sollte ohne scrollen ganz sichtbar sein. Der Begriff "Above the fold" wurde bei der Druckerei benutzt. Zeitungen werden gefaltet und das Wichtigste sollte sichtbar und nach dem Falten oben sein.
+
+Wie bei Zeitungen sind die Überschriften, Untertitel und Bilder wichtig und sollen den Leser oder die Leserinnen neugierig machen. Daher müssen diese Komponenten bei einer Landingpage vorkommen.
+
+![Above the Fold](/images/above-the-fold.jpg)
+
+_Above the Fold_
+
+#### 1. Überschrift (Headline oder Title)
+
+Die Überschrift soll fesselnd sein und die besuchende Person neugierig machen. In dem Titel muss auch klargestellt werden, welche Probleme, das Produkt lösen soll.
+
+#### 2. Untertitel (Subtitle)
+
+Untertitel gehen näher in das Produkt ein und verstärken kurz und bündig die Aussagen aus der Überschrift.
+
+#### 3. CTA
+
+Als einer der wichtigsten Komponente ist der CTA-Aufruf. CTA bedeutet "call-to-action" und soll den Besucher oder die Besucherin _zu einer bestimmten Handlung bewegen_. Nachdem der Besucher oder die Besucherin neugierig die Überschrift und den Untertitel gelesen hat, will diese Person wissen, was der nächste Schritt ist. An dieser Stelle kommt der CTA. Es handelt sich meistens um einen Button (Knopf) mit einem Aufruf. Beispiele für einen Aufruf könnte sein: "Starte jetzt" oder "Jetzt Anmelden".
+
+#### 4. Sozialer Nachweis (Social Proof)
+
+Mit Hilfe eines sozialen Nachweises wird für das Produkt Vertrauen und Glaubwürdigkeit geweckt. Es zeigt der suchenden Person die (zufriedenen) Kunden des Produktes.
+
+#### 5. Bild oder Video
+
+Ein Bild sagt mehr als 1000 Wörter. Es kann auch ein kurzes Video benutzt werden. Das Bild oder das Video sollte das Produkt von der besten Seite zeigen.
+
+### Below the Fold
+
+Jetzt ist der Besucher oder die Besucherin neugierig und will mehr wissen. Für weitere Informationen wird daher die Landingpage gescrollt.
+
+#### 6. Eigenschaften und Nutzen des Produktes (Features and benefits)
+
+Hier werden die Eigenschaften und die daraus folgenden Nutzen für den Kunden oder die Kundinnen dargestellt. Diese sollten schmackhaft dargestellt werden und überzeugend wirken.
+
+![Eigenschaften und Nutzen des Produktes](/images/benefits.jpg)
+
+_Eigenschaften und Nutzen des Produktes_
+
+#### 7. Mehr Sozialer Nachweis
+
+An dieser Stelle wird die Glaubwürdigkeit des Produktes noch mehr verstärkt. Hier werden oft Testimonials von bisherigen Kunden oder Kundinnen gezeigt. Ein Profilbild mit einer persönlichen Bewertung eines zufriedenen Kundens oder einer zufriedenen Kundin symbolisiert die Kompetenz des Produktes.
+
+![Sozialer Nachweis](/images/social-proof.jpg)
+
+_Sozialer Nachweis_
+
+#### 8. Häufig gestellte Fragen (FAQ)
+
+Diese Komponente ist nicht zwingend notwendig. Hier können weitere Eigenschaften aufgelistet werden, die oben weniger wichtig waren.
+
+![Häufig gestellte Fragen (FAQ)](/images/faq.jpg)
+
+_Häufig gestellte Fragen (FAQ)_
+
+#### 9. Der zweite Aufruf (CTA)
+
+Falls der Besucher oder die Besucherin **bis hier gescrollt hat*,*
+dann Glückwunsch. Der Besucher oder die Besucherin **braucht wieder Anweisungen für die nächste Handlung. An dieser Stelle muss es einen weiteren CTA-Aufruf geben.
+
+![CTA](/images/cta.jpg)
+
+_CTA_
+
+#### 10. Über mich
+
+Ganz am Ende kann auch eine “Über-mich” Komponente verwendet werden. Mit dieser Komponente kann der Kunde oder die Kundin die Person im Hintergrund sehen und mehr erfahren.
+
+Hier kann erklärt werden, was das Problem der Erfinder oder die Erfinderin des Produktes war und wie dieses Problem versucht wurde zu lösen.
+
+Dadurch wirkt es persönlicher und kann den Kunden oder der Kundin nochmal verstärken das Produkt zu kaufen.
+
+![Über mich](/images/ueber-uns.jpg)
+
+_Über mich_
+
+## Die psychologischen Aspekte einer Landingpage
+
+Die Landingpage ist ein Marketing Werkzeug. Es wird Copywriting (Werbetexte) verwendet, um eine bestimmte Handlung auszulösen. Dabei wird von der Verkaufspsychologie Nutzen gemacht.
+
+### Neugier
+
+Die Überschrift und der Untertitel wird so formuliert, so dass diese Neugier erweckt. Dadurch kann man die Aufmerksamkeit des Kundens oder der Kunding gewinnen. Der Mensch ist von Natur aus neugierig und will diese Neugier stillen. Dies führt dazu, dass die Person länger auf der Website bleibt und alles durchliest.
+
+### Vergnügen und Angst
+
+Bei Landingpages wird oft von Vergnügen oder von der Angst Gebrauch gemacht. Ein Beispiel für das Vergnügen wäre ein Diätprogramm.
+
+Bei so einer Landingpage werden die Vorteile des Diätprogrammes aufgelistet, wie zum Beispiel: Schnelles Abnehmen, Strandfigur in X Tagen, etc.
+
+Als Bilder werden dann leicht bekleidete und attraktive Personen abgebildet. Die Zielperson assoziiert dann das Programm mit den Bilder und will mit Hilfe des Programmes auch so eine Person werden.
+
+Ein Beispiel für die Angst wäre zum Beispiel eine Landingpage für ein Nahrungsergänzungsmittel. Diese Landingpage beschreibt mit Bilder oder Videos die möglichen Folgen, wenn man dieses Nahrungsergänzungsmittel NICHT zu sich nimmt. Dadurch wird (mit Absicht) Angst gemacht, damit der Besucher oder die Besucherin dieses Mittel kauft, obwohl das Nahrungsergänzungsmittel für die Person nicht nötig ist.
+
+### Sozialer Nachweis
+
+Der soziale Nachweis ist eine wichtige Komponente bei Landingpages. Diese kommen in Form von Testimonials oder Fallstudien vor. Als Mensch vertraut man auf die Bewertungen von anderen.
+
+Die Anzahl der zufriedenen Kunden und die gezielte Auswahl der guten Bewertungen können das Vertrauen der besuchenden Person gewinnen.
+
+### Knappheit (Scarcity)
+
+Dieser Trick wird auch recht oft verwendet. Es wird ein Countdown verwendet, der anzeigt, wieviel Stunden das Produkt noch im Angebot oder verfügbar ist.
+
+Ebenfalls kann auch die begrenzte Anzahl (z.B. nur noch 4 Produkte übrig) verwendet werden. Dadurch zeigt es dem Kunden oder der Kundin, dass das Produkt knapp ist. Es zeigt, dass das Produkt begehrt ist und wenn das Produkt weg ist, wird das Produkt nicht (für eine Zeit lang) mehr angeboten.
+
+## Fazit
+
+Landingpages sind so aufgebaut, dass der Kunde oder die Kundin zu einer bestimmten Handlung gebracht wird (Konversion). Es kann sich dabei um einen Verkauf eines Produktes handeln, oder aber auch um eine Anmeldung zu einem Newsletter.
+Landingpages sind von Natur aus sehr flexible aufgebaut. Die beschriebenen Komponenten sind oft enthalten.
+
+Das Design von Landingpages wird aber öfters angepasst. Es wird im Hintergrund viel getestet (A/B Vergleich) und analysiert, um die Konversionsrate (Verhältnis der besuchenden Person zu den Konversionen) zu erhöhen.

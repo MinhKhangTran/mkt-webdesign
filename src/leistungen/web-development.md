@@ -1,6 +1,6 @@
 ---
 title: "Web Development"
-description: Web Development
+description: Web Development beschreibt das Umsetzen des Designs in Quellcode. Das Ziel ist eine funktionsfähigke Website.
 img: /images/web-development.jpg
 altImg: "Web Development Hauptbild"
 page_cta:

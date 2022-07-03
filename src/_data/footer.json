@@ -11,16 +11,12 @@
       "navigation": "über mich"
     },
     {
-      "url": "/leistungen/web-design/",
-      "navigation": "Web Design"
+      "url": "/leistungen/",
+      "navigation": "Leistungen"
     },
     {
-      "url": "/leistungen/web-development/",
-      "navigation": "Web Development"
-    },
-    {
-      "url": "/leistungen/webseite-optimierung/",
-      "navigation": "Optimierung"
+      "url": "/beispiele/",
+      "navigation": "Beispiele"
     },
 
     {
