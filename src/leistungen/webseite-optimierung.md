@@ -12,26 +12,23 @@ page_cta:
 <aside class="toc">
   <div class="card">
     <div class="card-body">
-    <h2 class="card-title">Inhaltsverzeichnis</h2>
+      <h2 class="card-title">Inhaltsverzeichnis</h2>
       <ul>
-      <li><a href="#ein-grober-%C3%BCberblick-mit-lighthouse">Ein grober Überblick mit Lighthouse</a>
-      <ul>
-      <li><a href="#leistung-oder-performance">Leistung oder Performance</a>
-      <ul>
-      <li><a href="#messwerte">Messwerte</a></li>
-      </ul>
-      </li>
-      </ul>
-      </li>
-      <li><a href="#barrierefreiheit-oder-accessibility">Barrierefreiheit oder Accessibility</a>
-      <ul>
-      <li><a href="#best-practices">Best Practices</a></li>
-      <li><a href="#seo">SEO</a></li>
-      <li><a href="#fazit">Fazit</a></li>
-      </ul>
-      </li>
-      <li><a href="#sichtbar-werden-durch-on-page-seo">Sichtbar werden durch On-Page SEO</a></li>
-      <li><a href="#testen-und-aktualisieren">Testen und Aktualisieren</a></li>
+        <li><a href="#ein-grober-%C3%BCberblick-mit-lighthouse">Ein grober Überblick mit Lighthouse</a>
+          <ul>
+            <li><a href="#leistung-oder-performance">Leistung oder Performance</a>
+              <ul>
+                <li><a href="#messwerte">Messwerte</a></li>
+              </ul>
+            </li>
+            <li><a href="#barrierefreiheit-oder-accessibility">Barrierefreiheit oder Accessibility</a></li>
+            <li><a href="#best-practices">Best Practices</a></li>
+            <li><a href="#seo">SEO</a></li>
+            <li><a href="#fazit">Fazit</a></li>
+          </ul>
+        </li>
+        <li><a href="#sichtbar-werden-durch-on-page-seo">Sichtbar werden durch On-Page SEO</a></li>
+        <li><a href="#testen-und-aktualisieren">Testen und Aktualisieren</a></li>
       </ul>
     </div>
   </div>
@@ -41,7 +38,7 @@ Bevor die Webseite veröffentlicht wird, wird noch überprüft, ob die Webseite 
 
 Um diese Eigenschaften zu “messen” wird primär das Tool Lighthouse verwendet.
 
-## Ein grober Überblick mit Lighthouse
+<h2 id="ein-grober-überblick-mit-lighthouse">Ein grober Überblick mit Lighthouse</h2>
 
 ![Lighthouse Ergebnisse](/images/lighthouse-ergebnisse.jpg)
 
@@ -62,11 +59,11 @@ Werte von 50-89% werden in orange dargestellt. Diese Werte sind gut, aber es sin
 
 Werte von 90-100% werden in grün dargestellt und sollte das Ziel sein.
 
-### Leistung oder Performance
+<h3 id="leistung-oder-performance">Leistung oder Performance</h3>
 
 In diesem Test wird die Ladegeschwindigkeit der Webseite geprüft. Die Angabe erfolgt in Sekunden [s].
 
-#### Messwerte
+<h4 id="messwerte">Messwerte</h4>
 
 ![Messwerte für die Leistung](/images/lighthouse-leistung-messwerte.png)
 
@@ -107,7 +104,7 @@ Mit diesen Methoden sollte die Webseite im grünen Bereich sein.
 
 Um auf die 100% zu kommen, benötigt man ein tieferes Verständnis zu den Messwerten. Dies ist mit einem größeren Zeitaufwand verbunden.
 
-### Barrierefreiheit oder Accessibility
+<h3 id="barrierefreiheit-oder-accessibility">Barrierefreiheit oder Accessibility</h3>
 
 Dieser Test beschreibt, wie barrierefrei eine Webseite ist. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Webseite normal bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
 
@@ -119,7 +116,7 @@ Unterschriften sollten auch als Headings (HTML-Element für Überschriften) defi
 
 Das Ziel bei diesem Test sollte 100% sein.
 
-### Best Practices
+<h3 id="best-practices">Best Practices</h3>
 
 Hier werden hauptsächlich die technischen Aspekte der Webseite getestet.
 
@@ -127,7 +124,7 @@ Zu den technischen Aspekte gehören: SSL-Zertifikat, sichere Javascript-Biblioth
 
 Auch hier sollte der Test zwischen 90% und 100% sein.
 
-### SEO
+<h3 id="seo">SEO</h3>
 
 Ein erfolgreicher Test bei diesem Kennwert gewährt kein gutes Ranking bei den Suchmaschinen. Dieser Test testet lediglich die Grundlagen vom technischen und On-Page SEO.
 
@@ -141,11 +138,11 @@ Der Alt-Text sollte daher das Bild so gut wie möglich beschreiben.
 
 Das Ziel bei diesem Test sollte 100% sein.
 
-### Fazit
+<h3 id="fazit">Fazit</h3>
 
 Beim Entwicklen Ihrer Webseite überprüfe ich die Webseite regelmäßig mit dem Lighthouse Tool. Gute Ergebnisse liefern den Grundbaustein für eine schnelle, barrierefreie und sichere Webseite.
 
-## Sichtbar werden durch On-Page SEO
+<h2 id="sichtbar-werden-durch-on-page-seo">Sichtbar werden durch On-Page SEO</h2>
 
 Für ein gutes Ranking ist natürlich auch der Inhalt relevant. Der Inhalt muss relevant für den Nutzer sein. Dadurch erkennt eine Suchmaschine, dass die Webseite von Wert ist.
 
@@ -161,7 +158,7 @@ _Short Tail vs Long Tail_
 
 Durch die Nutzung von solchen Keywords ist die Konkurrenz geringer und das Suchvolumen noch hoch genug, um Seitenaufrufe auf die Webseite zu generieren.
 
-## Testen und Aktualisieren
+<h2 id="testen-und-aktualisieren">Testen und Aktualisieren</h2>
 
 Die Suchmaschine Optimierung und das Design der Webseite ist ein konstanter Prozess. Mit einer einmaligen Inhaltserstellung kann kein gutes Ranking auf der Suchmaschine gewährleistet sein. Daher ist es wichtig die Webseite zu analysieren und diese Stück für Stück zu verbessern.
 
