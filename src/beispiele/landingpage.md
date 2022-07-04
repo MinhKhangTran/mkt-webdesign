@@ -13,7 +13,8 @@ page_cta:
       <div class="card">
         <div class="card-body">
         <h2 class="card-title">Inhaltsverzeichnis</h2>
-          <ul class="">
+        <span><a class="text-dark | btn-second" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="true" aria-controls="collapseExample">Link with href</a></span>
+          <ul class="collapse" id="collapseTOC">
           <li><a href="#was-ist-eine-landingpage">Was ist eine Landingpage</a></li>
           <li><a href="#aufbau-einer-landingpage">Aufbau einer Landingpage</a>
           <ul>
