@@ -12,6 +12,7 @@ page_cta:
 <aside class="toc">
   <div class="card">
     <div class="card-body">
+    <h2 class="card-title">Inhaltsverzeichnis</h2>
       <ul>
       <li><a href="#ein-grober-%C3%BCberblick-mit-lighthouse">Ein grober Überblick mit Lighthouse</a>
       <ul>
@@ -106,7 +107,7 @@ Mit diesen Methoden sollte die Webseite im grünen Bereich sein.
 
 Um auf die 100% zu kommen, benötigt man ein tieferes Verständnis zu den Messwerten. Dies ist mit einem größeren Zeitaufwand verbunden.
 
-## Barrierefreiheit oder Accessibility
+### Barrierefreiheit oder Accessibility
 
 Dieser Test beschreibt, wie barrierefrei eine Webseite ist. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Webseite normal bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
 

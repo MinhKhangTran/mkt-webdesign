@@ -12,11 +12,12 @@ page_cta:
 <aside class="toc">
   <div class="card">
     <div class="card-body">
+     <h2 class="card-title">Inhaltsverzeichnis</h2>
       <ul>
       <li><a href="#umsetzung-des-designs-in-code">Umsetzung des Designs in Code</a></li>
       <li><a href="#die-grundpfeiler-jeder-webseite">Die Grundpfeiler jeder Webseite</a>
       <ul>
-      <li><a href="#html-hypertext-markup-language">HTML (<strong>Hypertext Markup Language)</strong></a></li>
+      <li><a href="#html-hypertext-markup-language">HTML (Hypertext Markup Language)</a></li>
       <li><a href="#css-cascading-style-sheets">CSS (Cascading Style Sheets)</a></li>
       <li><a href="#javascript">Javascript</a></li>
       </ul>
@@ -24,7 +25,7 @@ page_cta:
       <li><a href="#statische-webseite">Statische Webseite</a>
       <ul>
       <li><a href="#seo-freundlich-schnell-und-sicher">SEO-Freundlich, schnell und sicher</a></li>
-      <li><a href="#statische-webseiten-beispiele">Statische Webseiten Beispiele:</a></li>
+      <li><a href="#statische-webseiten-beispiele">Statische Webseiten Beispiele</a></li>
       <li><a href="#f%C3%BCr-wen-eignen-sich-statische-webseiten">Für wen eignen sich statische Webseiten</a></li>
       </ul>
       </li>
@@ -33,7 +34,7 @@ page_cta:
   </div>
 </aside>
 
-## Umsetzung des Designs in Code
+<h2 id="umsetzung-des-designs-in-code">Umsetzung des Designs in Code</h2>
 
 Der Begriff Web Development kommt aus dem Englischen und lässt sich mit Web Entwicklung übersetzen. Die Entwicklung von Webseiten befasst viele Aufgabengebiete.
 
@@ -45,7 +46,7 @@ Ebenso wird darauf geachtet, dass die Syntax sauber ist. Dadurch kann gewährlei
 
 Wird eine Datenbank oder ein Server - meist in Form eines CMS (Content Management System) - verwendet, bin ich in der Lage die Daten herauszulesen und diese visuell auf der Webseite darzustellen.
 
-## Die Grundpfeiler jeder Webseite
+<h2 id="die-grundpfeiler-jeder-webseite">Die Grundpfeiler jeder Webseite</h2>
 
 Typische “Programmiersprachen” sind HTML, CSS und Javascript.
 
@@ -53,7 +54,7 @@ Typische “Programmiersprachen” sind HTML, CSS und Javascript.
 
 _Die Grundpfeiler einer Webseite_
 
-### HTML (**Hypertext Markup Language)**
+<h3 id="html-hypertext-markup-language">HTML (Hypertext Markup Language)</h3>
 
 HTML ist der Grundbaustein jeder Webseite.
 
@@ -65,17 +66,17 @@ D.h. Unterschriften sollten auch als Headings definiert werden. Viele Elemente, 
 
 Wenn es möglich ist, sollte man immer semantische HTLM5 Elemente (Semantic HTML) verwenden. Die netten Nebeneffekt sind barrierefreie Webseiten und Webseiten, die besser für die Suchmaschinen ranken (SEO).
 
-### CSS (Cascading Style Sheets)
+<h3 id="css-cascading-style-sheets">CSS (Cascading Style Sheets)</h3>
 
 Für die Optik und das Design wird zusätzlich noch CSS benötigt. Kurz gesagt ist CSS für das Styling der Website verantwortlich. Mit CSS kann man das Layout anpassen, Farbe hinzufügen, Schriftgrößen und Bilder anpassen und vieles mehr. Wenn HTML das Gerüst ist, wird CSS als Haut bezeichnet.
 
 Mit CSS lässt sich das Layout für verschiedene Bildschirmgrößen anpassen. Dadurch ist die Webseite für jedes Gerät optimiert (Responsive Webdesign).
 
-### Javascript
+<h3 id="javascript">Javascript</h3>
 
 Zusätzlich kann für die Interaktivität auf der Website die Programmiersprache Javascript (JS) benutzen werden. Javascript ist bei der Website das Gehirn und die Muskeln. Ein einfaches Beispiel wäre das Betätigen einer Navigationsleiste. Meistens gibt es bei kleineren Bildschirmen bei der Navigationsleiste einen sogenannten “Toggler”. Um diese zu öffnen, muss der Benutzer auf die Leiste drücken. Daraufhin öffnet sich dann das Menü. Diese Interaktivität lässt sich einfach mit Javascript implementieren.
 
-## Statische Webseite
+<h2 id="statische-webseite">Statische Webseite</h2>
 
 Mit diesen drei Grundpfeiler lassen sich statische Webseiten erstellen.
 
@@ -87,7 +88,7 @@ Wird eine statische Website im Browser (Chrome, Firefox oder ähnliches) aufgeru
 
 _Seitenanfrage einer Statischen Webseite_
 
-### SEO-Freundlich, schnell und sicher
+<h3 id="seo-freundlich-schnell-und-sicher">SEO-Freundlich, schnell und sicher</h3>
 
 Ein „fest" eingebetteter Inhalt ist gut für Suchmaschinen (SEO). Die Suchmaschinen, wie z.B. Google oder Bing, “crawlen” jede Seite und ordnen den Inhalt zu einem bestimmten Suchbegriff und Platzieren diese nach Relevanz in den Index (Indexierung).
 
@@ -97,7 +98,7 @@ Statische Websiten sind standardmäßig schnell und sicher. Es handelt sich dabe
 
 HTML-Dateien benötigen wenig Speicherplatz. Das Hosten statischer Webseiten ist daher einfach und günstig.
 
-### Statische Webseiten Beispiele:
+<h3 id="statische-webseiten-beispiele">Statische Webseiten Beispiele</h3>
 
 - Landing pages
 - Businesswebsiten
@@ -110,7 +111,7 @@ HTML-Dateien benötigen wenig Speicherplatz. Das Hosten statischer Webseiten ist
 
 _Statische Webseiten Beispiele_
 
-### Für wen eignen sich statische Webseiten
+<h3 id="für-wen-eignen-sich-statische-webseiten">Für wen eignen sich statische Webseiten</h3>
 
 Für den Aufbau einer Webpräsenz eignen sich statische Webseiten perfekt.
 

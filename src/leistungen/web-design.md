@@ -12,6 +12,7 @@ page_cta:
 <aside class="toc">
   <div class="card">
     <div class="card-body">
+    <h2 class="card-title">Inhaltsverzeichnis</h2>
       <ul>
       <li><a href="#fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</a>
       <ul>
@@ -27,11 +28,11 @@ page_cta:
   </div>
 </aside>
 
-## Fokus auf UI, UX und Barrierefreiheit
+<h2 id="fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</h2>
 
 Web Design beschreibt das Design einer Webseite oder einer App. Der Fokus liegt dabei auf UI (_User Interface_, dt.: Benutzerschnittstelle), UX (_User Experience_, dt.: Nutzererfahrung) und Barrierefreiheit.
 
-### UI
+<h3 id="ui">UI</h3>
 
 Die UI (_User Interface_) konzentriert sich auf die Design Elemente wie Buttons, Navigation, Footer etc. Der Web Designer oder die Web Designerin setzt diese Design Elemente puzzleartig in ein Layout ein und erstellt so schrittweise ein Design.
 
@@ -45,7 +46,7 @@ Bei den Farben bestimme ich aus einem vorhandenen Logo passende Farben. Falls ke
 
 _Design Komponenten, Schriftarten und Farben_
 
-### Barrierefreiheit
+<h3 id="barrierefreiheit">Barrierefreiheit</h3>
 
 Die Design Elemente werden auch so erstellt, dass diese stets barrierefrei sind. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Webseite normal bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
 
@@ -60,7 +61,7 @@ Einige Beispiele für mehr Barrierefreiheit im Web:
 
 _Farbkontrast und Farbliche Mitteilungen_
 
-### UX
+<h3 id="ux">UX</h3>
 
 Auf der anderen Seite konzentriert sich die UX (_User Experience_) auf die Erfahrung des Nutzers oder der Nutzerin der Webseite.
 
@@ -80,7 +81,7 @@ Verwendete Software:
 
 <img src="/images/figma.svg" class="icon" alt="figma icon">
 
-## Die Zielgruppe verstehen
+<h2 id="die-zielgruppe-verstehen">Die Zielgruppe verstehen</h2>
 
 Die Zielgruppe zu verstehen ist wichtig, da die Zielgruppe entscheidet, ob Ihre Webseite ein Erfolg oder ein Fehlschlag ist.
 
@@ -96,7 +97,7 @@ Um die richtige Zielgruppe zu kennen, erfordert es regelmäßiges Testen der Web
 
 _Persona_
 
-## Wireframing
+<h2 id="wireframing">Wireframing</h2>
 
 Im nächsten Schritt wird ein “grobes” Layout und Design erstellt, auch ein sogenanntes Wireframe. Es beinhaltet passende Schriftarten und Farben für die Webseite oder App.
 
