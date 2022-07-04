@@ -9,6 +9,33 @@ page_cta:
   cta_button: Loslegen!
 ---
 
+<aside class="toc">
+  <div class="card">
+    <div class="card-body">
+      <ul>
+      <li><a href="#ein-grober-%C3%BCberblick-mit-lighthouse">Ein grober Überblick mit Lighthouse</a>
+      <ul>
+      <li><a href="#leistung-oder-performance">Leistung oder Performance</a>
+      <ul>
+      <li><a href="#messwerte">Messwerte</a></li>
+      </ul>
+      </li>
+      </ul>
+      </li>
+      <li><a href="#barrierefreiheit-oder-accessibility">Barrierefreiheit oder Accessibility</a>
+      <ul>
+      <li><a href="#best-practices">Best Practices</a></li>
+      <li><a href="#seo">SEO</a></li>
+      <li><a href="#fazit">Fazit</a></li>
+      </ul>
+      </li>
+      <li><a href="#sichtbar-werden-durch-on-page-seo">Sichtbar werden durch On-Page SEO</a></li>
+      <li><a href="#testen-und-aktualisieren">Testen und Aktualisieren</a></li>
+      </ul>
+    </div>
+  </div>
+</aside>
+
 Bevor die Webseite veröffentlicht wird, wird noch überprüft, ob die Webseite schnell, zugänglich und sicher ist.
 
 Um diese Eigenschaften zu “messen” wird primär das Tool Lighthouse verwendet.

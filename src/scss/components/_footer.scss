@@ -2,6 +2,11 @@
 
 footer {
   padding-block: 2rem 1rem;
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
   .left__panel {
     width: 90%;
     max-width: 400px;

@@ -9,7 +9,49 @@ page_cta:
   cta_button: Loslegen!
 ---
 
-## Was ist eine Landingpage
+  <aside class="toc">
+      <div class="card">
+        <div class="card-body">
+        <h2 class="card-title">Inhaltsverzeichnis</h2>
+          <ul class="">
+          <li><a href="#was-ist-eine-landingpage">Was ist eine Landingpage</a></li>
+          <li><a href="#aufbau-einer-landingpage">Aufbau einer Landingpage</a>
+          <ul>
+          <li><a href="#above-the-fold">Above the Fold</a>
+          <ul>
+          <li><a href="#1-%C3%BCberschrift-headline-oder-title">1. Überschrift (Headline oder Title)</a></li>
+          <li><a href="#2-untertitel-subtitle">2. Untertitel (Subtitle)</a></li>
+          <li><a href="#3-cta">3. CTA</a></li>
+          <li><a href="#4-sozialer-nachweis-social-proof">4. Sozialer Nachweis (Social Proof)</a></li>
+          <li><a href="#5-bild-oder-video">5. Bild oder Video</a></li>
+          </ul>
+          </li>
+          <li><a href="#below-the-fold">Below the Fold</a>
+          <ul>
+          <li><a href="#6-eigenschaften-und-nutzen-des-produktes-features-and-benefits">6. Eigenschaften und Nutzen des Produktes (Features and benefits)</a></li>
+          <li><a href="#7-mehr-sozialer-nachweis">7. Mehr Sozialer Nachweis</a></li>
+          <li><a href="#8-h%C3%A4ufig-gestellte-fragen-faq">8. Häufig gestellte Fragen (FAQ)</a></li>
+          <li><a href="#9-der-zweite-aufruf-cta">9. Der zweite Aufruf (CTA)</a></li>
+          <li><a href="#10-%C3%BCber-mich">10. Über mich</a></li>
+          </ul>
+          </li>
+          </ul>
+          </li>
+          <li><a href="#die-psychologischen-aspekte-einer-landingpage">Die psychologischen Aspekte einer Landingpage</a>
+          <ul>
+          <li><a href="#neugier">Neugier</a></li>
+          <li><a href="#vergn%C3%BCgen-und-angst">Vergnügen und Angst</a></li>
+          <li><a href="#sozialer-nachweis">Sozialer Nachweis</a></li>
+          <li><a href="#knappheit-scarcity">Knappheit (Scarcity)</a></li>
+          </ul>
+          </li>
+          <li><a href="#fazit">Fazit</a></li>
+          </ul>
+        </div>
+      </div>
+  </aside>
+
+<h2 id="was-ist-eine-landingpage">Was ist eine Landingpage</h2>
 
 Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen. Beispiele für eine Conversion können etwa sein: der Verkaufsabschluss eines Produktes oder die Anmeldung zu einem Newsletter.
 
@@ -17,7 +59,7 @@ Landingpages sind verglichen mit "normalen" Websiten etwas spezieller. Landingpa
 
 Der Nutzer "landet" auf eine Landingpage, sobald dieser auf eine Werbung oder einen Eintrag auf einer Suchmaschine (Google, Bing, Yahoo etc.) klickt. Dabei kann es sich um eine gezielte Suche des Nutzers handeln.
 
-## Aufbau einer Landingpage
+<h2 id="aufbau-einer-landingpage">Aufbau einer Landingpage</h2>
 
 Eine Landingpage ist minimalistisch aufgebaut und alles dreht sich um das geworbene Produkt. Die Information der Landingpage soll kurz und klar rüber gebracht werden, um die Entscheidung der besuchenden Person zu beeinflussen. Dabei wir aus Ablenkungsgründen meistens sogar auf eine Navigationsleiste verzichtet.
 
@@ -27,7 +69,7 @@ Anhand eines einfachen Landingpage Beispiel, werden die immer wiederkehrende Kom
 
 Der Link zu der Landingpage: [https://landingpage-beispiel.netlify.app/](https://landingpage-beispiel.netlify.app/)
 
-### Above the Fold
+<h3 id="above-the-fold">Above the Fold</h3>
 
 Beim Betreten der Website erscheint stets der "Hero" der Seite. Der "Hero" (aus dem Englischen _hero_, deutsch: Held) ist das Wichtigste auf der Website und soll den Besucher oder den Besucherinnen dazu bringen weiterzulesen. Der "Hero" ist immer "Above the fold" und dieser sollte ohne scrollen ganz sichtbar sein. Der Begriff "Above the fold" wurde bei der Druckerei benutzt. Zeitungen werden gefaltet und das Wichtigste sollte sichtbar und nach dem Falten oben sein.
 
@@ -37,19 +79,19 @@ Wie bei Zeitungen sind die Überschriften, Untertitel und Bilder wichtig und sol
 
 _Above the Fold_
 
-#### 1. Überschrift (Headline oder Title)
+<h4 id="1-überschrift-headline-oder-title">1. Überschrift (Headline oder Title)</h4>
 
 Die Überschrift soll fesselnd sein und die besuchende Person neugierig machen. In dem Titel muss auch klargestellt werden, welche Probleme, das Produkt lösen soll.
 
-#### 2. Untertitel (Subtitle)
+<h4 id="2-untertitel-subtitle">2. Untertitel (Subtitle)</h4>
 
 Untertitel gehen näher in das Produkt ein und verstärken kurz und bündig die Aussagen aus der Überschrift.
 
-#### 3. CTA
+<h4 id="3-cta">3. CTA</h4>
 
 Als einer der wichtigsten Komponente ist der CTA-Aufruf. CTA bedeutet "call-to-action" und soll den Besucher oder die Besucherin _zu einer bestimmten Handlung bewegen_. Nachdem der Besucher oder die Besucherin neugierig die Überschrift und den Untertitel gelesen hat, will diese Person wissen, was der nächste Schritt ist. An dieser Stelle kommt der CTA. Es handelt sich meistens um einen Button (Knopf) mit einem Aufruf. Beispiele für einen Aufruf könnte sein: "Starte jetzt" oder "Jetzt Anmelden".
 
-#### 4. Sozialer Nachweis (Social Proof)
+<h4 id="4-sozialer-nachweis-social-proof">4. Sozialer Nachweis (Social Proof)</h4>
 
 Mit Hilfe eines sozialen Nachweises wird für das Produkt Vertrauen und Glaubwürdigkeit geweckt. Es zeigt der suchenden Person die (zufriedenen) Kunden des Produktes.
 

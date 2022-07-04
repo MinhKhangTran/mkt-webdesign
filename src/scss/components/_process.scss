@@ -29,6 +29,8 @@
       padding-bottom: 1rem;
     }
     .bulletpoints {
+      padding: 0;
+      margin: 0;
       li:not(:first-child) {
         padding-top: 0.5rem;
         @include md {

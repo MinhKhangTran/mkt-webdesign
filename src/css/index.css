@@ -11211,12 +11211,6 @@ select {
   font: inherit;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
 .heading-1 {
   font-size: 2.25rem;
   font-weight: 700;
@@ -11670,7 +11664,6 @@ nav ul a[data-state=active], nav ul a[aria-current=page] {
   height: auto;
 }
 #project__item ul {
-  list-style: disc;
   font-size: 1rem;
   line-height: 150%;
 }
@@ -11678,6 +11671,15 @@ nav ul a[data-state=active], nav ul a[aria-current=page] {
   #project__item ul {
     font-size: 1.125rem;
   }
+}
+#project__item .toc {
+  margin-block: 1rem;
+}
+#project__item .toc h2, #project__item .toc .h2 {
+  margin-top: 0;
+}
+#project__item .toc li {
+  margin-block: 0.5rem;
 }
 #project__item .icon {
   width: 48px;
@@ -11713,6 +11715,11 @@ nav ul a[data-state=active], nav ul a[aria-current=page] {
 
 footer {
   padding-block: 2rem 1rem;
+}
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 footer .left__panel {
   width: 90%;
@@ -11817,6 +11824,10 @@ footer .copyright {
 }
 #process .left__panel h3, #process .left__panel .h3 {
   padding-bottom: 1rem;
+}
+#process .left__panel .bulletpoints {
+  padding: 0;
+  margin: 0;
 }
 #process .left__panel .bulletpoints li:not(:first-child) {
   padding-top: 0.5rem;

@@ -9,6 +9,24 @@ page_cta:
   cta_button: Loslegen!
 ---
 
+<aside class="toc">
+  <div class="card">
+    <div class="card-body">
+      <ul>
+      <li><a href="#fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</a>
+      <ul>
+      <li><a href="#ui">UI</a></li>
+      <li><a href="#barrierefreiheit">Barrierefreiheit</a></li>
+      <li><a href="#ux">UX</a></li>
+      </ul>
+      </li>
+      <li><a href="#die-zielgruppe-verstehen">Die Zielgruppe verstehen</a></li>
+      <li><a href="#wireframing">Wireframing</a></li>
+      </ul>
+    </div>
+  </div>
+</aside>
+
 ## Fokus auf UI, UX und Barrierefreiheit
 
 Web Design beschreibt das Design einer Webseite oder einer App. Der Fokus liegt dabei auf UI (_User Interface_, dt.: Benutzerschnittstelle), UX (_User Experience_, dt.: Nutzererfahrung) und Barrierefreiheit.

@@ -9,6 +9,30 @@ page_cta:
   cta_button: Loslegen!
 ---
 
+<aside class="toc">
+  <div class="card">
+    <div class="card-body">
+      <ul>
+      <li><a href="#umsetzung-des-designs-in-code">Umsetzung des Designs in Code</a></li>
+      <li><a href="#die-grundpfeiler-jeder-webseite">Die Grundpfeiler jeder Webseite</a>
+      <ul>
+      <li><a href="#html-hypertext-markup-language">HTML (<strong>Hypertext Markup Language)</strong></a></li>
+      <li><a href="#css-cascading-style-sheets">CSS (Cascading Style Sheets)</a></li>
+      <li><a href="#javascript">Javascript</a></li>
+      </ul>
+      </li>
+      <li><a href="#statische-webseite">Statische Webseite</a>
+      <ul>
+      <li><a href="#seo-freundlich-schnell-und-sicher">SEO-Freundlich, schnell und sicher</a></li>
+      <li><a href="#statische-webseiten-beispiele">Statische Webseiten Beispiele:</a></li>
+      <li><a href="#f%C3%BCr-wen-eignen-sich-statische-webseiten">Für wen eignen sich statische Webseiten</a></li>
+      </ul>
+      </li>
+      </ul>
+    </div>
+  </div>
+</aside>
+
 ## Umsetzung des Designs in Code
 
 Der Begriff Web Development kommt aus dem Englischen und lässt sich mit Web Entwicklung übersetzen. Die Entwicklung von Webseiten befasst viele Aufgabengebiete.
