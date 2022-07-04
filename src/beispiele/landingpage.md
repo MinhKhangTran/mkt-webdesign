@@ -12,7 +12,7 @@ page_cta:
   <aside class="toc">
       <div class="card">
         <div class="card-body">
-        <h2><a class="" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="true" aria-controls="collapseExample">Inhaltsverzeichnis 
+        <h2><a class="" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="true" aria-controls="collapseTOC">Inhaltsverzeichnis 
         <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="24" height="24" fill="currentColor" class="bi bi-chevron-expand" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3.646 9.146a.5.5 0 0 1 .708 0L8 12.793l3.646-3.647a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 0-.708zm0-2.292a.5.5 0 0 0 .708 0L8 3.207l3.646 3.647a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 0 0 0 .708z"/></svg></a></h2>
           <ul class="collapse show" id="collapseTOC">
           <li><a href="#was-ist-eine-landingpage">Was ist eine Landingpage</a></li>

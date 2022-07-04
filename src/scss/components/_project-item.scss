@@ -25,11 +25,13 @@
   }
   h4 {
     margin-top: 1.5rem;
-    color: $primary;
+    
     font-size: math.div(18rem, 16);
     font-weight: 700;
+    color:#98654c;
     @include md {
       font-size: math.div(20rem, 16);
+      color: $primary;
     }
   }
   p {
