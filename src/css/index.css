@@ -11640,13 +11640,14 @@ nav ul a[data-state=active], nav ul a[aria-current=page] {
 }
 #project__item h4, #project__item .h4 {
   margin-top: 1.5rem;
-  color: #a97155;
   font-size: 1.125rem;
   font-weight: 700;
+  color: #98654c;
 }
 @media (min-width: 768px) {
   #project__item h4, #project__item .h4 {
     font-size: 1.25rem;
+    color: #a97155;
   }
 }
 #project__item p {
@@ -12037,4 +12038,19 @@ footer .copyright {
 }
 #contact a:hover {
   color: #a97155 !important;
+}
+
+.up.show {
+  visibility: visible;
+}
+
+.up {
+  padding: 0.5rem;
+  position: fixed;
+  right: 0;
+  bottom: 4%;
+  background-color: hsla(20deg, 33%, 50%, 0.5);
+  border-radius: 4px;
+  visibility: hidden;
+  z-index: 99;
 }
