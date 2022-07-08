@@ -132,7 +132,7 @@ _Häufig gestellte Fragen (FAQ)_
 
 <h4 id="9-der-zweite-aufruf-cta">9. Der zweite Aufruf (CTA)</h4>
 
-Falls der Besucher oder die Besucherin **bis hier gescrollt hat*,*
+Falls der Besucher oder die Besucherin bis hier gescrollt hat,
 dann Glückwunsch. Der Besucher oder die Besucherin **braucht wieder Anweisungen für die nächste Handlung. An dieser Stelle muss es einen weiteren CTA-Aufruf geben.
 
 ![CTA](/images/cta.jpg)
