@@ -1,5 +1,5 @@
 ---
-title: "Landingpage"
+title: "Landingpage | MKT Webdesign"
 description: Eine Landingpage hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben.
 img: /images/landingpage-thumbnail.jpg
 altImg: "Landingpage Hauptbild"

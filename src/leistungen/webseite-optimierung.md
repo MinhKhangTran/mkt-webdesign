@@ -1,5 +1,5 @@
 ---
-title: "Webseite Optimierung"
+title: "Webseite Optimierung | MKT Webdesign"
 description: Mit der Optimierung erhöht sich die Performance und die Sichtbarkeit der Website
 img: /images/webseite-optimierung.jpg
 altImg: "Optimierungen Hauptbild"
