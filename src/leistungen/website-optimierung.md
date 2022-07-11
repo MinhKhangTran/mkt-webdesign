@@ -1,7 +1,8 @@
 ---
-title: "Webseite Optimierung | MKT Webdesign"
+title: "Website Optimierung | MKT Webdesign"
+pageTitle: Website Optimierung
 description: Mit der Optimierung erhöht sich die Performance und die Sichtbarkeit der Website
-img: /images/webseite-optimierung.jpg
+img: /images/website-optimierung.jpg
 altImg: "Optimierungen Hauptbild"
 page_cta:
   cta_heading: Bessern Sie Ihre Webpräsenz auf!
@@ -35,7 +36,7 @@ page_cta:
   </div>
 </aside>
 
-Bevor die Webseite veröffentlicht wird, wird noch überprüft, ob die Webseite schnell, zugänglich und sicher ist.
+Bevor die Website veröffentlicht wird, wird noch überprüft, ob die Website schnell, zugänglich und sicher ist.
 
 Um diese Eigenschaften zu “messen” wird primär das Tool Lighthouse verwendet.
 
@@ -45,7 +46,7 @@ Um diese Eigenschaften zu “messen” wird primär das Tool Lighthouse verwende
 
 _Lighthouse Ergebnisse_
 
-Lighthouse ist ein automatisiertes Tool von Google mit dem man die Qualität von Webseiten überprüfen kann. Die wichtigsten Kenngrößen sind dabei:
+Lighthouse ist ein automatisiertes Tool von Google mit dem man die Qualität von Websites überprüfen kann. Die wichtigsten Kenngrößen sind dabei:
 
 - Leistung/Performance
 - Barrierefreiheit/Accessibility
@@ -62,7 +63,7 @@ Werte von 90-100% werden in grün dargestellt und sollte das Ziel sein.
 
 <h3 id="leistung-oder-performance">Leistung oder Performance</h3>
 
-In diesem Test wird die Ladegeschwindigkeit der Webseite geprüft. Die Angabe erfolgt in Sekunden [s].
+In diesem Test wird die Ladegeschwindigkeit der Website geprüft. Die Angabe erfolgt in Sekunden [s].
 
 <h4 id="messwerte">Messwerte</h4>
 
@@ -76,7 +77,7 @@ _Messwerte für die Leistung_
 
 - **Speed Index**
 
-  Der Speed Index beschreibt die Zeit, die benötigt, um den Inhalt der Webseite visuelle darzustellen. Die Gewichtung für das Endresultat liegt bei 10%.
+  Der Speed Index beschreibt die Zeit, die benötigt, um den Inhalt der Website visuelle darzustellen. Die Gewichtung für das Endresultat liegt bei 10%.
 
 - **Largest Contentful Paint (LCP)**
 
@@ -84,7 +85,7 @@ _Messwerte für die Leistung_
 
 - **Time to Interactive (TTI)**
 
-  TTI misst die Zeit, ab wann die Webseite vollständig interagierbar ist. Die Gewichtung für das Endresultat liegt bei 10%.
+  TTI misst die Zeit, ab wann die Website vollständig interagierbar ist. Die Gewichtung für das Endresultat liegt bei 10%.
 
 - **Total Blocking Time (TBT)**
 
@@ -92,26 +93,26 @@ _Messwerte für die Leistung_
 
 - **Cumulative Layout Shift (CLS)**
 
-  CLS beschreibt die Bewegungen von Elementen innerhalb der Webseite. Die Gewichtung für das Endresultat liegt bei 15%.
+  CLS beschreibt die Bewegungen von Elementen innerhalb der Website. Die Gewichtung für das Endresultat liegt bei 15%.
 
 ---
 
-Um die Performance der Webseite zu verbessern gibt es einige gängige Methoden. Diese Methoden bringen meistens den größten Effekt:
+Um die Performance der Website zu verbessern gibt es einige gängige Methoden. Diese Methoden bringen meistens den größten Effekt:
 
 - Bilder komprimieren und/oder Bilder in neuen Formaten umwandeln (WebP und AVIF)
 - Unnötiges Javascript und CSS reduzieren
 
-Mit diesen Methoden sollte die Webseite im grünen Bereich sein.
+Mit diesen Methoden sollte die Website im grünen Bereich sein.
 
 Um auf die 100% zu kommen, benötigt man ein tieferes Verständnis zu den Messwerten. Dies ist mit einem größeren Zeitaufwand verbunden.
 
 <h3 id="barrierefreiheit-oder-accessibility">Barrierefreiheit oder Accessibility</h3>
 
-Dieser Test beschreibt, wie barrierefrei eine Webseite ist. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Webseite normal bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
+Dieser Test beschreibt, wie barrierefrei eine Website ist. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Website normal bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
 
-Es wird untersucht, ob der Farbkontrast zwischen dem Text und dem Hintergrund groß genug ist, um die Lesbarkeit zu gewähren. Die Webseite muss ohne Maus navigierbar sein.
+Es wird untersucht, ob der Farbkontrast zwischen dem Text und dem Hintergrund groß genug ist, um die Lesbarkeit zu gewähren. Die Website muss ohne Maus navigierbar sein.
 
-Bilder sollten mit einem Alt-Text versehen sein. Dieser Text hilft Menschen mit Sehbehinderungen. Solche Menschen navigieren die Webseite mit einem Screenreader. Screenreader lesen den Alt-Text vor, da diese Programme keine Bilder sehen können. Der Alt-Text sollte daher das Bild gut genug beschreiben.
+Bilder sollten mit einem Alt-Text versehen sein. Dieser Text hilft Menschen mit Sehbehinderungen. Solche Menschen navigieren die Website mit einem Screenreader. Screenreader lesen den Alt-Text vor, da diese Programme keine Bilder sehen können. Der Alt-Text sollte daher das Bild gut genug beschreiben.
 
 Unterschriften sollten auch als Headings (HTML-Element für Überschriften) definiert werden. Viele Elemente, wie Button, Navigationen, Footer oder Formen besitzen passende HTML Elemente. Bei dem Test wird darauf geachtet, dass die richtigen HTML Elemente verwendet wurden.
 
@@ -119,7 +120,7 @@ Das Ziel bei diesem Test sollte 100% sein.
 
 <h3 id="best-practices">Best Practices</h3>
 
-Hier werden hauptsächlich die technischen Aspekte der Webseite getestet.
+Hier werden hauptsächlich die technischen Aspekte der Website getestet.
 
 Zu den technischen Aspekte gehören: SSL-Zertifikat, sichere Javascript-Bibliotheken, keine Fehler im Browser etc.
 
@@ -129,11 +130,11 @@ Auch hier sollte der Test zwischen 90% und 100% sein.
 
 Ein erfolgreicher Test bei diesem Kennwert gewährt kein gutes Ranking bei den Suchmaschinen. Dieser Test testet lediglich die Grundlagen vom technischen und On-Page SEO.
 
-Es wird geprüft, ob ein Meta-Titel und eine Meta-Beschreibung vorhanden sind. Meta-Title und Meta-Beschreibung erscheinen auf der Suchmaschine und geben den Nutzer nähere Informationen zu der Webseite.
+Es wird geprüft, ob ein Meta-Titel und eine Meta-Beschreibung vorhanden sind. Meta-Title und Meta-Beschreibung erscheinen auf der Suchmaschine und geben den Nutzer nähere Informationen zu der Website.
 
-Zudem wird überprüft, ob alle Links einen beschriebenen Text haben und gecrawlt werden können. Suchmaschinen navigieren durch eine Webseite durch die Links auf der Webseite (Crawling). Durch eine Beschreibung des Linkes wird der Inhalt besser verstanden.
+Zudem wird überprüft, ob alle Links einen beschriebenen Text haben und gecrawlt werden können. Suchmaschinen navigieren durch eine Website durch die Links auf der Website (Crawling). Durch eine Beschreibung des Linkes wird der Inhalt besser verstanden.
 
-Ebenfalls wichtig sind die Alt-Texte bei den Bilder. Alt-Texte sind nicht nur gut für die Barrierefreiheit, sondern auch für die Suchmaschinen. Suchmaschinen sind lediglich Bots, die durch die Webseiten crawlen. Die sind noch nicht in der Lage Bilder zu erkennen, daher verwenden sie die Alt-Text, um die Bilder zu “verstehen”.
+Ebenfalls wichtig sind die Alt-Texte bei den Bilder. Alt-Texte sind nicht nur gut für die Barrierefreiheit, sondern auch für die Suchmaschinen. Suchmaschinen sind lediglich Bots, die durch die Websites crawlen. Die sind noch nicht in der Lage Bilder zu erkennen, daher verwenden sie die Alt-Text, um die Bilder zu “verstehen”.
 
 Der Alt-Text sollte daher das Bild so gut wie möglich beschreiben.
 
@@ -141,11 +142,11 @@ Das Ziel bei diesem Test sollte 100% sein.
 
 <h3 id="fazit">Fazit</h3>
 
-Beim Entwicklen Ihrer Webseite überprüfe ich die Webseite regelmäßig mit dem Lighthouse Tool. Gute Ergebnisse liefern den Grundbaustein für eine schnelle, barrierefreie und sichere Webseite.
+Beim Entwicklen Ihrer Website überprüfe ich die Website regelmäßig mit dem Lighthouse Tool. Gute Ergebnisse liefern den Grundbaustein für eine schnelle, barrierefreie und sichere Website.
 
 <h2 id="sichtbar-werden-durch-on-page-seo">Sichtbar werden durch On-Page SEO</h2>
 
-Für ein gutes Ranking ist natürlich auch der Inhalt relevant. Der Inhalt muss relevant für den Nutzer sein. Dadurch erkennt eine Suchmaschine, dass die Webseite von Wert ist.
+Für ein gutes Ranking ist natürlich auch der Inhalt relevant. Der Inhalt muss relevant für den Nutzer sein. Dadurch erkennt eine Suchmaschine, dass die Website von Wert ist.
 
 Passende Keywords werden untersucht und in den Texten eingepflegt.
 
@@ -157,19 +158,19 @@ Abnehmen (Short-Tail) ⇒ Abnehmen am Bauch Übungen für Frauen (Long-Tail)
 
 _Short Tail vs Long Tail_
 
-Durch die Nutzung von solchen Keywords ist die Konkurrenz geringer und das Suchvolumen noch hoch genug, um Seitenaufrufe auf die Webseite zu generieren.
+Durch die Nutzung von solchen Keywords ist die Konkurrenz geringer und das Suchvolumen noch hoch genug, um Seitenaufrufe auf die Website zu generieren.
 
 <h2 id="testen-und-aktualisieren">Testen und Aktualisieren</h2>
 
-Die Suchmaschine Optimierung und das Design der Webseite ist ein konstanter Prozess. Mit einer einmaligen Inhaltserstellung kann kein gutes Ranking auf der Suchmaschine gewährleistet sein. Daher ist es wichtig die Webseite zu analysieren und diese Stück für Stück zu verbessern.
+Die Suchmaschine Optimierung und das Design der Website ist ein konstanter Prozess. Mit einer einmaligen Inhaltserstellung kann kein gutes Ranking auf der Suchmaschine gewährleistet sein. Daher ist es wichtig die Website zu analysieren und diese Stück für Stück zu verbessern.
 
-Für die Analyse wird Google Analytics verwendet. Dort ist sichtbar, wieviele Besucher oder Besucherinnen die Webseite innerhalb eines Zeitraumes hat.
+Für die Analyse wird Google Analytics verwendet. Dort ist sichtbar, wieviele Besucher oder Besucherinnen die Website innerhalb eines Zeitraumes hat.
 
-Es wird analysiert, wie lang die Besucher auf der Webseite waren und wieviele davon zu Kunden wurden (Conversionsrate). Es können noch viele weitere Faktoren untersucht werden.
+Es wird analysiert, wie lang die Besucher auf der Website waren und wieviele davon zu Kunden wurden (Conversionsrate). Es können noch viele weitere Faktoren untersucht werden.
 
 Natürlich werden auch die Inhalte analysiert und angepasst.
 
-Wie beim Design entscheidet der Nutzer, ob die Webseite ein Erfolg oder ein Fehlschlag ist. Den Nutzer oder die Nutzerin so gut wie möglich zu verstehen, lässt sich “nur” durch Testen und Aktualisieren der Webseite ermöglichen.
+Wie beim Design entscheidet der Nutzer, ob die Website ein Erfolg oder ein Fehlschlag ist. Den Nutzer oder die Nutzerin so gut wie möglich zu verstehen, lässt sich “nur” durch Testen und Aktualisieren der Website ermöglichen.
 
 ![Design und Test Kreislauf](/images/design-und-test-Loop.jpg)
 

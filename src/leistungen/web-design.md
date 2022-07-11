@@ -1,11 +1,12 @@
 ---
 title: "Web Design | MKT Webdesign"
-description: Web Design beschreibt das Design einer Webseite oder einer App. Der Fokus liegt dabei auf UI, UX und Barrierefreiheit
+pageTitle: Web Design
+description: Web Design beschreibt das Design einer Website oder einer App. Der Fokus liegt dabei auf UI, UX und Barrierefreiheit
 img: /images/web-design.jpg
 altImg: "Web Design Hauptbild"
 page_cta:
-  cta_heading: Bessern Sie Ihre Webpräsenz auf!
-  cta_sub: Jetzt ein Angebot einholen!
+  cta_heading: Lassen Sie Ihre Website jetzt erstellen!
+  cta_sub: Jetzt ein Angebot einholen.
   cta_button: Loslegen!
 ---
 
@@ -15,84 +16,39 @@ page_cta:
             <h2><a class="" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="true" aria-controls="collapseTOC">Inhaltsverzeichnis 
         <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="24" height="24" fill="currentColor" class="bi bi-chevron-expand" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3.646 9.146a.5.5 0 0 1 .708 0L8 12.793l3.646-3.647a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 0-.708zm0-2.292a.5.5 0 0 0 .708 0L8 3.207l3.646 3.647a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 0 0 0 .708z"/></svg></a></h2>
       <ul class="collapse show" id="collapseTOC">
-      <li><a href="#fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</a>
+      <li><a href="#die-ziele-und-die-zielgruppe-verstehen">Die Ziele und Zielgruppe verstehen</a></li>
+      <li><a href="#wireframing">Wireframing</a></li>
+        <li><a href="#fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</a>
       <ul>
       <li><a href="#ui">UI</a></li>
       <li><a href="#barrierefreiheit">Barrierefreiheit</a></li>
       <li><a href="#ux">UX</a></li>
       </ul>
       </li>
-      <li><a href="#die-zielgruppe-verstehen">Die Zielgruppe verstehen</a></li>
-      <li><a href="#wireframing">Wireframing</a></li>
       </ul>
     </div>
   </div>
 </aside>
 
-<h2 id="fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</h2>
+<h2 id="die-ziele-und-die-zielgruppe-verstehen">Die Ziele und die Zielgruppe verstehen</h2>
 
-Web Design beschreibt das Design einer Webseite oder einer App. Der Fokus liegt dabei auf UI (_User Interface_, dt.: Benutzerschnittstelle), UX (_User Experience_, dt.: Nutzererfahrung) und Barrierefreiheit.
+Jede Website hat einen Ziel.
 
-<h3 id="ui">UI</h3>
+Dieser Ziel kann für jedes Unternehmen unterschiedlich sein. Sei es den Besucher oder die Besucherin zu informieren, die besuchende Person in einen Kunden oder einer Kundin umzuwandeln oder eine Anmeldung für einen Newsletter.
 
-Die UI (_User Interface_) konzentriert sich auf die Design Elemente wie Buttons, Navigation, Footer etc. Der Web Designer oder die Web Designerin setzt diese Design Elemente puzzleartig in ein Layout ein und erstellt so schrittweise ein Design.
+Die Website ist dann abhängig vom Ziel und wird dementsprechend so gestaltet.
 
-Ebenso habe ich ein geschultes Auge für Schriftarten und Farben und werden für die Webseite passend eingesetzt.
-
-Es werden für die verschiedenen Überschriften und den normalen Text passende Schriftgrößen erstellt. Die Schriften sind zudem auch so gewählt, dass diese auf dem mobilen Endgerät nicht zu groß oder zu klein sind.
-
-Bei den Farben bestimme ich aus einem vorhandenen Logo passende Farben. Falls kein Logo besteht, berücksichtige ich Ihre Farbwahl. Aus der Hauptfarbe erstelle ich dann passende sekundär Farben und genügend Grautöne um die Webseite schön zu gestalten.
-
-![Design Komponenten, Schriftarten und Farben](/images/ui-design-elemente.jpg)
-
-_Design Komponenten, Schriftarten und Farben_
-
-<h3 id="barrierefreiheit">Barrierefreiheit</h3>
-
-Die Design Elemente werden auch so erstellt, dass diese stets barrierefrei sind. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Webseite normal bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
-
-Einige Beispiele für mehr Barrierefreiheit im Web:
-
-- Leserlicher Schrift, betrifft die Schriftart, den Farbkontrast zwischen Text + Hintergrund und den Inhalt
-- Reduzierung der Animationen. Für einige Personen wirken Animationen störend
-- Farbliche Mitteilungen, wie Warnungen sollen zusätzlich noch eindeutig beschriftet werden
-- Ein Bild sollte kein Text ersetzen. Menschen mit Sehbehinderung sehen die Bilder schlecht oder gar nicht. Ein Screenreader ist nur in der Lage den Text vorzulesen.
-
-![Farbkontrast und Farbliche Mitteilungen](/images/barrierefreiheit_beispiele.jpg)
-
-_Farbkontrast und Farbliche Mitteilungen_
-
-<h3 id="ux">UX</h3>
-
-Auf der anderen Seite konzentriert sich die UX (_User Experience_) auf die Erfahrung des Nutzers oder der Nutzerin der Webseite.
-
-Sind die Design Elemente für den Nutzer oder die Nutzerinnen verständlich? Sehen die Buttons aus wie Buttons?
-
-Dabei werden immer wiederkehrende Muster verwendet, die der Nutzer oder die Nutzerin aus anderen Webseiten oder Apps kennt.
-
-Ein bekanntes Beispiel ist der “Toggler” bei einer Navigation auf der rechten Seite. Der Nutzer oder die Nutzerin weißt sofort, dass beim Klicken dieses Elementes eine Navigationsleiste aufgeht.
-
-![Toggler Beispiel](/images/navigationsbeispiel-mit-toggler.jpg)
-
-_Toggler Beispiel_
-
-Wenn der Nutzer oder die Nutzerin der Webseite sich auf der Webseite oder mit der App wohl fühlt, dann kann man von einem guten Design sprechen. Denn die nutzende Person entscheidet, ob ein Design am Ende gut oder schlecht ist. Als Web Designer muss ich mich daher in die Zielgruppe versetzten können, um ein passendes Design zu erstellen.
-
-Verwendete Software:
-
-<img src="/images/figma.svg" class="icon" alt="figma icon">
-
-<h2 id="die-zielgruppe-verstehen">Die Zielgruppe verstehen</h2>
-
-Die Zielgruppe zu verstehen ist wichtig, da die Zielgruppe entscheidet, ob Ihre Webseite ein Erfolg oder ein Fehlschlag ist.
+Ebenso ist es wichtig die Zielgruppe zu verstehen, da die Zielgruppe entscheidet, ob Ihre Website ein Erfolg oder ein Fehlschlag ist.
 
 Daher ist es wichtig, dass ich vor dem designen, die Zielgruppe kennen muss. Daher ist ein Dialog mit Ihnen immer wichtig. Sie kennen Ihre Zielgruppe am besten und wissen was deren Beweggründe sind.
 
 Zusätzlich untersuche ich ebenfalls die Zielgruppe und erstelle ein sogenanntes Persona. Personas sind fiktive Personen, die die Zielgruppe so gut wie möglich repräsentieren sollen. Mit Personas kann man “Rollenspiel”-artig die Probleme und die Ziele der Zielgruppe herausfinden.
 
+Ist z.B. die Zielgruppe eher Kinder oder Jugendliche, sollte das Design der Website eher spielerisch sein und mit vielen Illustrationen geschmückt sein.
+
 Ein weiterer Schritt für ein gutes Web Design ist die Untersuchung der Konkurrenz. Das Design der Konkurrenz gibt Preis, welche Design Elemente gut ankommen und was verbessert werden kann. Das Ziel für mich ist es, ein besseres Design zu erstellen als die Konkurrenz. Dabei ist nicht nur das Aussehen, sondern auch wie man die Zielgruppe am besten helfen kann, gemeint.
 
-Um die richtige Zielgruppe zu kennen, erfordert es regelmäßiges Testen der Webseite. Die finale Webseite wird analysiert und bestimmte Elemente werden angepasst oder erneuert. Dazu gehört z.B. das Ändern der Farben, des Textes oder der Schriftarten. Durch regelmäßige Analysen kann dann herausgefunden werden, ob diese Änderungen positiv oder negativ ist.
+Um die richtige Zielgruppe zu kennen, erfordert es regelmäßiges Testen der Website. Die finale Website wird analysiert und bestimmte Elemente werden angepasst oder erneuert. Dazu gehört z.B. das Ändern der Farben, des Textes oder der Schriftarten. Durch regelmäßige Analysen kann dann herausgefunden werden, ob diese Änderungen positiv oder negativ ist.
 
 ![Persona](/images/persona-beispiel.jpg)
 
@@ -100,7 +56,7 @@ _Persona_
 
 <h2 id="wireframing">Wireframing</h2>
 
-Im nächsten Schritt wird ein “grobes” Layout und Design erstellt, auch ein sogenanntes Wireframe. Es beinhaltet passende Schriftarten und Farben für die Webseite oder App.
+Im nächsten Schritt wird ein “grobes” Layout und Design erstellt, auch ein sogenanntes Wireframe. Es beinhaltet passende Schriftarten und Farben für die Website oder App.
 
 Nach und Nach wird das Wireframe immer detaillierter und es werden Bilder oder Illustrationen eingesetzt.
 
@@ -116,6 +72,59 @@ _Wireframe für die gängisten Größen (Desktop, Tablet, Handy)_
 
 Dieser Prozess ist wichtig und erfolgt stets unter Absprache mit Ihnen.
 
-Am Ende des Wireframings kann auch ein sogenanntes Prototyping verwendet werden. Das Design wird interaktiv gestaltet. Das Design ist dann fast wie die echte Webseite. Wenn der Auftraggeber auf einen Link in der Navigationsleiste klickt, wird dieser auf eine andere Seite geleitet. Auch Animationen können dargestellt werden.
+Am Ende des Wireframings kann auch ein sogenanntes Prototyping verwendet werden. Das Design wird interaktiv gestaltet. Das Design ist dann fast wie die echte Website. Wenn der Auftraggeber auf einen Link in der Navigationsleiste klickt, wird dieser auf eine andere Seite geleitet. Auch Animationen können dargestellt werden.
 
-Somit weiß der Auftraggeber, wie die endgültige Webseite sich verhält.
+Somit wissen Sie, wie sich die endgültige Website verhält.
+
+<h2 id="fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</h2>
+
+Web Design beschreibt das Design einer Website oder einer App. Der Fokus liegt dabei auf UI (_User Interface_, dt.: Benutzerschnittstelle), UX (_User Experience_, dt.: Nutzererfahrung) und Barrierefreiheit.
+
+<h3 id="ui">UI</h3>
+
+Die UI (_User Interface_) konzentriert sich auf die Design Elemente wie Buttons, Navigation, Footer etc. Der Web Designer oder die Web Designerin setzt diese Design Elemente puzzleartig in ein Layout ein und erstellt so schrittweise ein Design.
+
+Ebenso habe ich ein geschultes Auge für Schriftarten und Farben und werden für die Website passend eingesetzt.
+
+Es werden für die verschiedenen Überschriften und den normalen Text passende Schriftgrößen erstellt. Die Schriften sind zudem auch so gewählt, dass diese auf dem mobilen Endgerät nicht zu groß oder zu klein sind.
+
+Bei den Farben bestimme ich aus einem vorhandenen Logo passende Farben. Falls kein Logo besteht, berücksichtige ich Ihre Farbwahl. Aus der Hauptfarbe erstelle ich dann passende sekundär Farben und genügend Grautöne um die Website schön zu gestalten.
+
+![Design Komponenten, Schriftarten und Farben](/images/ui-design-elemente.jpg)
+
+_Design Komponenten, Schriftarten und Farben_
+
+<h3 id="barrierefreiheit">Barrierefreiheit</h3>
+
+Die Design Elemente werden auch so erstellt, dass diese stets barrierefrei sind. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Website normal bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
+
+Einige Beispiele für mehr Barrierefreiheit im Web:
+
+- Leserlicher Schrift, betrifft die Schriftart, den Farbkontrast zwischen Text + Hintergrund und den Inhalt
+- Reduzierung der Animationen. Für einige Personen wirken Animationen störend
+- Farbliche Mitteilungen, wie Warnungen sollen zusätzlich noch eindeutig beschriftet werden
+- Ein Bild sollte kein Text ersetzen. Menschen mit Sehbehinderung sehen die Bilder schlecht oder gar nicht. Ein Screenreader ist nur in der Lage den Text vorzulesen.
+
+![Farbkontrast und Farbliche Mitteilungen](/images/barrierefreiheit_beispiele.jpg)
+
+_Farbkontrast und Farbliche Mitteilungen_
+
+<h3 id="ux">UX</h3>
+
+Auf der anderen Seite konzentriert sich die UX (_User Experience_) auf die Erfahrung des Nutzers oder der Nutzerin der Website.
+
+Sind die Design Elemente für den Nutzer oder die Nutzerinnen verständlich? Sehen die Buttons aus wie Buttons?
+
+Dabei werden immer wiederkehrende Muster verwendet, die der Nutzer oder die Nutzerin aus anderen Websites oder Apps kennt.
+
+Ein bekanntes Beispiel ist der “Toggler” bei einer Navigation auf der rechten Seite. Der Nutzer oder die Nutzerin weißt sofort, dass beim Klicken dieses Elementes eine Navigationsleiste aufgeht.
+
+![Toggler Beispiel](/images/navigationsbeispiel-mit-toggler.jpg)
+
+_Toggler Beispiel_
+
+Wenn der Nutzer oder die Nutzerin der Website sich auf der Website oder mit der App wohl fühlt, dann kann man von einem guten Design sprechen. Denn die nutzende Person entscheidet, ob ein Design am Ende gut oder schlecht ist. Als Web Designer muss ich mich daher in die Zielgruppe versetzten können, um ein passendes Design zu erstellen.
+
+Verwendete Software:
+
+<img src="/images/figma.svg" class="icon" alt="figma icon">

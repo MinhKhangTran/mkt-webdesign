@@ -16,7 +16,7 @@
           "bulletpoint": "Von Anfang an liegt der Fokus bei mir auf UX/UI, Conversion und Barrierefreiheit"
         }
       ],
-      "button_text": "Web Design",
+      "button_text": "Mehr über Web Design",
       "href": "/leistungen/web-design"
     },
     {
@@ -30,10 +30,10 @@
           "bulletpoint": "Entwicklung von statischen Websites mit den neuesten Technologien"
         },
         {
-          "bulletpoint": "Fokus auf die Geschwindigkeit und Stabilität der Webseite"
+          "bulletpoint": "Fokus auf die Geschwindigkeit und Stabilität der Website"
         }
       ],
-      "button_text": "Web Development",
+      "button_text": "Mehr über Web Development",
       "href": "/leistungen/web-development"
     },
     {
@@ -44,14 +44,14 @@
           "bulletpoint": "Optimierung der Performance, Zugänglichkeit und Sicherheit"
         },
         {
-          "bulletpoint": "Standard On-Page SEO für optimales Crawling der Webseite"
+          "bulletpoint": "Standard On-Page SEO für optimales Crawling der Website"
         },
         {
-          "bulletpoint": "Analyse und Verbesserung der Webseite"
+          "bulletpoint": "Analyse und Verbesserung der Website"
         }
       ],
-      "button_text": "Optimierung",
-      "href": "/leistungen/webseite-optimierung"
+      "button_text": "Mehr über Optimierung",
+      "href": "/leistungen/website-optimierung"
     }
   ]
 }

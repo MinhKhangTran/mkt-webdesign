@@ -3,12 +3,12 @@
     {
       "icon": "fast",
       "benefit_title": "schnell",
-      "benefit_text": "Ich verwende die neueste Technologie, um schnelle statische Websites zu erstellen."
+      "benefit_text": "Kurze Ladezeiten erhöhen Ihr Ranking bei den Suchmaschinen und die Kundenzufriedenheit"
     },
     {
       "icon": "accessible",
-      "benefit_title": "zugänglich",
-      "benefit_text": "Websites sollten standardmäßig für jeden barrierefrei sein. So kann Ihre Website von allen genutzt und gesehen werden."
+      "benefit_title": "barrierefrei",
+      "benefit_text": "Jeder soll Ihre Website nutzen und genießen können"
     },
     {
       "icon": "safe",

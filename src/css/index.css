@@ -11325,7 +11325,7 @@ nav ul {
 }
 @media (min-width: 992px) {
   nav ul {
-    gap: 4rem;
+    gap: 2.5rem;
   }
 }
 nav ul a {
@@ -11334,7 +11334,7 @@ nav ul a {
 }
 @media (min-width: 768px) {
   nav ul a {
-    font-size: 1.5rem;
+    font-size: 1.375rem;
   }
 }
 nav ul a[data-state=active], nav ul a[aria-current=page] {

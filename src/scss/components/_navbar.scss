@@ -20,13 +20,13 @@ nav {
   ul {
     gap: 1rem;
     @include lg {
-      gap: math.div(64rem, 16);
+      gap: math.div(40rem, 16);
     }
     a {
       font-weight: 400;
       color: $dark;
       @include md {
-        font-size: math.div(24rem, 16);
+        font-size: math.div(22rem, 16);
       }
       &[data-state="active"],
       &[aria-current="page"] {

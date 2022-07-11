@@ -6,16 +6,18 @@
         <img
           src="{{project.data.img}}"
           class="card-img-top"
-          alt="{{project.data.title}}"
+          alt="{{project.data.pageTitle}}"
         />
         <div class="card-body">
-          <h2 class="card-title | mb-0 text-dark">{{project.data.title}}</h2>
+          <h2 class="card-title | mb-0 text-dark">
+            {{project.data.pageTitle}}
+          </h2>
           <p class="card-text | py-2 text-dark">{{project.data.description}}</p>
           <a
             href="{{project.url}}"
             class="text-dark text-decoration-underline | d-flex align-items-center gap-1"
             >Erfahren Sie mehr
-            <span class="visually-hidden">über {{project.data.title}}</span
+            <span class="visually-hidden">über {{project.data.pageTitle}}</span
             ><svg
               width="16"
               height="16"

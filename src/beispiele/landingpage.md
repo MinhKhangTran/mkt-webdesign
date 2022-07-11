@@ -1,5 +1,6 @@
 ---
 title: "Landingpage | MKT Webdesign"
+pageTitle: Landingpage
 description: Eine Landingpage hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben.
 img: /images/landingpage-thumbnail.jpg
 altImg: "Landingpage Hauptbild"
@@ -98,11 +99,11 @@ Als einer der wichtigsten Komponente ist der CTA-Aufruf. CTA bedeutet "call-to-a
 
 Mit Hilfe eines sozialen Nachweises wird für das Produkt Vertrauen und Glaubwürdigkeit geweckt. Es zeigt der suchenden Person die (zufriedenen) Kunden des Produktes.
 
-<h4 id="5-bild-oder-video">5. Bild oder Video</h4> 
+<h4 id="5-bild-oder-video">5. Bild oder Video</h4>
 
 Ein Bild sagt mehr als 1000 Wörter. Es kann auch ein kurzes Video benutzt werden. Das Bild oder das Video sollte das Produkt von der besten Seite zeigen.
 
-<h3 id="below-the-fold">Below the Fold</h3> 
+<h3 id="below-the-fold">Below the Fold</h3>
 
 Jetzt ist der Besucher oder die Besucherin neugierig und will mehr wissen. Für weitere Informationen wird daher die Landingpage gescrollt.
 
