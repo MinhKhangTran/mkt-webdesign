@@ -32,7 +32,7 @@ page_cta:
 
 <h2 id="die-ziele-und-die-zielgruppe-verstehen">Die Ziele und die Zielgruppe verstehen</h2>
 
-Jede Website hat einen Ziel.
+Jede Website hat ein Ziel.
 
 Dieser Ziel kann für jedes Unternehmen unterschiedlich sein. Sei es den Besucher oder die Besucherin zu informieren, die besuchende Person in einen Kunden oder einer Kundin umzuwandeln oder eine Anmeldung für einen Newsletter.
 
