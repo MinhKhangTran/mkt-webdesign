@@ -127,4 +127,6 @@ Wenn der Nutzer oder die Nutzerin der Website sich auf der Website oder mit der 
 
 Verwendete Software:
 
+<a href="https://www.figma.com/" rel="noopener noreferrer" target="_blank">
 <img src="/images/figma.svg" class="icon" alt="figma icon">
+</a>
