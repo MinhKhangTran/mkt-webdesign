@@ -102,10 +102,10 @@ HTML-Dateien benötigen wenig Speicherplatz. Das Hosten statischer Websites ist 
 
 <h3 id="statische-websites-beispiele">Statische Websites Beispiele</h3>
 
-- Landing pages
-- Businesswebsiten
+- <a href="/beispiele/landingpage/">Landing pages</a>
+- <a href="/beispiele/business-website/">Business Websites</a>
 - Dokumentation
-- Marketingwebsiten
+- Marketing websites
 - Blog
 - Portfolio
 
