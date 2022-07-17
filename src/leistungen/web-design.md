@@ -113,11 +113,13 @@ _Farbkontrast und Farbliche Mitteilungen_
 
 Auf der anderen Seite konzentriert sich die UX (_User Experience_) auf die Erfahrung des Nutzers oder der Nutzerin der Website.
 
-Sind die Design Elemente für den Nutzer oder die Nutzerinnen verständlich? Sehen die Buttons aus wie Buttons?
+Hier wird das Verhalten der Nutzer oder Nutzerinnen analysiert. Dazu zählt z.B., wie weit hat die besuchende Person die Website gescrollt hat und ob übliche Design Elemente für den Nutzer oder die Nutzerinnen verständlich? Sehen die Buttons aus wie Buttons?
 
 Dabei werden immer wiederkehrende Muster verwendet, die der Nutzer oder die Nutzerin aus anderen Websites oder Apps kennt.
 
 Ein bekanntes Beispiel ist der “Toggler” bei einer Navigation auf der rechten Seite. Der Nutzer oder die Nutzerin weißt sofort, dass beim Klicken dieses Elementes eine Navigationsleiste aufgeht.
+
+Das Ziel von UX ist eine intuitive Erfahrung für die besuchende Person.
 
 ![Toggler Beispiel](/images/navigationsbeispiel-mit-toggler.jpg)
 
