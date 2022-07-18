@@ -11,6 +11,15 @@ page_cta:
   cta_button: Loslegen!
 ---
 
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/beispiele">Beispiele</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{pageTitle}}</li>
+  </ol>
+</nav>
+
+<h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
+
   <aside class="toc">
       <div class="card">
         <div class="card-body">
@@ -217,3 +226,7 @@ Kombiniert mit einer geschickten Verwendung von Keywords kann man das Ranking de
 Gutes Ranking in den Suchmaschinen zieht mehr Nutzer oder Nutzerin auf die Website.
 
 Wird dies richtig durchgeführt, ist es wie eine Aufwärtsspirale für mehr Kunden oder Kundinnen.
+
+<p class="mt-5">
+<a href="/beispiele" class="text-dark | btn-second">Zurück zu den Beispielen</a>
+</p>

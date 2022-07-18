@@ -11,6 +11,15 @@ page_cta:
   cta_button: Loslegen!
 ---
 
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/leistungen">Leistungen</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{pageTitle}}</li>
+  </ol>
+</nav>
+
+<h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
+
 <aside class="toc">
   <div class="card">
     <div class="card-body">
@@ -123,3 +132,7 @@ Dennoch sollte man die Limitierungen von statischen Websites bei der Zielplanung
 Will man zum Beispiel eine Website mit einem Login oder Zugriff zu einem Server mit Datenbank, so sind statische Website nicht oder schlecht geeignet.
 
 Will man hingegen als Handwerker "nur" seine Bilder und eine kurze Beschreibung mit Anfahrt und Öffnungszeiten präsentieren, reicht eine statische Website vollkommen aus.
+
+<p class="mt-5">
+<a href="/leistungen" class="text-dark | btn-second">Zurück zu den Leistungen</a>
+</p>
