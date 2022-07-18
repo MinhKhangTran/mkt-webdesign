@@ -11,6 +11,13 @@ page_cta:
   cta_button: Loslegen!
 ---
 
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/leistungen">Leistungen</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Web Design</li>
+  </ol>
+</nav>
+
 <aside class="toc">
   <div class="card">
     <div class="card-body">
@@ -125,3 +132,7 @@ Verwendete Software:
 <a href="https://www.figma.com/" rel="noopener noreferrer" target="_blank">
 <img src="/images/figma.svg" class="icon" alt="figma icon">
 </a>
+
+<p>
+<a href="/leistungen" class="text-dark | btn-second">Zurück zu den Leistungen</a>
+</p>
