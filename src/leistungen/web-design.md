@@ -18,6 +18,8 @@ page_cta:
   </ol>
 </nav>
 
+<h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
+
 <aside class="toc">
   <div class="card">
     <div class="card-body">
@@ -133,6 +135,6 @@ Verwendete Software:
 <img src="/images/figma.svg" class="icon" alt="figma icon">
 </a>
 
-<p>
+<p class="mt-5">
 <a href="/leistungen" class="text-dark | btn-second">Zurück zu den Leistungen</a>
 </p>
