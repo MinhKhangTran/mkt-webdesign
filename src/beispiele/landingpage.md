@@ -54,9 +54,9 @@ page_cta:
       </div>
   </aside>
 
-<h2 id="was-ist-eine-landingpage">Was ist eine Landingpage</h2>
+<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://landingpage-beispiel.netlify.app/" rel="noopener noreferrer">Hier geht es zur Landingpage ➡️</a></p>
 
-<a target="_blank" href="https://landingpage-beispiel.netlify.app/" rel="noopener noreferrer">Ein Link zu einem Landingpage Beispiel</a>
+<h2 id="was-ist-eine-landingpage">Was ist eine Landingpage</h2>
 
 Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen. Beispiele für eine Conversion können etwa sein: der Verkaufsabschluss eines Produktes oder die Anmeldung zu einem Newsletter.
 

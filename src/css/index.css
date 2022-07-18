@@ -11636,7 +11636,8 @@ nav ul a[data-state=active], nav ul a[aria-current=page] {
 
 #project__item time,
 #project__item a {
-  color: #98654c !important;
+  color: #98654c;
+  margin-top: 4rem;
 }
 #project__item h2, #project__item .h2 {
   margin-top: 2rem;

@@ -7,10 +7,6 @@
       "navigation": "home"
     },
     {
-      "url": "/about/",
-      "navigation": "über mich"
-    },
-    {
       "url": "/leistungen/",
       "navigation": "Leistungen"
     },

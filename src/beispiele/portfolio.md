@@ -13,4 +13,4 @@ page_cta:
 
 Mehr in Kürze
 
-<a target="_blank" href="https://nextjs-coach-jane-doe.vercel.app/" rel="noopener noreferrer">Der Link zu dem Portfolio eines Personaltrainers</a>
+<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://nextjs-coach-jane-doe.vercel.app/" rel="noopener noreferrer">Hier geht es zum Portfolio ➡️</a></p>

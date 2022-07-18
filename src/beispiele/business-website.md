@@ -42,13 +42,13 @@ page_cta:
 
   </aside>
 
+<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://next-js-schreini.vercel.app/" rel="noopener noreferrer">Hier geht es zur Business Website ➡️</a></p>
+
 Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.
 
 Im Gegensatz zur Landing page ist diese Art von Website informativer und vollumfänglich.
 
 <h2 id="business-website-für-einen-handwerker">Business Website für einen Handwerker</h2>
-
-<a target="_blank" href="https://next-js-schreini.vercel.app/" rel="noopener noreferrer">Der Link zu der Business Website des Handwerkers</a>
 
 Anhand eines Beispiels möchte ich die Business Website erläutern. Es handelt sich um eine Business Website für einen Handwerker. Genauer gesagt ein Schreiner.
 

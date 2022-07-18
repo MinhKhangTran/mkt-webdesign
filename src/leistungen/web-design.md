@@ -93,7 +93,7 @@ Die Design Elemente werden so erstellt, dass diese stets barrierefrei sind. Von 
 
 Einige Beispiele für die Umsetzung:
 
-- Leserlicher Schrift, betrifft die Schriftart, den Farbkontrast zwischen Text + Hintergrund und den Inhalt
+- Leserliche Schrift, betrifft die Schriftart, den Farbkontrast zwischen Text + Hintergrund und den Inhalt
 - Reduzierung der Animationen. Für einige Personen wirken Animationen störend
 - Farbliche Mitteilungen, wie Warnungen sollen zusätzlich noch eindeutig beschriftet werden
 - Ein Bild sollte keinen Text ersetzen. Menschen mit Sehbehinderung sehen die Bilder schlecht oder gar nicht. Ein Screenreader ist nur in der Lage den Text vorzulesen.
