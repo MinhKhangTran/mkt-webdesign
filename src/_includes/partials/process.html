@@ -1,7 +1,6 @@
 <section class="" id="process" aria-label="process section">
   <div class="md__wrapper">
     <h2 class="heading-2 text-dark text-md-center">{{process.title}}</h2>
-    <p class="body-lg text-dark text-md-center mx-md-auto">{{process.desc}}</p>
 
     {% for step in process.steps %} {% set gerade = loop.index % 2 == 0 %}
     <article

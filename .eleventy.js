@@ -33,12 +33,23 @@ module.exports = function (eleventyConfig) {
 
   // add leistungen to collections
   eleventyConfig.addCollection("leistungen", (collection) => {
-    return collection.getFilteredByGlob("./src/leistungen/*.md");
+    return collection
+      .getFilteredByGlob("./src/leistungen/*.md")
+      .sort((a, b) => {
+        return a.data.order > b.data.order ? 1 : -1;
+      });
   });
 
   // add beispiele to collections
   eleventyConfig.addCollection("beispiele", (collection) => {
-    return collection.getFilteredByGlob("./src/beispiele/*.md");
+    return collection.getFilteredByGlob("./src/beispiele/*.md").reverse();
+  });
+
+  // add featured beispiele to collection
+  eleventyConfig.addCollection("featuredBeispiele", (collection) => {
+    return sortByDisplayOrder(
+      collection.getFilteredByGlob("./src/beispiele/*.md")
+    ).filter((x) => x.data.featured);
   });
 
   // Add filters
