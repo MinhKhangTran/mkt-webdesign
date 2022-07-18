@@ -1,0 +1,17 @@
+@use "sass:math";
+
+.intro__wrapper {
+  border-top: solid 2px $dark;
+}
+#intro {
+  padding-block: 4rem;
+  p {
+    font-size: math.div(20rem, 16);
+    width: 90%;
+    max-width: 625px;
+    margin-inline: auto;
+    @include md {
+      font-size: math.div(24rem, 16);
+    }
+  }
+}

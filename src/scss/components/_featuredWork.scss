@@ -1,11 +1,21 @@
 @use "sass:math";
 
 #featuredWork {
-  padding-block: math.div(80rem, 16);
+  padding-block: math.div(48rem, 16);
+  border-bottom: solid 2px $dark;
+  @include md {
+    padding-block: math.div(80rem, 16);
+  }
   a:focus-within {
     box-shadow: 0px 0px 0px #000000;
     outline: $dark dashed 2px;
     outline-offset: 0.25rem;
+  }
+  .row {
+    padding-top: math.div(0rem, 16);
+    @include md {
+      padding-top: math.div(48rem, 16);
+    }
   }
   .card {
     border: 2px solid #000000;
@@ -36,6 +46,12 @@
     margin-top: 1.5rem;
     @include lg {
       margin-top: 0;
+    }
+  }
+  .button__wrapper {
+    margin-top: math.div(32rem, 16);
+    @include md {
+      margin-top: math.div(48rem, 16);
     }
   }
 }

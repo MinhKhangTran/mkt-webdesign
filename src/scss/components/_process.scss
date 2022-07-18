@@ -3,7 +3,7 @@
 #process {
   padding-block: math.div(48rem, 16);
 
-  // border-bottom: solid 2px $dark;
+  border-bottom: solid 2px $dark;
   border-top: solid 2px $dark;
   @include md {
     padding-block: math.div(80rem, 16);
