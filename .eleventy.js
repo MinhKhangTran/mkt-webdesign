@@ -14,22 +14,11 @@ module.exports = function (eleventyConfig) {
     return new Date().getFullYear();
   });
 
-  // add featured projects to collection
-  eleventyConfig.addCollection("featuredProject", (collection) => {
-    return sortByDisplayOrder(
-      collection.getFilteredByGlob("./src/projekte/*.md")
-    ).filter((x) => x.data.featured);
-  });
 
-  // add projects to collections
-  eleventyConfig.addCollection("projects", (collection) => {
-    return collection.getFilteredByGlob("./src/projekte/*.md").reverse();
-  });
 
-  // add blogposts to collections
-  eleventyConfig.addCollection("blogposts", (collection) => {
-    return collection.getFilteredByGlob("./src/blogposts/*.md").reverse();
-  });
+
+
+
 
   // add leistungen to collections
   eleventyConfig.addCollection("leistungen", (collection) => {

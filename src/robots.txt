@@ -1,0 +1,4 @@
+Sitemap: https://mkt-webdesign.de/sitemap.xml
+
+User-agent: *
+Disallow:
