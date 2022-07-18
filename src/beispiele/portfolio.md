@@ -5,6 +5,7 @@ description: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und
 img: /images/portfolio-thumbnail.jpg
 altImg: "Portfolio für einen Personaltrainer Hauptbild"
 featured: true
+order: 3
 page_cta:
   cta_heading: Bessern Sie Ihre Webpräsenz auf!
   cta_sub: Jetzt ein Angebot einholen!

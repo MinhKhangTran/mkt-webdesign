@@ -5,6 +5,7 @@ description: Eine Landingpage hat nur ein Ziel. Mit einer Landingpage wird ein b
 img: /images/landingpage-thumbnail.jpg
 altImg: "Landingpage Hauptbild"
 featured: true
+order: 1
 page_cta:
   cta_heading: Bessern Sie Ihre Webpräsenz auf!
   cta_sub: Jetzt ein Angebot einholen!

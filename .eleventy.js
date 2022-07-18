@@ -42,7 +42,9 @@ module.exports = function (eleventyConfig) {
 
   // add beispiele to collections
   eleventyConfig.addCollection("beispiele", (collection) => {
-    return collection.getFilteredByGlob("./src/beispiele/*.md").reverse();
+    return collection.getFilteredByGlob("./src/beispiele/*.md").sort((a, b) => {
+      return a.data.order > b.data.order ? -1 : 1;
+    });;
   });
 
   // add featured beispiele to collection
