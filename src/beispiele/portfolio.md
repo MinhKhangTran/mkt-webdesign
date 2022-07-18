@@ -20,15 +20,43 @@ page_cta:
 
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
+  <aside class="toc">
+      <div class="card">
+        <div class="card-body">
+        <h2><a class="" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="false" aria-controls="collapseTOC">Inhaltsverzeichnis 
+        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="24" height="24" fill="currentColor" class="bi bi-chevron-expand" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3.646 9.146a.5.5 0 0 1 .708 0L8 12.793l3.646-3.647a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 0-.708zm0-2.292a.5.5 0 0 0 .708 0L8 3.207l3.646 3.647a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 0 0 0 .708z"/></svg></a></h2>
+        <ul class="collapse" id="collapseTOC">
+<li><a href="#portfolio-einer-personaltrainerin">Portfolio einer Personaltrainerin</a></li>
+<li><a href="#aufbau-des-portfolios">Aufbau des Portfolios</a>
+<ul>
+<li><a href="#homepage">Homepage</a>
+<ul>
+<li><a href="#navigation-und-hero">Navigation und Hero</a></li>
+<li><a href="#%C3%BCberblick-der-leistungen">Überblick der Leistungen</a></li>
+<li><a href="#social-proof-und-qualifikationen">Social proof und Qualifikationen</a></li>
+<li><a href="#%C3%BCber-mich">Über mich</a></li>
+<li><a href="#kontaktformular-und-footer">Kontaktformular und Footer</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#erweiterungen">Erweiterungen</a></li>
+<li><a href="#fazit">Fazit</a></li>
+</ul>
+        </div>
+      </div>
+
+  </aside>
+
 <p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://nextjs-coach-jane-doe.vercel.app/" rel="noopener noreferrer">Hier geht es zum Portfolio ➡️</a></p>
 
 Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens.
 
-Auf einem Portfolio  werden die Leistungen und Produkte eines Unternehmens zusammengestellt. Es ist ähnlich wie die Businesswebsite, dennoch ist das Portfolio mit mehr Bildern versehen und eher für Einzelpersonen oder kleinere Unternehmen geeignet. Da es optisch attraktiver ist, benutzen viele künstlerische Berufe, wie Fotografen, Filmemacher, Künstler etc. Portfolios, um der Welt deren Projekte darzustellen.
+Auf einem Portfolio  werden die Leistungen und Produkte eines Unternehmens zusammengestellt. Es ist ähnlich wie die <a target="_blank" rel="noopener noreferrer" href="/beispiele/business-website/">Business Website</a>, dennoch ist das Portfolio mit mehr Bildern versehen und eher für Einzelpersonen oder kleinere Unternehmen geeignet. Da es optisch attraktiver ist, benutzen viele künstlerische Berufe, wie Fotografen, Filmemacher, Künstler etc. Portfolios, um der Welt deren Projekte darzustellen.
 
-Da meistens einzelne Personen hinter der Website sind, sind Portfolios im Gegensatz zu Business Websites abgespeckter. Meist nur eine Seite mit allen wichtigen Informationen.
+Da meistens einzelne Personen hinter der Website sind, sind Portfolios im Gegensatz zu <a target="_blank" rel="noopener noreferrer" href="/beispiele/business-website/">Business Websites</a> abgespeckter. Meist nur eine Seite mit allen wichtigen Informationen.
 
-## Portfolio einer Personaltrainerin
+<h2 id="portfolio-einer-personaltrainerin">Portfolio einer Personaltrainerin</h2>
 
 <a target="_blank" href="https://nextjs-coach-jane-doe.vercel.app/" rel="noopener noreferrer">Der Link zu dem Portfolio der Personaltrainerin</a>
 
@@ -38,7 +66,7 @@ Die Personaltrainerin benötigt für ihre Webpräsenz eine kleine Website, in de
 
 Die interessierenden Personen sollten zudem in der Lage sein sich bei der Personaltrainerin zu melden, falls sie die Dienstleistung benötigen oder Fragen haben.
 
-## Aufbau des Portfolios
+<h2 id="aufbau-des-portfolios">Aufbau des Portfolios</h2>
 
 <a target="_blank" href="https://nextjs-coach-jane-doe.vercel.app/" rel="noopener noreferrer">Der Link zu dem Portfolio der Personaltrainerin</a>
 
@@ -46,7 +74,7 @@ Als Hauptfarbe wurde ein helles Grün gewählt. Mit Grün assoziiert man Natur u
 
 Die Zielgruppe der Personaltrainerin ist lokale Männer oder Frauen jeglicher Altersgruppe. Das Design sollte daher einfach gehalten werden, aber dennoch noch modern und auf allen Geräten navigierbar sein.
 
-### Homepage
+<h3 id="homepage">Homepage</h3>
 
 Die Homepage beinhaltet folgende Komponenten:
 
@@ -62,7 +90,7 @@ Da das Portfolio nur eine Seite hat, sollte die Homepage komplett sein und alle 
 
 Die Seite ist so gestaltet, dass das wichtigste oben ist. Wenige Leute haben genug Zeit, um die Seite komplett zu scrollen, deswegen kommen weniger wichtige Abschnitte weiter unten.
 
-#### Navigation und Hero
+<h4 id="navigation-und-hero">Navigation und Hero</h4>
 
 Das Erste, was die besuchende Person sieht, ist die Navigation und der Hero. Die Navigationsleiste beinhaltet das Logo und Links zu den einzelnen Abschnitten der Website. 
 
@@ -76,7 +104,7 @@ Falls der Nutzer oder die Nutzerin interessiert ist, aber noch nicht bereit ist 
 
 _Navigationsleiste und Hero des Portfolios_
 
-#### Überblick der Leistungen
+<h4 id="überblick-der-leistungen">Überblick der Leistungen</h4>
 
 Dieser Abschnitt ist neben den Hero der wichtigste Abschnitt. Hier werden die Leistungen der Personaltrainerin optisch schön dargestellt. Zu jeder Leistung gibt es noch eine passende Erklärung. 
 
@@ -86,7 +114,7 @@ Optional könnte man hier eine Unterseite erstellen, die mehr über die Leistung
 
 _Überblick der Leistungen im Portfolio_
 
-#### Social proof und Qualifikationen
+<h4 id="social-proof-und-qualifikationen">Social proof und Qualifikationen</h4>
 
 Dieser Abschnitt dient dazu den besuchenden Personen noch mehr zu “fesseln”. 
 
@@ -100,7 +128,7 @@ Verstärkt wird dies durch die Qualifikationen/Zertifikate, die die Personaltrai
 
 _Social Proof und Qualifikationen_
 
-#### Über mich
+<h4 id="über-mich">Über mich</h4>
 
 Als Personaltrainerin ist es wichtig Vertrauen und Autorität zu beweisen. Vertrauen kann man z.B. gewinnen, indem man (persönliche) Informationen preisgibt. In dem Fall eine kurze Biografie der Personaltrainerin. 
 
@@ -110,7 +138,7 @@ Die Entstehungsgeschichte und die Philosophie sind hier gängige Texte, um Vertr
 
 _Über mich Abschnitt der Personaltrainerin_
 
-#### Kontaktformular und Footer
+<h4 id="kontaktformular-und-footer">Kontaktformular und Footer</h4>
 
 Wenn die besuchende Person bis hier gescrollt hat, hat die Person die Möglichkeit die Personaltrainerin direkt zu kontaktieren. Mit dem Kontaktformular ist es einfach sich direkt zu melden. Zudem sind weitere Kontaktdaten wie Adresse, Telefonnummer und E-Mail vorhanden.
 
@@ -120,15 +148,15 @@ Der Footer hier im Portfolio ist schlicht und einfach gestaltet. Hier werden die
 
 Kontakt und Footer
 
-### Erweiterungen
+<h2 id="erweiterungen">Erweiterungen</h2>
 
-Wie die Business Website lässt sich das Portfolio nahezu grenzenlos erweitern. Man kann z.B. ein Blog hinzufügen und in regelmäßigen Abständen Blogartikel verfassen. Diese sind natürlich alle Suchmaschinen optimiert, um für wichtige Keywords auf der ersten Seite der Suchmaschinen zu kommen.
+Wie die <a target="_blank" rel="noopener noreferrer" href="/beispiele/business-website/">Business Website</a> lässt sich das Portfolio nahezu grenzenlos erweitern. Man kann z.B. ein Blog hinzufügen und in regelmäßigen Abständen Blogartikel verfassen. Diese sind natürlich alle Suchmaschinen optimiert, um für wichtige Keywords auf der ersten Seite der Suchmaschinen zu kommen.
 
 Ebenso ist es möglich sogenannten Case Studies (Fallstudien) über ehemalige Projekte zu schreiben. Dort wird die Fähigkeit der Problemlösung der Personaltrainerin aufgezeigt. Dies wirkt sich gut auf die Autorität und das Vertrauen aus. Zudem kann der Text verstärkt auf Keywords angepasst werden.
 
 Mehr Inhalt bedeutet mehr Relevanz für den Kunden oder die Kundinnen. Mehr Relevanz für den Kunden oder die Kundinnen wird meistens mit einem guten Ranking in den Suchmaschinen belohnt.
 
-### Fazit
+<h2 id="fazit">Fazit</h2>
 
 Portfolios sind perfekt, um die Webpräsenz einer einzelnen Person aufzubauen oder aufzubessern. Solche Websites lassen sich beliebig skalieren. Durch das Hinzufügen von neuem Inhalt kann man den Nutzer oder Nutzerinnen relevantere Inhalte anbieten. Je relevanter die Dienstleistung ist, desto eher wird aus einem Nutzer oder einer Nutzerin ein Kunde oder eine Kundin.
 

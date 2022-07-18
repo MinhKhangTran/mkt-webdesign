@@ -55,7 +55,7 @@ page_cta:
 
 Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.
 
-Im Gegensatz zur Landing page ist diese Art von Website informativer und vollumfänglich.
+Im Gegensatz zur <a target="_blank" rel="noopener noreferrer" href="/beispiele/landingpage/">Landingpage</a> ist diese Art von Website informativer und vollumfänglich.
 
 <h2 id="business-website-für-einen-handwerker">Business Website für einen Handwerker</h2>
 
@@ -67,7 +67,7 @@ Die interessierenden Personen sollten zudem in der Lage sein sich bei dem Schrei
 
 <h2 id="aufbau-der-business-website">Aufbau der Business Website</h2>
 
-<a target="_blank" href="https://next-js-schreini.vercel.app/" rel="noopener noreferrer">Der Link zu der Business Website des Handwerkers</a>
+<a href="https://next-js-schreini.vercel.app/" target="_blank" rel="noopener noreferrer">Der Link zu der Business Website des Handwerkers</a>
 
 Als Hauptfarbe wurde ein dunkles Orange gewählt. Es ähnelt Holz und passt perfekt für den Schreiner.
 
