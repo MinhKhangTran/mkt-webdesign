@@ -1,33 +1,36 @@
+{% set metaPrefix = metainfo %} {% if metaContent %} {% set metaPrefix = metaContent %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="de-De">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta content="{{metainfo.metaDescContent}}" name="{{metainfo.metaDesc}}" />
+    <meta content="{{metaContent.metaDescContent}}" name="{{metaContent.metaDesc}}" />
     <meta
-      content="{{metainfo.metaOgTitleContent}}"
-      property="{{metainfo.metaOgTitle}}"
+      content="{{metaContent.metaOgTitleContent}}"
+      property="{{metaContent.metaOgTitle}}"
     />
     <meta
-      content="{{metainfo.metaOgDescContent}}"
-      property="{{metainfo.metaOgDesc}}"
+      content="{{metaContent.metaOgDescContent}}"
+      property="{{metaContent.metaOgDesc}}"
     />
     <meta
-      content="{{metainfo.metaOgImageContent}}"
-      property="{{metainfo.metaOgImage}}"
+      content="{{metaContent.metaOgImageContent}}"
+      property="{{metaContent.metaOgImage}}"
     />
     <meta
-      content="{{metainfo.metaTwitterTitleContent}}"
-      property="{{metainfo.metaTwitterTitle}}"
+      content="{{metaContent.metaTwitterTitleContent}}"
+      property="{{metaContent.metaTwitterTitle}}"
     />
     <meta
-      content="{{metainfo.metaTwitterDescContent}}"
-      property="{{metainfo.metaTwitterDesc}}"
+      content="{{metaContent.metaTwitterDescContent}}"
+      property="{{metaContent.metaTwitterDesc}}"
     />
     <meta
-      content="{{metainfo.metaTwitterImageContent}}"
-      property="{{metainfo.metaTwitterImage}}"
+      content="{{metaContent.metaTwitterImageContent}}"
+      property="{{metaContent.metaTwitterImage}}"
     />
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
