@@ -10,6 +10,23 @@ page_cta:
   cta_heading: Bessern Sie Ihre Webpräsenz auf!
   cta_sub: Jetzt ein Angebot einholen!
   cta_button: Loslegen!
+page_meta:
+  metaDesc: description,
+  metaDescContent: Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.,
+  metaOgTitle: og:title,
+  metaOgTitleContent: Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.,
+  metaOgDesc: og:description,
+  metaOgDescContent: Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.,
+  metaOgImage: og:image,
+  metaOgImageContent: /images/ogDesc.jpg,
+  metaTwitterTitle: twitter:title,
+  metaTwitterTitleContent: Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.,
+  metaTwitterDesc: twitter:description,
+  metaTwitterDescContent: Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.,
+  metaTwitterImage: twitter:image,
+  metaTwitterImageContent: /images/ogDesc.jpg,
+  faviconIco: /images/favicon.ico,
+  webclip: /images/favicon-32x32.png
 ---
 
 <nav aria-label="breadcrumb">

@@ -9,6 +9,23 @@ page_cta:
   cta_heading: Bessern Sie Ihre Webpräsenz auf!
   cta_sub: Jetzt ein Angebot einholen!
   cta_button: Loslegen!
+page_meta:
+  metaDesc: description,
+  metaDescContent: Unter Web Development versteht man die Umsetzung des Designs in Quellcode. Das Resultat ist eine statische Website, die schnell, sicher und SEO-freundlich ist.,
+  metaOgTitle: og:title,
+  metaOgTitleContent: Unter Web Development versteht man die Umsetzung des Designs in Quellcode. Das Resultat ist eine statische Website, die schnell, sicher und SEO-freundlich ist.,
+  metaOgDesc: og:description,
+  metaOgDescContent: Unter Web Development versteht man die Umsetzung des Designs in Quellcode. Das Resultat ist eine statische Website, die schnell, sicher und SEO-freundlich ist.,
+  metaOgImage: og:image,
+  metaOgImageContent: /images/ogDesc.jpg,
+  metaTwitterTitle: twitter:title,
+  metaTwitterTitleContent: Unter Web Development versteht man die Umsetzung des Designs in Quellcode. Das Resultat ist eine statische Website, die schnell, sicher und SEO-freundlich ist.,
+  metaTwitterDesc: twitter:description,
+  metaTwitterDescContent: Unter Web Development versteht man die Umsetzung des Designs in Quellcode. Das Resultat ist eine statische Website, die schnell, sicher und SEO-freundlich ist.,
+  metaTwitterImage: twitter:image,
+  metaTwitterImageContent: /images/ogDesc.jpg,
+  faviconIco: /images/favicon.ico,
+  webclip: /images/favicon-32x32.png
 ---
 
 <nav aria-label="breadcrumb">
