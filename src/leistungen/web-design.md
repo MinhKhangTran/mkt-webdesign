@@ -10,21 +10,21 @@ page_cta:
   cta_sub: Jetzt ein Angebot einholen.
   cta_button: Loslegen!
 page_meta:
-  metaDesc: description,
-  metaDescContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit,
-  metaOgTitle: og:title,
-  metaOgTitleContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit,
-  metaOgDesc: og:description,
-  metaOgDescContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit,
-  metaOgImage: og:image,
-  metaOgImageContent: /images/ogDesc.jpg,
-  metaTwitterTitle: twitter:title,
-  metaTwitterTitleContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit,
-  metaTwitterDesc: twitter:description,
-  metaTwitterDescContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit,
-  metaTwitterImage: twitter:image,
-  metaTwitterImageContent: /images/ogDesc.jpg,
-  faviconIco: /images/favicon.ico,
+  metaDesc: description
+  metaDescContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit
+  metaOgTitle: og:title
+  metaOgTitleContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit
+  metaOgDesc: og:description
+  metaOgDescContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit
+  metaOgImage: og:image
+  metaOgImageContent: /images/ogDesc.jpg
+  metaTwitterTitle: twitter:title
+  metaTwitterTitleContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit
+  metaTwitterDesc: twitter:description
+  metaTwitterDescContent: Ich erstelle für Ihre Ziele ein passendes Web Design. Dabei ist das Design für alle Bildschirmgrößen optimiert. Der Fokus liegt stets bei UI, UX und Barrierefreiheit
+  metaTwitterImage: twitter:image
+  metaTwitterImageContent: /images/ogDesc.jpg
+  faviconIco: /images/favicon.ico
   webclip: /images/favicon-32x32.png
 ---
 

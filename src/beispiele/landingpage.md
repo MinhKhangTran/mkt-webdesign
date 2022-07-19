@@ -11,21 +11,21 @@ page_cta:
   cta_sub: Jetzt ein Angebot einholen!
   cta_button: Loslegen!
 page_meta:
-  metaDesc: description,
-  metaDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.,
-  metaOgTitle: og:title,
-  metaOgTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.,
-  metaOgDesc: og:description,
-  metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.,
-  metaOgImage: og:image,
-  metaOgImageContent: /images/ogDesc.jpg,
-  metaTwitterTitle: twitter:title,
-  metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.,
-  metaTwitterDesc: twitter:description,
-  metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.,
-  metaTwitterImage: twitter:image,
-  metaTwitterImageContent: /images/ogDesc.jpg,
-  faviconIco: /images/favicon.ico,
+  metaDesc: description
+  metaDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaOgTitle: og:title
+  metaOgTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaOgDesc: og:description
+  metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaOgImage: og:image
+  metaOgImageContent: /images/ogDesc.jpg
+  metaTwitterTitle: twitter:title
+  metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaTwitterDesc: twitter:description
+  metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaTwitterImage: twitter:image
+  metaTwitterImageContent: /images/ogDesc.jpg
+  faviconIco: /images/favicon.ico
   webclip: /images/favicon-32x32.png
 ---
 

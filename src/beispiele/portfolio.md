@@ -11,21 +11,21 @@ page_cta:
   cta_sub: Jetzt ein Angebot einholen!
   cta_button: Loslegen!
 page_meta:
-  metaDesc: description,
-  metaDescContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.,
-  metaOgTitle: og:title,
-  metaOgTitleContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.,
-  metaOgDesc: og:description,
-  metaOgDescContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.,
-  metaOgImage: og:image,
-  metaOgImageContent: /images/ogDesc.jpg,
-  metaTwitterTitle: twitter:title,
-  metaTwitterTitleContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.,
-  metaTwitterDesc: twitter:description,
-  metaTwitterDescContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.,
-  metaTwitterImage: twitter:image,
-  metaTwitterImageContent: /images/ogDesc.jpg,
-  faviconIco: /images/favicon.ico,
+  metaDesc: description
+  metaDescContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.
+  metaOgTitle: og:title
+  metaOgTitleContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.
+  metaOgDesc: og:description
+  metaOgDescContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.
+  metaOgImage: og:image
+  metaOgImageContent: /images/ogDesc.jpg
+  metaTwitterTitle: twitter:title
+  metaTwitterTitleContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.
+  metaTwitterDesc: twitter:description
+  metaTwitterDescContent: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens. Das Portfolio ist daher eher für Einzelpersonen oder kleinere Unternehmen geeignet.
+  metaTwitterImage: twitter:image
+  metaTwitterImageContent: /images/ogDesc.jpg
+  faviconIco: /images/favicon.ico
   webclip: /images/favicon-32x32.png
 ---
 

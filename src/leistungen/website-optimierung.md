@@ -10,21 +10,21 @@ page_cta:
   cta_sub: Jetzt ein Angebot einholen!
   cta_button: Loslegen!
 page_meta:
-  metaDesc: description,
-  metaDescContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website,
-  metaOgTitle: og:title,
-  metaOgTitleContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website,
-  metaOgDesc: og:description,
-  metaOgDescContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website,
-  metaOgImage: og:image,
-  metaOgImageContent: /images/ogDesc.jpg,
-  metaTwitterTitle: twitter:title,
-  metaTwitterTitleContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website,
-  metaTwitterDesc: twitter:description,
-  metaTwitterDescContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website,
-  metaTwitterImage: twitter:image,
-  metaTwitterImageContent: /images/ogDesc.jpg,
-  faviconIco: /images/favicon.ico,
+  metaDesc: description
+  metaDescContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website
+  metaOgTitle: og:title
+  metaOgTitleContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website
+  metaOgDesc: og:description
+  metaOgDescContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website
+  metaOgImage: og:image
+  metaOgImageContent: /images/ogDesc.jpg
+  metaTwitterTitle: twitter:title
+  metaTwitterTitleContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website
+  metaTwitterDesc: twitter:description
+  metaTwitterDescContent: Ihre Website soll von Natur aus schnell, sicher und zugänglich sein. Dafür werden von mir automatisierte Tests durchgeführt. Für ein gutes Ranking in den Suchmaschinen suche ich passende Keywords für Ihre Themen und analysiere ihre Website
+  metaTwitterImage: twitter:image
+  metaTwitterImageContent: /images/ogDesc.jpg
+  faviconIco: /images/favicon.ico
   webclip: /images/favicon-32x32.png
 ---
 
