@@ -1,7 +1,7 @@
 ---
 title: "Event Website | MKT Webdesign"
 pageTitle: Event Website
-description: Eine Event Website ist wie eine digitale Broschüre oder Plakat. Beschmückt mit schönen Darstellungen und reißerische Informationen.
+description: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
 img: /images/event-thumbnail.jpg
 altImg: "Event Website für Food Truck Fest"
 featured: false
@@ -12,17 +12,17 @@ page_cta:
   cta_button: Loslegen!
 page_meta:
   metaDesc: description
-  metaDescContent: Eine Event Website ist wie eine digitale Broschüre oder Plakat. Beschmückt mit schönen Darstellungen und reißerische Informationen.
+  metaDescContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
   metaOgTitle: og:title
-  metaOgTitleContent: Eine Event Website ist wie eine digitale Broschüre oder Plakat. Beschmückt mit schönen Darstellungen und reißerische Informationen.
+  metaOgTitleContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
   metaOgDesc: og:description
-  metaOgDescContent: Eine Event Website ist wie eine digitale Broschüre oder Plakat. Beschmückt mit schönen Darstellungen und reißerische Informationen.
+  metaOgDescContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
   metaOgImage: og:image
   metaOgImageContent: /images/ogDesc.jpg
   metaTwitterTitle: twitter:title
-  metaTwitterTitleContent: Eine Event Website ist wie eine digitale Broschüre oder Plakat. Beschmückt mit schönen Darstellungen und reißerische Informationen.
+  metaTwitterTitleContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
   metaTwitterDesc: twitter:description
-  metaTwitterDescContent: Eine Event Website ist wie eine digitale Broschüre oder Plakat. Beschmückt mit schönen Darstellungen und reißerische Informationen.
+  metaTwitterDescContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
   metaTwitterImage: twitter:image
   metaTwitterImageContent: /images/ogDesc.jpg
   faviconIco: /images/favicon.ico
