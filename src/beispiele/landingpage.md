@@ -121,7 +121,7 @@ Untertitel gehen näher in das Produkt ein und verstärken kurz und bündig die 
 
 <h4 id="3-cta">3. CTA</h4>
 
-Als einer der wichtigsten Komponente ist der CTA-Aufruf. CTA bedeutet "call-to-action" und soll den Besucher oder die Besucherin _zu einer bestimmten Handlung bewegen_. Nachdem der Besucher oder die Besucherin neugierig die Überschrift und den Untertitel gelesen hat, will diese Person wissen, was der nächste Schritt ist. An dieser Stelle kommt der CTA. Es handelt sich meistens um einen Button (Knopf) mit einem Aufruf. Beispiele für einen Aufruf könnte sein: "Starte jetzt" oder "Jetzt Anmelden".
+Als einer der wichtigsten Komponente ist der CTA-Aufruf. CTA bedeutet "call-to-action" und soll den Besucher oder die Besucherin zu einer bestimmten Handlung bewegen. Nachdem der Besucher oder die Besucherin neugierig die Überschrift und den Untertitel gelesen hat, will diese Person wissen, was der nächste Schritt ist. An dieser Stelle kommt der CTA. Es handelt sich meistens um einen Button (Knopf) mit einem Aufruf. Beispiele für einen Aufruf könnte sein: "Starte jetzt" oder "Jetzt Anmelden".
 
 <h4 id="4-sozialer-nachweis-social-proof">4. Sozialer Nachweis (Social Proof)</h4>
 
