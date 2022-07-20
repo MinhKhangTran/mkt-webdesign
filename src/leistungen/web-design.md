@@ -61,7 +61,7 @@ page_meta:
 
 Jede Website hat ein Ziel.
 
-Dieses Ziel kann für jedes Unternehmen unterschiedlich sein. Sei es den Besucher*in über die angebotenen Leistungen und das Unternehmen zu informieren, sie als Kund*in zu gewinnen oder die Reichweite zu erhöhen.
+<p>Dieses Ziel kann für jedes Unternehmen unterschiedlich sein. Sei es den Besucher*in über die angebotenen Leistungen und das Unternehmen zu informieren, sie als Kund*in zu gewinnen oder die Reichweite zu erhöhen.</p>
 
 Der Entwicklungsprozess orientiert sich an Ihren individuellen Zielen und wird dementsprechend so gestaltet.
 
