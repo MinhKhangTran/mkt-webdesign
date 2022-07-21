@@ -93,7 +93,7 @@ _Wireframe für die gängisten Größen (Desktop, Tablet, Handy)_
 
 Der gesamte Wireframing Prozess erfolgt stets in Absprache mit Ihnen.
 
-Am Ende des Wireframings kann optional ein sogenanntes Prototyping verwendet werden. Dabei wird das gewählte Design interaktiv ausgestaltet, um einen Website-Prototpyen zu erzeugen. Dies bietet Ihnen, als Auftraggeber die Möglichkeit Bedienung und Design der Website vor der Veröffentlichung ausgiebig zu testen. Sollten Ihrerseits Änderungswünsche bestehen, können diese unkompliziert umgesetzt werden.
+Am Ende des Wireframings kann optional ein sogenanntes Prototyping verwendet werden. Dabei wird das gewählte Design interaktiv ausgestaltet, um einen Website-Prototpyen zu erzeugen. Dies bietet Ihnen die Möglichkeit Bedienung und Design der Website vor der Veröffentlichung ausgiebig zu testen. Sollten Ihrerseits Änderungswünsche bestehen, können diese unkompliziert umgesetzt werden.
 
 <h2 id="fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</h2>
 
