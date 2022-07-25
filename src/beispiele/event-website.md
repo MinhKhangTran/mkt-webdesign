@@ -38,6 +38,7 @@ page_meta:
 
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
+<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://nextjs-event-page.vercel.app/" rel="noopener noreferrer">Hier geht es zur Event Website ➡️</a></p>
 
 
 Mehr in Kürze
