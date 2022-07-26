@@ -1,7 +1,7 @@
 ---
 title: "Event Website | MKT Webdesign"
 pageTitle: Event Website
-description: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
+description: Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
 img: /images/event-thumbnail.jpg
 altImg: "Event Website für Food Truck Fest"
 featured: false
@@ -12,17 +12,17 @@ page_cta:
   cta_button: Loslegen!
 page_meta:
   metaDesc: description
-  metaDescContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
+  metaDescContent: Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
   metaOgTitle: og:title
-  metaOgTitleContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
+  metaOgTitleContent: Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
   metaOgDesc: og:description
-  metaOgDescContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
+  metaOgDescContent: Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
   metaOgImage: og:image
   metaOgImageContent: /images/ogDesc.jpg
   metaTwitterTitle: twitter:title
-  metaTwitterTitleContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
+  metaTwitterTitleContent: Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
   metaTwitterDesc: twitter:description
-  metaTwitterDescContent: Eine Event Website ist eine digitale Broschüre oder Plakat. Beschmückt mit vielen Darstellungen und Informationen.
+  metaTwitterDescContent: Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
   metaTwitterImage: twitter:image
   metaTwitterImageContent: /images/ogDesc.jpg
   faviconIco: /images/favicon.ico
@@ -39,7 +39,6 @@ page_meta:
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
 <p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://nextjs-event-page.vercel.app/" rel="noopener noreferrer">Hier geht es zur Event Website ➡️</a></p>
-
 
 Mehr in Kürze
 
