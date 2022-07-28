@@ -1,14 +1,26 @@
-{% if page_meta %} {% set metaContent = page_meta %} {% endif %}
-{% extends "layouts/base.html" %} {% block content %} {% if page_cta %} {% set
-ctaContent = page_cta %} {% endif %}
+{% if page_meta %} {% set metaContent = page_meta %} {% endif %} {% extends
+"layouts/base.html" %} {% block content %} {% if page_cta %} {% set ctaContent =
+page_cta %} {% endif %} {% if page.url.startsWith("/beispiele") %}
 
+<div class="wrapper pt-lg-5 mt-lg-4 pt-3 mt-3">
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="/beispiele">Beispiele</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{pageTitle}}</li>
+    </ol>
+  </nav>
+  <img src="{{img}}" alt="{{altImg}}" class="img-fluid w-100" />
+</div>
+{% elif page.url.startsWith("/leistungen") %}
 <img src="{{img}}" alt="{{altImg}}" class="img-fluid w-100" />
+
+{% endif %}
+
 <section
   id="project__item"
   aria-label="project section"
   class="pb-5 pt-md-5 pt-3 sm__wrapper position-relative"
 >
-  
   {{content |safe}}
 </section>
 

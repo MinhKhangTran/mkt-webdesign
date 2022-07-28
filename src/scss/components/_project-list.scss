@@ -30,4 +30,14 @@
       fill: $primary !important;
     }
   }
+  .card-title-example {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-inline: auto;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.95);
+    padding-block: 1rem;
+  }
 }
