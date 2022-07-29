@@ -132,7 +132,7 @@ HTML-Dateien benötigen wenig Speicherplatz. Das Hosten statischer Websites ist 
 - <a target="_blank" rel="noopener noreferrer" href="/beispiele/landingpage/">Landing pages</a>
 - <a target="_blank" rel="noopener noreferrer" href="/beispiele/business-website/">Business Websites</a>
 - <a target="_blank" rel="noopener noreferrer" href="/beispiele/portfolio/">Portfolio</a>
-- Marketing websites
+- <a target="_blank" rel="noopener noreferrer" href="/beispiele/event-website/">Marketing Websites</a>
 - Blog
 - Dokumentation
 

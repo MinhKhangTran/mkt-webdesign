@@ -2,7 +2,7 @@
 title: "Landingpage | MKT Webdesign"
 pageTitle: Landingpage
 description: Eine Landingpage hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben.
-img: /images/landingpage-thumbnail.jpg
+img: /images/hero-landingpage.jpg
 altImg: "Landingpage Hauptbild"
 featured: true
 order: 1
@@ -28,13 +28,6 @@ page_meta:
   faviconIco: /images/favicon.ico
   webclip: /images/favicon-32x32.png
 ---
-
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/beispiele">Beispiele</a></li>
-    <li class="breadcrumb-item active" aria-current="page">{{pageTitle}}</li>
-  </ol>
-</nav>
 
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
@@ -67,6 +60,8 @@ page_meta:
           </li>
           </ul>
           </li>
+          <li><a href="#wireframe">Wireframe</a></li>
+<li><a href="#farben-und-schriftarten">Farben und Schriftarten</a></li>
           <li><a href="#die-psychologischen-aspekte-einer-landingpage">Die psychologischen Aspekte einer Landingpage</a>
           <ul>
           <li><a href="#neugier">Neugier</a></li>
@@ -178,6 +173,14 @@ Dadurch wirkt es persönlicher und kann den Kunden oder der Kundin nochmal verst
 ![Über mich](/images/ueber-uns.jpg)
 
 _Über mich_
+
+<h2 id="wireframe">Wireframe</h2>
+
+![Wireframe](/images/full-version-landingpage.jpg)
+
+<h2 id="farben-und-schriftarten">Farben und Schriftarten</h2>
+
+![Farben und Schriftarten](/images/farben-und-schriftarten-landingpage.jpg)
 
 <h2 id="die-psychologischen-aspekte-einer-landingpage">Die psychologischen Aspekte einer Landingpage</h2>
 

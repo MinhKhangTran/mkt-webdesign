@@ -29,13 +29,6 @@ page_meta:
   webclip: /images/favicon-32x32.png
 ---
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/beispiele">Beispiele</a></li>
-    <li class="breadcrumb-item active" aria-current="page">{{pageTitle}}</li>
-  </ol>
-</nav>
-
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
   <aside class="toc">

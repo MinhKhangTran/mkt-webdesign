@@ -2,7 +2,7 @@
 title: "Business Website | MKT Webdesign"
 pageTitle: Business Website
 description: Eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten.
-img: /images/business-website-thumbnail.jpg
+img: /images/hero-business-website.jpg
 altImg: "Business Website für einen Handwerker Hauptbild"
 featured: true
 order: 2
@@ -29,13 +29,6 @@ page_meta:
   webclip: /images/favicon-32x32.png
 ---
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/beispiele">Beispiele</a></li>
-    <li class="breadcrumb-item active" aria-current="page">{{pageTitle}}</li>
-  </ol>
-</nav>
-
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
   <aside class="toc">
@@ -48,12 +41,6 @@ page_meta:
 <li><a href="#aufbau-der-business-website">Aufbau der Business Website</a>
 <ul>
 <li><a href="#homepage">Homepage</a>
-<ul>
-<li><a href="#navigation-und-hero">Navigation und Hero</a></li>
-<li><a href="#kurze-biografie-und-%C3%BCberblick-der-leistungen">Kurze Biografie und Überblick der Leistungen</a></li>
-<li><a href="#merkmale--nutzen-und-social-proof">Merkmale + Nutzen und Social proof</a></li>
-<li><a href="#kontaktformular-und-footer">Kontaktformular und Footer</a></li>
-</ul>
 </li>
 <li><a href="#das-team">Das Team</a></li>
 <li><a href="#leistungen">Leistungen</a></li>
@@ -61,6 +48,8 @@ page_meta:
 <li><a href="#kontakt">Kontakt</a></li>
 </ul>
 </li>
+<li><a href="#wireframe-der-homepage">Wireframe der Homepage</a></li>
+<li><a href="#farben-und-schriftarten">Farben und Schriftarten</a></li>
 <li><a href="#erweiterungen">Erweiterungen</a></li>
 <li><a href="#fazit">Fazit</a></li>
 </ul>
@@ -105,56 +94,6 @@ Die Homepage beinhaltet folgende Komponenten:
 - Footer
 
 Die Homepage sollte komplett sein und genügend Informationen bieten. Viele Nutzer oder Nutzerinnen haben wenig Zeit und klicken wenig auf der Website rum. Sie scrollen lediglich auf der Homepage rum.
-
-<h4 id="navigation-und-hero">Navigation und Hero</h4>
-
-Das Erste, was die besuchende Person sieht, ist die Navigation und der Hero. Die Navigationsleiste beinhaltet das Logo und Weiterleitungen (Links) zu alle Unterseiten der Website. Die Navigationsleiste ist bei jeder Unterseite gleich.
-
-Wie der Name Hero (deutsch: Held) vermuten lässt, ist diese Komponente das Wichtigste der Homepage. Der Hero sollte die Neugier der besuchenden Person wecken und genügend Informationen zu dem Schreiner geben. Mit einer passenden Überschrift und einem ergänzenden Text wird der Nutzer oder die Nutzerin aufgefordert weiterzulesen. Über einen Button kann man sich bei dem Schreiner melden.
-
-Dieser Button im Hero nennt man auch den “Call-To-Action” Button. Der Button dient zur Handlungsaufforderung.
-
-Falls der Nutzer oder die Nutzerin interessiert ist, aber noch nicht bereit ist sich bei dem Schreiner zu melden, wird als nächstes die Website gescrollt.
-
-![Navigation und Hero der Handwerker Website](/images/hero-der-handwerker-website.jpg)
-
-_Navigation und Hero der Handwerker Website_
-
-<h4 id="kurze-biografie-und-überblick-der-leistungen">Kurze Biografie und Überblick der Leistungen</h4>
-
-Als Handwerker ist es wichtig Vertrauen und Autorität zu beweisen. Vertrauen kann man z.B. gewinnen, indem man (persönliche) Informationen preisgibt. In dem Fall eine kurze Biografie des Unternehmens.
-
-Die Entstehungsgeschichte und die Philosophie sind hier gängige Texte, um Vertrauen zu gewinnen. Mit persönlichen Bilder wird das ganze verstärkt.
-
-Für mehr Informationen über den Handwerker kann der Nutzer oder die Nutzerin über einen Button auf die “Das Team”-Unterseite gelangen.
-
-Um Autorität zu zeigen, wird in diesem Abschnitt die Leistungen des Handwerkers dargestellt. Hier werden die Leistungen kurz beschrieben. Bei Interesse kann man auf eine einzelne Leistung drücken, um mehr Informationen über diese eine Leistung zu bekommen.
-
-![Kurze Biografie und Überblick der Leistungen](/images/kurze-biografie-und-ueberblick-der-leistungen.jpg)
-
-_Kurze Biografie und Überblick der Leistungen_
-
-<h4 id="merkmale--nutzen-und-social-proof">Merkmale + Nutzen und Social proof</h4>
-
-Dieser Abschnitt dient dazu den besuchenden Personen noch mehr zu “fesseln”. Mit den Merkmalen des Handwerks werden die positiven Nutzen für Kunden aufgezeigt.
-
-Mit Zitaten von ehemaligen Kunden oder Kundinnen wird aufgezeigt, dass der Handwerker gute Arbeit leistet. Dieser Abschnitt nennt man im Marketing social proof (deutsch: sozialer Nachweis). Dadurch wird gezeigt, dass der Handwerker über ein gutes Know-How besitzt und seine Arbeit versteht.
-
-Viele werden durch (positiven) Bewertungen von anderen Menschen beeinflusst. Dadurch wird das Vertrauen zum Handwerker gestärkt und es fällt dem Nutzer oder der Nutzerin leichter die Dienstleistungen des Handwerkers anzunehmen.
-
-![Merkmale + Nutzen und Social Proof](/images/merkmale-und-nutzen-und-social-proof.jpg)
-
-_Merkmale + Nutzen und Social Proof_
-
-<h4 id="kontaktformular-und-footer">Kontaktformular und Footer</h4>
-
-Wenn die besuchende Person bis hier gescrollt hat, hat die Person die Möglichkeit den Schreiner direkt zu kontaktieren. Mit dem Kontaktformular ist es einfach sich direkt zu melden. Zudem sind weitere Kontaktdaten wie Adresse, Telefonnummer und E-Mail vorhanden.
-
-Im Footer kommt nochmals das Logo mit einer kurzen Beschreibung des Handwerkers vor. Ebenfalls ist hier eine Navigation und alle möglichen Kontaktdaten. Wie die Navigationsleiste kommt der Footer auch in allen anderen Seiten vor.
-
-![Kontaktformular und Footer](/images/kontaktformular-und-footer.jpg)
-
-_Kontaktformular und Footer_
 
 <h3 id="das-team">Das Team</h3>
 
@@ -226,6 +165,14 @@ Diese Seite dient zur Kontaktaufnahme mit dem Handwerker. Eine Landkarte im ober
 ![Einzelne Leistung und Kontakt Seite](/images/einzelne-leistung-und-kontakt-seite.jpg)
 
 _Einzelne Leistung und Kontakt Seite_
+
+<h2 id="wireframe-der-homepage">Wireframe der Homepage</h2>
+
+![Wireframe der Homepage](/images/full-version-business-website.jpg)
+
+<h2 id="farben-und-schriftarten">Farben und Schriftarten</h2>
+
+![Farben und Schriftarten](/images/farben-und-schriftarten-business-website.jpg)
 
 <h2 id="erweiterungen">Erweiterungen</h2>
 
