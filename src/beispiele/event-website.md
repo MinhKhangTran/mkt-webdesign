@@ -43,7 +43,7 @@ page_meta:
 <li><a href="#homepage">Homepage</a></li>
 </ul>
 </li>
-<li><a href="#wireframe-der-event-website">Wireframe der Event Website</a></li>
+<li><a href="#wireframe">Wireframe</a></li>
 <li><a href="#farben-und-schriftarten">Farben und Schriftarten</a></li>
 </ul>
         </div>
@@ -54,7 +54,7 @@ page_meta:
 
 Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
 
-## Event Website zu einem Food Truck Fest
+<h2 id="event-website-zu-einem-food-truck-fest">Event Website zu einem Food Truck Fest</h2>
 
 <a target="_blank" class="" href="https://nextjs-event-page.vercel.app/" rel="noopener noreferrer">Der Link zu der Event Website des Food Truck Fest</a>
 
@@ -66,13 +66,13 @@ Mit einer geschickten Promotion kommen viele Besucher oder Besucherinnen auf die
 
 Im Newsletter kann dann gezielt über das ganze Jahr das Event promoted werden. Ebenso können auf andere ähnliche Events des Organisators aufmerksam gemacht werden.
 
-## Aufbau der Event Website
+<h2 id="aufbau-der-event-website">Aufbau der Event Website</h2>
 
 <a target="_blank" class="" href="https://nextjs-event-page.vercel.app/" rel="noopener noreferrer">Der Link zu der Event Website des Food Truck Fest</a>
 
 Die Zielgruppe des Events ist lokale Männer oder Frauen jeglicher Altersgruppe. Das Design sollte daher einfach gehalten werden, aber dennoch noch modern und auf allen Geräten navigierbar sein.
 
-### Homepage
+<h3 id="homepage">Homepage</h3>
 
 Die Homepage beinhaltet folgende Komponenten:
 
@@ -90,11 +90,11 @@ Diese Event Website besteht nur aus einer Seite, deswegen soll sie komplett sein
 
 Die Seite ist so gestaltet, dass das wichtigste oben ist. Wenige Leute haben genug Zeit, um die Seite komplett zu scrollen, deswegen kommen weniger wichtige Abschnitte weiter unten.
 
-## Wireframe der Event Website
+<h2 id="wireframe">Wireframe</h2>
 
-![Wireframe der Event Website](/images/full-version-event.jpg)
+![Wireframe](/images/full-version-event.jpg)
 
-## Farben und Schriftarten
+<h2 id="farben-und-schriftarten">Farben und Schriftarten</h2>
 
 ![Farben und Schriftarten](/images/farben-und-schriftarten-event.jpg)
 
