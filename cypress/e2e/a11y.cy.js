@@ -61,47 +61,54 @@ describe("Check local server", () => {
   });
 });
 
-// const urls = [
-//   "http://localhost:8080/leistungen",
-//   "http://localhost:8080/kontakt",
-//   "http://localhost:8080/impressum",
-//   "http://localhost:8080/datenschutzerklärung",
-// ];
+const urls = [
+  "http://localhost:8080/leistungen",
+  "http://localhost:8080/leistungen/web-design",
+  "http://localhost:8080/leistungen/web-development",
+  "http://localhost:8080/leistungen/website-optimierung",
+  "http://localhost:8080/beispiele",
+  "http://localhost:8080/beispiele/landingpage",
+  "http://localhost:8080/beispiele/business-website",
+  "http://localhost:8080/beispiele/event-website",
+  "http://localhost:8080/beispiele/portfolio",
+  "http://localhost:8080/kontakt",
+  "http://localhost:8080/impressum",
+];
 
-// describe("Accessibility tests for home page", () => {
-//   beforeEach(() => {
-//     cy.visit("http://localhost:8080/").get("main").injectAxe();
-//   });
-//   it("Has no detectable accessibility violations on load", () => {
-//     cy.viewport("macbook-16");
-//     cy.checkA11y();
-//   });
-//   it("Check mobile viewport for a11y", () => {
-//     cy.viewport("iphone-8");
-//     cy.checkA11y();
-//   });
-//   it("Check tablet viewport for a11y", () => {
-//     cy.viewport("ipad-2");
-//     cy.checkA11y();
-//   });
-// });
+describe("Accessibility tests for home page", () => {
+  beforeEach(() => {
+    cy.visit("http://localhost:8080/").get("main").injectAxe();
+  });
+  it("Has no detectable accessibility violations on load", () => {
+    cy.viewport("macbook-16");
+    cy.checkA11y();
+  });
+  it("Check mobile viewport for a11y", () => {
+    cy.viewport("iphone-8");
+    cy.checkA11y();
+  });
+  it("Check tablet viewport for a11y", () => {
+    cy.viewport("ipad-2");
+    cy.checkA11y();
+  });
+});
 
-// describe("Accessibility tests pages", () => {
-//   urls.forEach((url) => {
-//     it(`Accessibility tests on ${url}`, () => {
-//       cy.visit(url).get("main").injectAxe();
-//     });
-//     it("Has no detectable accessibility violations on load", () => {
-//       cy.viewport("macbook-16");
-//       cy.checkA11y();
-//     });
-//     it("Check mobile viewport for a11y", () => {
-//       cy.viewport("iphone-8");
-//       cy.checkA11y();
-//     });
-//     it("Check tablet viewport for a11y", () => {
-//       cy.viewport("ipad-2");
-//       cy.checkA11y();
-//     });
-//   });
-// });
+describe("Accessibility tests pages", () => {
+  urls.forEach((url) => {
+    it(`Accessibility tests on ${url}`, () => {
+      cy.visit(url).get("main").injectAxe();
+    });
+    it("Has no detectable accessibility violations on load", () => {
+      cy.viewport("macbook-16");
+      cy.checkA11y();
+    });
+    it("Check mobile viewport for a11y", () => {
+      cy.viewport("iphone-8");
+      cy.checkA11y();
+    });
+    it("Check tablet viewport for a11y", () => {
+      cy.viewport("ipad-2");
+      cy.checkA11y();
+    });
+  });
+});

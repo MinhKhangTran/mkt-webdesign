@@ -11340,6 +11340,12 @@ nav ul a {
 nav ul a[data-state=active], nav ul a[aria-current=page] {
   color: #98654c !important;
 }
+nav .breadcrumb-item a {
+  color: #98654c !important;
+}
+nav .breadcrumb-item.active {
+  color: #6c757d !important;
+}
 
 .hero__wrapper {
   overflow: hidden;
@@ -12102,4 +12108,8 @@ footer .copyright {
   #intro p {
     font-size: 1.5rem;
   }
+}
+
+#leistungenPage p.text-primary {
+  color: #98654c !important;
 }

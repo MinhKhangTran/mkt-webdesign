@@ -34,4 +34,10 @@ nav {
       }
     }
   }
+  .breadcrumb-item a {
+    color: #98654c !important;
+  }
+  .breadcrumb-item.active {
+    color: #6c757d !important;
+  }
 }

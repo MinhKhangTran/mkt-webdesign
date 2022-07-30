@@ -37,7 +37,7 @@ page_meta:
 
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
-<aside class="toc">
+<div class="toc">
   <div class="card">
     <div class="card-body">
               <h2><a class="" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="false" aria-controls="collapseTOC">Inhaltsverzeichnis 
@@ -61,7 +61,7 @@ page_meta:
       </ul>
     </div>
   </div>
-</aside>
+</div>
 
 Bevor die Website veröffentlicht wird, wird noch überprüft, ob die Website schnell, zugänglich und sicher ist.
 

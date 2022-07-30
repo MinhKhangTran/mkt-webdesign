@@ -31,7 +31,7 @@ page_meta:
 
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
-  <aside class="toc">
+  <div class="toc">
       <div class="card">
         <div class="card-body">
         <h2><a class="" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="false" aria-controls="collapseTOC">Inhaltsverzeichnis 
@@ -52,7 +52,7 @@ page_meta:
         </div>
       </div>
 
-  </aside>
+  </div>
 
 <p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://nextjs-coach-jane-doe.vercel.app/" rel="noopener noreferrer">Hier geht es zum Portfolio ➡️</a></p>
 

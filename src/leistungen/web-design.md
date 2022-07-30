@@ -37,7 +37,7 @@ page_meta:
 
 <h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
 
-<aside class="toc">
+<div class="toc">
   <div class="card">
     <div class="card-body">
             <h2><a class="" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="false" aria-controls="collapseTOC">Inhaltsverzeichnis 
@@ -55,7 +55,7 @@ page_meta:
       </ul>
     </div>
   </div>
-</aside>
+</div>
 
 <h2 id="die-ziele-und-die-zielgruppe-verstehen">Die Ziele und die Zielgruppe verstehen</h2>
 
