@@ -37,9 +37,16 @@ Ein Blog ist eine Ansammlung von subjektiven Ansichten zu bestimmten Themen. Es 
 
 <h2 id="event-website-zu-einem-food-truck-fest">Mein persönlicher Blog</h2>
 
+Diese Beispiel ist mein persönlicher Blog. Es ist üblich, dass man für einen Blog gezielt Inhalt erstellt, die gefragt sind. Beispiele sind hierfür Reviews von Produkten, Top 10 [Produkte] - die besten [Produkte] 2022, oder Schritt-für-Schritt Anleitungen. Mit den Inhalten eines Blogs kann man den Traffic auf der Website erhöhen.
+
+Zudem kann mit einer Anmeldung zu einem Newsletter eine E-Mail Liste erstellt werden. Kombiniert mit einer gute E-Mail Marketing können mehr Kunden gewonnen werden.
+
+Doch ich nutze mein Blog lediglich für mich. Es ist minimalistisch aufgebaut mit kaum Javascript. Ich nutze es viel mehr als ein Tagebuch bzw. ein Journal.
+
+Dort möchte ich meine Fortschritte in meinen Hobbies festhalten.
+
 <a target="_blank" class="" href="https://minhkhangtran.com/" rel="noopener noreferrer">Der Link zu meinem Blog</a>
 
-Mehr in Kürze
 
 <h2 id="aufbau-der-event-website">Aufbau des Blogs</h2>
 
