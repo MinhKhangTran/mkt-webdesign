@@ -29,7 +29,12 @@ page_meta:
   webclip: /images/favicon-32x32.png
 ---
 
-<h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
+<h1 class="heading-1 | text-primary | routeSkipHeading"><a
+      href="#global-nav"
+      id="skip-main"
+      class="routeSkipLink"
+      aria-label="Skip to global navigation"
+    ></a>{{pageTitle}}</h1>
 
   <div class="toc">
       <div class="card">
@@ -62,7 +67,7 @@ Auf einem Portfolio werden die Leistungen und Produkte eines Unternehmens zusamm
 
 Da meistens einzelne Personen hinter der Website sind, sind Portfolios im Gegensatz zu <a target="_blank" rel="noopener noreferrer" href="/beispiele/business-website/">Business Websites</a> abgespeckter. Meist nur eine Seite mit allen wichtigen Informationen.
 
-<h2 id="portfolio-einer-personaltrainerin">Portfolio einer Personaltrainerin</h2>
+<h2 style="position: relative;" id="portfolio-einer-personaltrainerin"><a href="#portfolio-einer-personaltrainerin" aria-label="Portfolio einer Personaltrainerin Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Portfolio einer Personaltrainerin</h2>
 
 <a target="_blank" href="https://nextjs-coach-jane-doe.vercel.app/" rel="noopener noreferrer">Der Link zu dem Portfolio der Personaltrainerin</a>
 
@@ -72,7 +77,7 @@ Die Personaltrainerin benötigt für ihre Webpräsenz eine kleine Website, in de
 
 Die interessierenden Personen sollten zudem in der Lage sein sich bei der Personaltrainerin zu melden, falls sie die Dienstleistung benötigen oder Fragen haben.
 
-<h2 id="aufbau-des-portfolios">Aufbau des Portfolios</h2>
+<h2 style="position: relative;" id="aufbau-des-portfolios"><a href="#aufbau-des-portfolios" aria-label="Aufbau des Portfolios Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Aufbau des Portfolios</h2>
 
 <a target="_blank" href="https://nextjs-coach-jane-doe.vercel.app/" rel="noopener noreferrer">Der Link zu dem Portfolio der Personaltrainerin</a>
 
@@ -80,7 +85,7 @@ Als Hauptfarbe wurde ein helles Grün gewählt. Mit Grün assoziiert man Natur u
 
 Die Zielgruppe der Personaltrainerin ist lokale Männer oder Frauen jeglicher Altersgruppe. Das Design sollte daher einfach gehalten werden, aber dennoch noch modern und auf allen Geräten navigierbar sein.
 
-<h3 id="homepage">Homepage</h3>
+<h3 style="position: relative;" id="homepage"><a href="#homepage" aria-label="homepage Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Homepage</h3>
 
 Die Homepage beinhaltet folgende Komponenten:
 
@@ -96,15 +101,15 @@ Da das Portfolio nur eine Seite hat, sollte die Homepage komplett sein und alle 
 
 Die Seite ist so gestaltet, dass das wichtigste oben ist. Wenige Leute haben genug Zeit, um die Seite komplett zu scrollen, deswegen kommen weniger wichtige Abschnitte weiter unten.
 
-<h2 id="wireframe">Wireframe</h2>
+<h2 style="position: relative;" id="wireframe"><a href="#wireframe" aria-label="wireframe Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Wireframe</h2>
 
 ![Wireframe](/images/full-version-portfolio.jpg)
 
-<h2 id="farben-und-schriftarten">Farben und Schriftarten</h2>
+<h2 style="position: relative;" id="farben-und-schriftarten"><a href="#farben-und-schriftarten" aria-label="Farben und Schriftarten Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Farben und Schriftarten</h2>
 
 ![Farben und Schriftarten](/images/farben-und-schriftarten-portfolio.jpg)
 
-<h2 id="erweiterungen">Erweiterungen</h2>
+<h2 style="position: relative;" id="erweiterungen"><a href="#erweiterungen" aria-label="erweiterungen Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Erweiterungen</h2>
 
 Wie die <a target="_blank" rel="noopener noreferrer" href="/beispiele/business-website/">Business Website</a> lässt sich das Portfolio nahezu grenzenlos erweitern. Man kann z.B. ein Blog hinzufügen und in regelmäßigen Abständen Blogartikel verfassen. Diese sind natürlich alle Suchmaschinen optimiert, um für wichtige Keywords auf der ersten Seite der Suchmaschinen zu kommen.
 
@@ -112,7 +117,7 @@ Ebenso ist es möglich sogenannten Case Studies (Fallstudien) über ehemalige Pr
 
 Mehr Inhalt bedeutet mehr Relevanz für den Kunden oder die Kundinnen. Mehr Relevanz für den Kunden oder die Kundinnen wird meistens mit einem guten Ranking in den Suchmaschinen belohnt.
 
-<h2 id="fazit">Fazit</h2>
+<h2 style="position: relative;" id="fazit"><a href="#fazit" aria-label="fazit Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Fazit</h2>
 
 Portfolios sind perfekt, um die Webpräsenz einer einzelnen Person aufzubauen oder aufzubessern. Solche Websites lassen sich beliebig skalieren. Durch das Hinzufügen von neuem Inhalt kann man den Nutzer oder Nutzerinnen relevantere Inhalte anbieten. Je relevanter die Dienstleistung ist, desto eher wird aus einem Nutzer oder einer Nutzerin ein Kunde oder eine Kundin.
 
