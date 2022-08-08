@@ -63,7 +63,7 @@ page_meta:
   </div>
 </div>
 
-<h2 id="umsetzung-des-designs-in-code">Umsetzung des Designs in Code</h2>
+<h2 style="position: relative;" id="umsetzung-des-designs-in-code"><a href="#umsetzung-des-designs-in-code" aria-label="Umsetzung des Designs in Code Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Umsetzung des Designs in Code</h2>
 
 Der Begriff Web Development kommt aus dem Englischen und lässt sich mit Web Entwicklung übersetzen. Die Entwicklung von Websites befasst viele Aufgabengebiete.
 
@@ -75,7 +75,7 @@ Ebenso wird darauf geachtet, dass die Syntax sauber ist. Dadurch kann gewährlei
 
 Wird eine Datenbank oder ein Server - meist in Form eines CMS (Content Management System) - verwendet, bin ich in der Lage die Daten herauszulesen und diese visuell auf der Website darzustellen.
 
-<h2 id="die-grundpfeiler-jeder-website">Die Grundpfeiler jeder Website</h2>
+<h2 style="position: relative;" id="die-grundpfeiler-jeder-website"><a href="#die-grundpfeiler-jeder-website" aria-label="Die Grundpfeiler jeder Website Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Die Grundpfeiler jeder Website</h2>
 
 Typische “Programmiersprachen” sind HTML, CSS und Javascript.
 
@@ -83,7 +83,7 @@ Typische “Programmiersprachen” sind HTML, CSS und Javascript.
 
 _Die Grundpfeiler einer Website_
 
-<h3 id="html-hypertext-markup-language">HTML (Hypertext Markup Language)</h3>
+<h3 style="position: relative;" id="html-hypertext-markup-language"><a href="#html-hypertext-markup-language" aria-label="HTML Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>HTML (Hypertext Markup Language)</h3>
 
 HTML ist der Grundbaustein jeder Website.
 
@@ -95,17 +95,17 @@ D.h. Unterschriften sollten auch als Headings definiert werden. Viele Elemente, 
 
 Wenn es möglich ist, sollte man immer semantische HTLM5 Elemente (Semantic HTML) verwenden. Die netten Nebeneffekt sind barrierefreie Websites und Websites, die besser für die Suchmaschinen ranken (SEO).
 
-<h3 id="css-cascading-style-sheets">CSS (Cascading Style Sheets)</h3>
+<h3 style="position: relative;" id="css-cascading-style-sheets"><a href="#css-cascading-style-sheets" aria-label="CSS Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>CSS (Cascading Style Sheets)</h3>
 
 Für die Optik und das Design wird zusätzlich noch CSS benötigt. Kurz gesagt ist CSS für das Styling der Website verantwortlich. Mit CSS kann man das Layout anpassen, Farbe hinzufügen, Schriftgrößen und Bilder anpassen und vieles mehr. Wenn HTML das Gerüst ist, wird CSS als Haut bezeichnet.
 
 Mit CSS lässt sich das Layout für verschiedene Bildschirmgrößen anpassen. Dadurch ist die Website für jedes Gerät optimiert (Responsive Webdesign).
 
-<h3 id="javascript">Javascript</h3>
+<h3 style="position: relative;" id="javascript"><a href="#javascript" aria-label="javascript Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Javascript</h3>
 
 Zusätzlich kann für die Interaktivität auf der Website die Programmiersprache Javascript (JS) benutzen werden. Javascript ist bei der Website das Gehirn und die Muskeln. Ein einfaches Beispiel wäre das Betätigen einer Navigationsleiste. Meistens gibt es bei kleineren Bildschirmen bei der Navigationsleiste einen sogenannten “Toggler”. Um diese zu öffnen, muss der Benutzer auf die Leiste drücken. Daraufhin öffnet sich dann das Menü. Diese Interaktivität lässt sich einfach mit Javascript implementieren.
 
-<h2 id="statische-website">Statische Website</h2>
+<h2 style="position: relative;" id="statische-website"><a href="#statische-website" aria-label="Statische Website Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Statische Website</h2>
 
 Mit diesen drei Grundpfeiler lassen sich statische Websites erstellen.
 
@@ -117,7 +117,7 @@ Wird eine statische Website im Browser (Chrome, Firefox oder ähnliches) aufgeru
 
 _Seitenanfrage einer Statischen Website_
 
-<h3 id="seo-freundlich-schnell-und-sicher">SEO-Freundlich, schnell und sicher</h3>
+<h3 style="position: relative;" id="seo-freundlich-schnell-und-sicher"><a href="#seo-freundlich-schnell-und-sicher" aria-label="SEO-Freundlich, schnell und sicher Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>SEO-Freundlich, schnell und sicher</h3>
 
 Ein „fest" eingebetteter Inhalt ist gut für Suchmaschinen (SEO). Die Suchmaschinen, wie z.B. Google oder Bing, “crawlen” jede Seite und ordnen den Inhalt zu einem bestimmten Suchbegriff und Platzieren diese nach Relevanz in den Index (Indexierung).
 
@@ -127,20 +127,21 @@ Statische Websiten sind standardmäßig schnell und sicher. Es handelt sich dabe
 
 HTML-Dateien benötigen wenig Speicherplatz. Das Hosten statischer Websites ist daher einfach und günstig.
 
-<h3 id="statische-websites-beispiele">Statische Websites Beispiele</h3>
+<h3 style="position: relative;" id="statische-websites-beispiele"><a href="#statische-websites-beispiele" aria-label="Statische Websites Beispiele Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Statische Websites Beispiele</h3>
 
 - <a target="_blank" rel="noopener noreferrer" href="/beispiele/landingpage/">Landing pages</a>
 - <a target="_blank" rel="noopener noreferrer" href="/beispiele/business-website/">Business Websites</a>
 - <a target="_blank" rel="noopener noreferrer" href="/beispiele/portfolio/">Portfolio</a>
 - <a target="_blank" rel="noopener noreferrer" href="/beispiele/event-website/">Marketing Websites</a>
-- Blog
+- <a target="_blank" rel="noopener noreferrer" href="/beispiele/blog/">Blog</a>
 - Dokumentation
+- E-Commerce
 
 ![Statische Websites Beispiele](/images/beispiele-statische-websites.jpg)
 
 _Statische Websites Beispiele_
 
-<h3 id="für-wen-eignen-sich-statische-websites">Für wen eignen sich statische Websites</h3>
+<h3 style="position: relative;" id="für-wen-eignen-sich-statische-websites"><a href="#für-wen-eignen-sich-statische-websites" aria-label="Für wen eignen sich statische Websites Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Für wen eignen sich statische Websites</h3>
 
 Für den Aufbau einer Webpräsenz eignen sich statische Websites perfekt.
 
