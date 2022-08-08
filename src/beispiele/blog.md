@@ -94,7 +94,7 @@ Diese Seite beinhaltet folgende Komponenten:
 - Blogpost
 - Footer
 
-<h2 id="wireframe">Wireframe der Homepage</h2>
+<h2 id="wireframe-der-homepage">Wireframe der Homepage</h2>
 
 ![Wireframe](/images/full-version-blog-homepage.jpg)
 
