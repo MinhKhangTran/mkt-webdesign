@@ -29,7 +29,12 @@ page_meta:
   webclip: /images/favicon-32x32.png
 ---
 
-<h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
+<h1 class="heading-1 | text-primary | routeSkipHeading"><a
+      href="#global-nav"
+      id="skip-main"
+      class="routeSkipLink"
+      aria-label="Skip to global navigation"
+    ></a>{{pageTitle}}</h1>
 
   <div class="toc">
       <div class="card">
@@ -57,7 +62,7 @@ page_meta:
 
 Ein Blog ist eine Ansammlung von subjektiven Ansichten zu bestimmten Themen. Es kann als digitales Tagebuch oder Journal benutzt werden.
 
-<h2 id="mein-persoenlicher-blog">Mein persönlicher Blog</h2>
+<h2 style="position: relative;" id="mein-persoenlicher-blog"><a href="#mein-persoenlicher-blog" aria-label="Mein persönlicher Blog Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Mein persönlicher Blog</h2>
 
 <a target="_blank" class="" href="https://minhkhangtran.com/" rel="noopener noreferrer">Der Link zu meinem Blog</a>
 
@@ -65,7 +70,7 @@ Diese Beispiel ist mein persönlicher Blog. Es ist üblich, dass man für einen 
 
 Zudem kann mit einer Anmeldung zu einem Newsletter eine E-Mail Liste erstellt werden. Kombiniert mit einer gute E-Mail Marketing können mehr Kunden gewonnen werden.
 
-<h2 id="aufbau-des-blogs">Aufbau des Blogs</h2>
+<h2 style="position: relative;" id="aufbau-des-blogs"><a href="#aufbau-des-blogs" aria-label="Aufbau des Blogs Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Aufbau des Blogs</h2>
 
 <a target="_blank" class="" href="https://minhkhangtran.com/" rel="noopener noreferrer">Der Link zu meinem Blog</a>
 
@@ -75,7 +80,7 @@ Ich nutze es viel mehr als ein Tagebuch bzw. ein Journal.
 
 Dort möchte ich meine Fortschritte in meinen Hobbies festhalten.
 
-<h3 id="homepage">Homepage</h3>
+<h3 style="position: relative;" id="homepage"><a href="#homepage" aria-label="homepage Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Homepage</h3>
 
 Die Homepage beinhaltet folgende Komponenten:
 
@@ -85,7 +90,7 @@ Die Homepage beinhaltet folgende Komponenten:
 - Blogposts
 - Footer
 
-<h3 id="einzelner-blogpost">Einzelner Blogpost</h3>
+<h3 style="position: relative;" id="einzelner-blogpost"><a href="#einzelner-blogpost" aria-label="Einzelner Blogpost Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Einzelner Blogpost</h3>
 
 Diese Seite beinhaltet folgende Komponenten:
 
@@ -94,11 +99,11 @@ Diese Seite beinhaltet folgende Komponenten:
 - Blogpost
 - Footer
 
-<h2 id="wireframe-der-homepage">Wireframe der Homepage</h2>
+<h2 style="position: relative;" id="wireframe-der-homepage"><a href="#wireframe-der-homepage" aria-label="Wireframe der Homepage Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Wireframe der Homepage</h2>
 
 ![Wireframe](/images/full-version-blog-homepage.jpg)
 
-<h2 id="farben-und-schriftarten">Farben und Schriftarten</h2>
+<h2 style="position: relative;" id="farben-und-schriftarten"><a href="#farben-und-schriftarten" aria-label="Farben und Schriftarten Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Farben und Schriftarten</h2>
 
 ![Farben und Schriftarten](/images/farben-und-schriftarten-blog.jpg)
 
