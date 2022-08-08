@@ -82,7 +82,7 @@ Ein weiterer Schritt für ein gutes Web Design ist die Untersuchung der Konkurre
 
 Um kontinuierlichen Erfolg der Website sicherstellenzukönnen muss diese regelmäßig getestet werden. Die finale Website wird dabei analysiert. Falls notwendig werden bestimmte Elemente angepasst oder erneuert. Dazu gehört z.B. das Ändern der Farben, des Textes oder der Schriftarten.
 
-<h2 id="wireframing">Wireframing</h2>
+<h2 style="position: relative;" id="wireframing"><a href="#wireframing" aria-label="Wireframing Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Wireframing</h2>
 
 Im nächsten Schritt werden ein “grobes” Layout und Design erstellt, ein sogenanntes Wireframe. Es beinhaltet passende Schriftarten und Farben für die Website oder App.
 
@@ -102,11 +102,11 @@ Der gesamte Wireframing Prozess erfolgt stets in Absprache mit Ihnen.
 
 Am Ende des Wireframings kann optional ein sogenanntes Prototyping verwendet werden. Dabei wird das gewählte Design interaktiv ausgestaltet, um einen Website-Prototpyen zu erzeugen. Dies bietet Ihnen die Möglichkeit Bedienung und Design der Website vor der Veröffentlichung ausgiebig zu testen. Sollten Ihrerseits Änderungswünsche bestehen, können diese unkompliziert umgesetzt werden.
 
-<h2 id="fokus-auf-ui-ux-und-barrierefreiheit">Fokus auf UI, UX und Barrierefreiheit</h2>
+<h2 style="position: relative;" id="fokus-auf-ui-ux-und-barrierefreiheit"><a href="#fokus-auf-ui-ux-und-barrierefreiheit" aria-label="Fokus auf UI, UX und Barrierefreiheit Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Fokus auf UI, UX und Barrierefreiheit</h2>
 
 Web Design beschreibt das Design einer Website oder einer App. Der Fokus liegt dabei auf User Interface (UI), User Experience (UX) und Barrierefreiheit.
 
-<h3 id="ui">UI</h3>
+<h3 style="position: relative;" id="ui"><a href="#ui" aria-label="UI Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>UI</h3>
 
 Die UI konzentriert sich auf die Design Elemente wie Buttons, Navigation, Footer etc. Der Web Designer oder die Web Designerin setzt diese Design Elemente puzzleartig in ein Layout ein und erstellt so schrittweise ein Design.
 
@@ -120,7 +120,7 @@ Für die farbliche Ausgestaltung Ihrer Website werden entweder passende Farben a
 
 _Design Komponenten, Schriftarten und Farben_
 
-<h3 id="barrierefreiheit">Barrierefreiheit</h3>
+<h3 style="position: relative;" id="barrierefreiheit"><a href="#barrierefreiheit" aria-label="Barrierefreiheit Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Barrierefreiheit</h3>
 
 Die Design Elemente werden so erstellt, dass diese stets barrierefrei sind. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Website uneingeschränkt bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
 
@@ -135,7 +135,7 @@ Einige Beispiele für die Umsetzung:
 
 _Farbkontrast und Farbliche Mitteilungen_
 
-<h3 id="ux">UX</h3>
+<h3 style="position: relative;" id="ux"><a href="#ux" aria-label="ux Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>UX</h3>
 
 Auf der anderen Seite konzentriert sich die UX auf die Erfahrung des Nutzers oder der Nutzerin der Website, um eine ansprechende UX erschaffen zu könnnen, wird das Verhalten der Nutzer\*in analysiert.
 
