@@ -35,7 +35,7 @@ page_meta:
   </ol>
 </nav>
 
-<h1 class="heading-1 | text-primary| routeSkipHeading"><a
+<h1 class="heading-1 | text-primary | routeSkipHeading"><a
       href="#global-nav"
       id="skip-main"
       class="routeSkipLink"
