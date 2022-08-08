@@ -35,7 +35,12 @@ page_meta:
   </ol>
 </nav>
 
-<h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
+<h1 class="heading-1 | text-primary | routeSkipHeading"><a
+      href="#global-nav"
+      id="skip-main"
+      class="routeSkipLink"
+      aria-label="Skip to global navigation"
+    ></a>{{pageTitle}}</h1>
 
 <div class="toc">
   <div class="card">

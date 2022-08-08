@@ -35,7 +35,12 @@ page_meta:
   </ol>
 </nav>
 
-<h1 class="heading-1 | text-primary">{{pageTitle}}</h1>
+<h1 class="heading-1 | text-primary| routeSkipHeading"><a
+      href="#global-nav"
+      id="skip-main"
+      class="routeSkipLink"
+      aria-label="Skip to global navigation"
+    ></a>{{pageTitle}}</h1>
 
 <div class="toc">
   <div class="card">
@@ -67,7 +72,7 @@ Bevor die Website veröffentlicht wird, wird noch überprüft, ob die Website sc
 
 Um diese Eigenschaften zu “messen” wird primär das Tool Lighthouse verwendet.
 
-<h2 id="ein-grober-überblick-mit-lighthouse">Ein grober Überblick mit Lighthouse</h2>
+<h2 style="position: relative;" id="ein-grober-überblick-mit-lighthouse"><a href="#ein-grober-überblick-mit-lighthouse" aria-label="Ein grober Überblick mit Lighthouse Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Ein grober Überblick mit Lighthouse</h2>
 
 ![Lighthouse Ergebnisse](/images/lighthouse-ergebnisse.jpg)
 
@@ -88,11 +93,11 @@ Werte von 50-89% werden in orange dargestellt. Diese Werte sind gut, aber es sin
 
 Werte von 90-100% werden in grün dargestellt und sollte das Ziel sein.
 
-<h3 id="leistung-oder-performance">Leistung oder Performance</h3>
+<h3 style="position: relative;" id="leistung-oder-performance"><a href="#leistung-oder-performance" aria-label="Leistung oder Performance Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Leistung oder Performance</h3>
 
 In diesem Test wird die Ladegeschwindigkeit der Website geprüft. Die Angabe erfolgt in Sekunden [s].
 
-<h4 id="messwerte">Messwerte</h4>
+<h4 style="position: relative;" id="messwerte"><a href="#messwerte" aria-label="messwerte Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Messwerte</h4>
 
 ![Messwerte für die Leistung](/images/lighthouse-leistung-messwerte.png)
 
@@ -133,7 +138,7 @@ Mit diesen Methoden sollte die Website im grünen Bereich sein.
 
 Um auf die 100% zu kommen, benötigt man ein tieferes Verständnis zu den Messwerten. Dies ist mit einem größeren Zeitaufwand verbunden.
 
-<h3 id="barrierefreiheit-oder-accessibility">Barrierefreiheit oder Accessibility</h3>
+<h3 style="position: relative;" id="barrierefreiheit-oder-accessibility"><a href="#barrierefreiheit-oder-accessibility" aria-label="Barrierefreiheit oder Accessibility Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Barrierefreiheit oder Accessibility</h3>
 
 Dieser Test beschreibt, wie barrierefrei eine Website ist. Von Barrierefreiheit im Web spricht man, wenn Menschen mit körperlichen Einschränkungen eine Website normal bedienen können. Zu den Einschränkungen gehören unter anderem: Blindheit, Sehbehinderung, Taubheit, motorisch Beeinträchtigungen oder Konzentrationsschwäche.
 
@@ -145,7 +150,7 @@ Unterschriften sollten auch als Headings (HTML-Element für Überschriften) defi
 
 Das Ziel bei diesem Test sollte 100% sein.
 
-<h3 id="best-practices">Best Practices</h3>
+<h3 style="position: relative;" id="best-practices"><a href="#best-practices" aria-label="Best Practices Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Best Practices</h3>
 
 Hier werden hauptsächlich die technischen Aspekte der Website getestet.
 
@@ -153,7 +158,7 @@ Zu den technischen Aspekte gehören: SSL-Zertifikat, sichere Javascript-Biblioth
 
 Auch hier sollte der Test zwischen 90% und 100% sein.
 
-<h3 id="seo">SEO</h3>
+<h3 style="position: relative;" id="seo"><a href="#seo" aria-label="seo Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>SEO</h3>
 
 Ein erfolgreicher Test bei diesem Kennwert gewährt kein gutes Ranking bei den Suchmaschinen. Dieser Test testet lediglich die Grundlagen vom technischen und On-Page SEO.
 
@@ -167,11 +172,11 @@ Der Alt-Text sollte daher das Bild so gut wie möglich beschreiben.
 
 Das Ziel bei diesem Test sollte 100% sein.
 
-<h3 id="fazit">Fazit</h3>
+<h3 style="position: relative;" id="fazit"><a href="#fazit" aria-label="fazit Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Fazit</h3>
 
 Beim Entwicklen Ihrer Website überprüfe ich die Website regelmäßig mit dem Lighthouse Tool. Gute Ergebnisse liefern den Grundbaustein für eine schnelle, barrierefreie und sichere Website.
 
-<h2 id="sichtbar-werden-durch-on-page-seo">Sichtbar werden durch On-Page SEO</h2>
+<h2 style="position: relative;" id="sichtbar-werden-durch-on-page-seo"><a href="#sichtbar-werden-durch-on-page-seo" aria-label="Sichtbar werden durch On-Page SEO Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Sichtbar werden durch On-Page SEO</h2>
 
 Für ein gutes Ranking ist natürlich auch der Inhalt relevant. Der Inhalt muss relevant für den Nutzer sein. Dadurch erkennt eine Suchmaschine, dass die Website von Wert ist.
 
@@ -187,7 +192,7 @@ _Short Tail vs Long Tail_
 
 Durch die Nutzung von solchen Keywords ist die Konkurrenz geringer und das Suchvolumen noch hoch genug, um Seitenaufrufe auf die Website zu generieren.
 
-<h2 id="testen-und-aktualisieren">Testen und Aktualisieren</h2>
+<h2 style="position: relative;" id="testen-und-aktualisieren"><a href="#testen-und-aktualisieren" aria-label="Testen und Aktualisieren Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Testen und Aktualisieren</h2>
 
 Die Suchmaschine Optimierung und das Design der Website ist ein konstanter Prozess. Mit einer einmaligen Inhaltserstellung kann kein gutes Ranking auf der Suchmaschine gewährleistet sein. Daher ist es wichtig die Website zu analysieren und diese Stück für Stück zu verbessern.
 
