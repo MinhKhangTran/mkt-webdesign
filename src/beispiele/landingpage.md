@@ -1,8 +1,8 @@
 ---
 title: "Landingpage | MKT Webdesign"
-pageTitle: Landingpage
-description: Eine Landingpage hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben.
-img: /images/hero-landingpage.jpg
+pageTitle: 10 Merkmale einer gelungenen Landingpage
+description: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
+img: /images/hero-landingpage-beispiel.jpg
 altImg: "Landingpage Hauptbild"
 featured: true
 order: 1
@@ -12,17 +12,17 @@ page_cta:
   cta_button: Loslegen!
 page_meta:
   metaDesc: description
-  metaDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgTitle: og:title
-  metaOgTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaOgTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgDesc: og:description
-  metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgImage: og:image
   metaOgImageContent: /images/ogDesc.jpg
   metaTwitterTitle: twitter:title
-  metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
   metaTwitterDesc: twitter:description
-  metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen.
+  metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
   metaTwitterImage: twitter:image
   metaTwitterImageContent: /images/ogDesc.jpg
   faviconIco: /images/favicon.ico
@@ -181,7 +181,7 @@ _Über mich_
 
 <h2 style="position: relative;" id="wireframe"><a href="#wireframe" aria-label="wireframe Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Wireframe</h2>
 
-![Wireframe](/images/full-version-landingpage.jpg)
+![Wireframe](/images/full-version-landingpage-beispiel.jpg)
 
 <h2 style="position: relative;" id="farben-und-schriftarten"><a href="#farben-und-schriftarten" aria-label="Farben und Schriftarten Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Farben und Schriftarten</h2>
 
