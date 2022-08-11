@@ -1,6 +1,7 @@
 ---
 title: "Event Website | MKT Webdesign"
 pageTitle: Event Website
+cardTitle: Event Website
 description: Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
 img: /images/hero-event.jpg
 altImg: "Event Website für Food Truck Fest"

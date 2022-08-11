@@ -1,6 +1,7 @@
 ---
 title: "Blog | MKT Webdesign"
 pageTitle: Blog
+cardTitle: Blog
 description: Ein Blog ist eine Ansammlung von subjektiven Ansichten zu bestimmten Themen. Es kann als digitales Tagebuch oder Journal benutzt werden.
 img: /images/hero-blog.jpg
 altImg: "Mein persönlicher Blog Bild"

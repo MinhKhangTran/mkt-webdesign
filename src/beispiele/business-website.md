@@ -1,6 +1,7 @@
 ---
 title: "Business Website | MKT Webdesign"
-pageTitle: Business Website
+pageTitle: Business Website für einen Handwerker (Beispiel)
+cardTitle: Business Website
 description: Eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten.
 img: /images/hero-business-website.jpg
 altImg: "Business Website für einen Handwerker Hauptbild"

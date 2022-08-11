@@ -1,6 +1,7 @@
 ---
 title: "Dokumentation | MKT Webdesign"
-pageTitle: Dokumentation
+pageTitle: Dokumentation Website für einen Verein
+cardTitle: Dokumentation
 description: Mehr in Kürze
 img: /images/hero-dokumentation-fuer-ein-verein.jpg
 altImg: "Mein persönlicher Blog Bild"
