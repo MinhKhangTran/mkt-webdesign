@@ -3,7 +3,7 @@ title: "Landingpage | MKT Webdesign"
 pageTitle: 10 Merkmale einer gelungenen Landingpage
 description: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
 img: /images/hero-landingpage-beispiel.jpg
-altImg: "Landingpage Hauptbild"
+altImg: "Das Hauptbild des Landingpage Beispiels"
 featured: true
 order: 1
 page_cta:
