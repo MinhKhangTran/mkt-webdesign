@@ -11241,6 +11241,12 @@ select {
   }
 }
 
+.heading-4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #98654c !important;
+}
+
 .social-heading {
   font-size: 1rem;
   font-weight: 700;

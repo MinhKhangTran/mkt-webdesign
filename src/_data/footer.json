@@ -24,6 +24,10 @@
     {
       "url": "/impressum/",
       "navigation": "Impressum"
+    },
+    {
+      "url": "/datenschutzerklaerung/",
+      "navigation": "Datenschutzerklärung"
     }
   ],
   "socials": [
