@@ -11424,7 +11424,7 @@ nav .breadcrumb-item.active {
   }
 }
 #hero .hero__right--panel {
-  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(10deg) rotateY(0deg) rotateZ(22deg) skew(0deg, 0deg);
+  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(10deg) rotateY(0deg) rotateZ(8deg) skew(0deg, 0deg);
   transform-style: preserve-3d;
   margin-top: 9rem;
 }
@@ -11432,7 +11432,7 @@ nav .breadcrumb-item.active {
   #hero .hero__right--panel {
     position: absolute;
     margin-top: 0rem;
-    top: -15%;
+    top: -25%;
     left: 65%;
   }
 }
@@ -11441,22 +11441,8 @@ nav .breadcrumb-item.active {
     left: 53%;
   }
 }
-#hero .hero__right--panel .first__row {
-  animation: flowIn 3s cubic-bezier(0.33, 1, 0.68, 1);
-}
-#hero .hero__right--panel .second__row {
-  gap: 2rem;
-  margin-block: 3rem;
-  animation: flowIn 3.5s cubic-bezier(0.33, 1, 0.68, 1);
-}
-#hero .hero__right--panel .third__row {
-  gap: 2rem;
-  animation: flowIn 4s cubic-bezier(0.33, 1, 0.68, 1);
-}
 #hero .hero__right--panel img {
-  border-radius: 8px;
-  border: 1px #402e32 solid;
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  animation: flowIn 3s cubic-bezier(0.33, 1, 0.68, 1);
 }
 
 @keyframes flowIn {
