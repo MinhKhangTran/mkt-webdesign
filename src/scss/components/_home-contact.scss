@@ -1,0 +1,26 @@
+@use "sass:math";
+
+#home-contact {
+  @include border;
+  .home-contact--wrapper {
+    padding-block: math.div(32rem, 16) math.div(64rem, 16);
+    @include lg {
+      padding-block: math.div(64rem, 16) math.div(128rem, 16);
+    }
+  }
+  h2 {
+    margin-bottom: 2rem;
+  }
+  .email--part {
+    margin-top: 2rem;
+    @include lg {
+      margin-top: 0;
+    }
+  }
+  .message--part {
+    margin-block: 2rem;
+  }
+  .checker--part {
+    margin-bottom: 2rem;
+  }
+}

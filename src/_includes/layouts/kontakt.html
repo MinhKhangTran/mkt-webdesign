@@ -1,5 +1,5 @@
-{% if page_meta %} {% set metaContent = page_meta %} {% endif %}
-{% extends "layouts/base.html" %} {% block content %}
+{% if page_meta %} {% set metaContent = page_meta %} {% endif %} {% extends
+"layouts/base.html" %} {% block content %}
 <section
   id="contact"
   aria-label="contact"
@@ -20,5 +20,4 @@
     </div>
   </div>
 </section>
-
-{% endblock %}
+{% include "partials/home-contact.html" %} {% endblock %}

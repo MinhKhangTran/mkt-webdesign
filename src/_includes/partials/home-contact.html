@@ -1,0 +1,72 @@
+<section id="home-contact" aria-label="home-contact section" class="">
+  <div class="wrapper home-contact--wrapper">
+    <h2 class="heading-2 | text-primary text-center">
+      Lassen Sie uns zusammenarbeiten!
+    </h2>
+    <form
+      action="https://formspree.io/f/xvoyoqvj"
+      method="POST"
+      class="sm__wrapper | row needs-validation"
+      novalidate
+    >
+      <div class="col-lg-6 | name--part">
+        <label for="name" class="form-label">Name</label>
+        <input
+          name="name"
+          type="text"
+          class="form-control"
+          id="name"
+          required
+        />
+        <div class="invalid-feedback">Bitte einen Name eingeben</div>
+      </div>
+      <div class="col-lg-6 | email--part">
+        <label for="email" class="form-label">E-Mail</label>
+        <input
+          name="email"
+          type="email"
+          class="form-control"
+          id="email"
+          required
+        />
+        <div class="invalid-feedback">Bitte eine E-Mail eingeben</div>
+      </div>
+      <div class="col-12 | message--part">
+        <label for="validationTextarea" class="form-label"
+          >Ihre Nachricht</label
+        >
+        <textarea
+          class="form-control"
+          id="validationTextarea"
+          placeholder="Ihre Nachricht"
+          required
+          rows="6"
+          name="message"
+        ></textarea>
+        <div class="invalid-feedback">Bitte eine Nachricht eingeben</div>
+      </div>
+
+      <div class="col-12 | checker--part">
+        <div class="form-check">
+          <input
+            class="form-check-input"
+            type="checkbox"
+            value=""
+            id="invalidCheck"
+            required
+          />
+          <label class="form-check-label" for="invalidCheck">
+            Ich akzeptiere die Geschäftsbedingungen
+          </label>
+          <div class="invalid-feedback">Dies ist ein Pflichtfeld</div>
+        </div>
+      </div>
+
+      <div class="col-12">
+        <button type="submit" class="text-white | btn-main">
+          Nachricht abschicken
+        </button>
+      </div>
+    </form>
+  </div>
+</section>

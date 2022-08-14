@@ -12213,3 +12213,33 @@ footer .copyright {
 #leistungenPage p.text-primary {
   color: #98654c !important;
 }
+
+#home-contact {
+  border-bottom: solid 2px #402e32;
+  border-top: solid 2px #402e32;
+}
+#home-contact .home-contact--wrapper {
+  padding-block: 2rem 4rem;
+}
+@media (min-width: 992px) {
+  #home-contact .home-contact--wrapper {
+    padding-block: 4rem 8rem;
+  }
+}
+#home-contact h2, #home-contact .h2 {
+  margin-bottom: 2rem;
+}
+#home-contact .email--part {
+  margin-top: 2rem;
+}
+@media (min-width: 992px) {
+  #home-contact .email--part {
+    margin-top: 0;
+  }
+}
+#home-contact .message--part {
+  margin-block: 2rem;
+}
+#home-contact .checker--part {
+  margin-bottom: 2rem;
+}
