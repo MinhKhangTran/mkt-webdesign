@@ -12229,6 +12229,11 @@ footer .copyright {
 #home-contact h2, #home-contact .h2 {
   margin-bottom: 2rem;
 }
+#home-contact form {
+  width: 100%;
+  max-width: 794px;
+  margin-inline: auto;
+}
 #home-contact .email--part {
   margin-top: 2rem;
 }
