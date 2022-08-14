@@ -60,7 +60,7 @@ page_meta:
 
   </div>
 
-<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://doc-verein.netlify.app/" rel="noopener noreferrer">Hier geht es zur Dokumentation Website ➡️</a></p>
+<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://doc-verein.netlify.app/" rel="noopener noreferrer">Hier geht es zur Dokumentation ➡️</a></p>
 
 Mit Hilfe einer Dokumentation können Dokumente, Anleitungen oder Ansammlungen von Materialien jeglicher Art strukturiert werden.
 
