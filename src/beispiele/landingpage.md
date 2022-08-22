@@ -1,8 +1,8 @@
 ---
 title: "Landingpage | MKT Webdesign"
-pageTitle: 10 Merkmale einer gelungenen Landingpage mit Beispiel
+pageTitle: 10 Merkmale einer guten Landingpage mit Beispiel
 cardTitle: Landingpage
-description: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
+description: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
 img: /images/hero-landingpage-beispiel.jpg
 altImg: "Das Hauptbild der Landingpage (Beispiel)"
 featured: true
@@ -13,17 +13,17 @@ page_cta:
   cta_button: Loslegen!
 page_meta:
   metaDesc: description
-  metaDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgTitle: og:title
-  metaOgTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaOgTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgDesc: og:description
-  metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgImage: og:image
   metaOgImageContent: /images/ogDesc.jpg
   metaTwitterTitle: twitter:title
-  metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
   metaTwitterDesc: twitter:description
-  metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
   metaTwitterImage: twitter:image
   metaTwitterImageContent: /images/ogDesc.jpg
   faviconIco: /images/favicon.ico
@@ -82,7 +82,7 @@ page_meta:
       </div>
   </div>
 
-<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://landingpage-beispiel.netlify.app/" rel="noopener noreferrer">Hier geht es zur Beipsiel Landingpage ➡️</a></p>
+<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://landingpage-beispiel.netlify.app/" rel="noopener noreferrer">Hier geht es zur Beispiel Landingpage ➡️</a></p>
 
 <h2 style="position: relative;" id="was-ist-eine-landingpage"><a href="#was-ist-eine-landingpage" aria-label="Was ist eine Landingpage Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Was ist eine Landingpage</h2>
 
