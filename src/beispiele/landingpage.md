@@ -19,13 +19,13 @@ page_meta:
   metaOgDesc: og:description
   metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgImage: og:image
-  metaOgImageContent: /images/ogDesc.jpg
+  metaOgImageContent: /images/og-image-landingpage.jpg
   metaTwitterTitle: twitter:title
   metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
   metaTwitterDesc: twitter:description
   metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
   metaTwitterImage: twitter:image
-  metaTwitterImageContent: /images/ogDesc.jpg
+  metaTwitterImageContent: /images/og-image-landingpage.jpg
   faviconIco: /images/favicon.ico
   webclip: /images/favicon-32x32.png
 ---
