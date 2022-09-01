@@ -8,6 +8,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/js");
   eleventyConfig.addPassthroughCopy("./src/admin");
   eleventyConfig.addWatchTarget("./src/scss/");
+  eleventyConfig.addWatchTarget("./src/fonts");
+
+
 
   // add filter for the year
   eleventyConfig.addFilter("year", () => {
