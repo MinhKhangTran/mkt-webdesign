@@ -19,13 +19,13 @@ page_meta:
   metaOgDesc: og:description
   metaOgDescContent: Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.
   metaOgImage: og:image
-  metaOgImageContent: /images/ogDesc.jpg
+  metaOgImageContent: /images/og-image-business-website-beispiel.jpg
   metaTwitterTitle: twitter:title
   metaTwitterTitleContent: Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.
   metaTwitterDesc: twitter:description
   metaTwitterDescContent: Eine Business Website ist eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten. Die Website beschreibt dabei das Unternehmen und das Produkt oder die Dienstleistung des Unternehmens.
   metaTwitterImage: twitter:image
-  metaTwitterImageContent: /images/ogDesc.jpg
+  metaTwitterImageContent: /images/og-image-business-website-beispiel.jpg
   faviconIco: /images/favicon.ico
   webclip: /images/favicon-32x32.png
 ---
