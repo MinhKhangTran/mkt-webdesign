@@ -3,6 +3,7 @@
   "desc": "Der Prozess der Erstellung und des Hostings einer Website von Grund auf ist schwierig und zeitaufwendig. ",
   "steps": [
     {
+      "title": "Dialog & Design",
       "image": "laptop-auf-einem-tisch-mit-einer-design-website-auf-dem-bildschirm",
       "benefit_title": "Laptop auf einem Tisch mit einer Design Website auf dem Bildschirm",
       "bulletpoints": [
@@ -20,6 +21,7 @@
       "href": "/leistungen/web-design"
     },
     {
+      "title": "Development",
       "image": "laptop-auf-dem-tisch-mit-einem-code-editor-auf-dem-bildschirm",
       "benefit_title": "Laptop auf dem Tisch mit einem Code Editor auf dem Bildschirm",
       "bulletpoints": [
@@ -37,6 +39,7 @@
       "href": "/leistungen/web-development"
     },
     {
+      "title": "Deployment & Optimierung",
       "benefit_title": "Laptop auf dem Tisch mit einem Dashboard auf dem Bildschirm",
       "image": "laptop-auf-dem-tisch-mit-einem-dashboard-auf-dem-bildschirm",
       "bulletpoints": [

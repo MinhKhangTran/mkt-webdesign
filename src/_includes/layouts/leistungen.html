@@ -1,55 +1,63 @@
-{% if page_meta %} {% set metaContent = page_meta %} {% endif %} {% extends
-"layouts/base.html" %} {% set projectListItems = pagination.items %} {% block
-content %} {% if page_cta %} {% set ctaContent = page_cta %} {% endif %}
+{% if page_meta %}
+    {% set metaContent = page_meta %}
+{% endif %}
+{% extends
+"layouts/base.html" %}
+{% set projectListItems = pagination.items %}
+{% block
+content %}
+    {% if page_cta %}
+        {% set ctaContent = page_cta %}
+    {% endif %}
 
-<section
-  id="leistungenPage"
-  aria-label="projekt page section"
-  class="wrapper pt-lg-5 pt-3 pb-4 mt-lg-4 mt-3"
->
-  <h1 class="heading-1 text-primary">{{header.heading}}</h1>
-  <p class="body-lg | text-primary fst-italic mt-3">
-    Wollen Sie mehr Interessenten haben? Wollen Sie Ihre Webpräsenz bzw. Ihre
-    Reichweite im Internet verbessern?
-  </p>
-  <p class="body-lg | mt-2">
-    Dann benötigen Sie und Ihre Dienstleistung eine Plattform. Dafür eignen sich
-    statische Websites am besten. Es sind Websites, die Ihren Kunden Ihre besten
-    Seiten zeigen!
-  </p>
+    <section aria-label="projekt page section" class="wrapper pt-lg-5 pt-3 pb-4 mt-lg-4 mt-3" id="leistungenPage">
+        <h1 class="heading-1 text-primary">{{header.heading}}</h1>
+        <p class="body-lg | fw-bold text-primary fst-italic mt-3">
+            Wollen Sie mehr Interessenten haben? Wollen Sie Ihre Webpräsenz bzw. Ihre
+                            Reichweite im Internet verbessern?
+        </p>
+        <p class="body-lg | mt-2">
+            Dann benötigen Sie und Ihre Dienstleistung eine Plattform. Dafür eignen sich
+                            statische Websites am besten. Es sind Websites, die Ihren Kunden Ihre besten
+                            Seiten zeigen!
+        </p>
 
-  <p class="body-lg | mt-2">
-    Sind Sie ein kleines bis mittleres Unternehmen und wollen Ihre Webpräsenz
-    aufbauen?
-  </p>
-  <p class="body-lg mt-2">
-    Mein Ziel ist die Erhöhung Ihrer Leadgenerierung. Sei es eine Anmeldung zu
-    einem Newsletter oder mehr Interessenten bzw. Kunden oder Kundinnen für Ihr
-    Produkt zu gewinnen. Alles fängt mit einer Website an, die auf jedem Gerät
-    verfügbar ist und eine gute Reichweite generiert.
-  </p>
-  <p class="body-lg mt-2">
-    Ich lege bei meinen Websites großen Wert auf Geschwindigkeit,
-    Barrierefreiheit und Sicherheit.
-  </p>
-  <p class="body-lg mt-2">
-    Wussten Sie, dass eine Website verlassen wird, wenn die Website langsamer
-    lädt als 3 Sekunden? Selbst wenn die Website informativ ist und ein schönes
-    Design hat. Eine Website, die sofort verlassen wird, hat keinen Wert.
-  </p>
-  <p class="body-lg mt-2">
-    Dadurch, dass ich mich auf die Geschwindigkeit der Website fokussiere, lädt
-    Ihre Seite deutlich schneller. Durch eine barrierefreie gestaltete Website
-    steht ihr Angebot mehr Menschen zur Verfügung. Und eine sichere Seite
-    spricht für sich.
-  </p>
-  <p class="body-lg mt-2">
-    Ich gestalte für jeden Kunden individuell angepasste Websites. Jeder Kunde
-    hat eine andere Zielgruppe. Durch eine Analyse der Konkurrenz und der
-    Zielgruppe wird ein auf ihre Bedürfnisse individuell angepasstes Design
-    erstellt.
-  </p>
-</section>
+        <p class="body-lg | mt-2">
+            Sind Sie ein kleines bis mittleres Unternehmen und wollen Ihre Webpräsenz
+                            aufbauen?
+        </p>
+        <p class="body-lg mt-2">
+            Mein Ziel ist die Erhöhung Ihrer Leadgenerierung. Sei es eine Anmeldung zu
+                            einem Newsletter oder mehr Interessenten bzw. Kunden oder Kundinnen für Ihr
+                            Produkt zu gewinnen. Alles fängt mit einer Website an, die auf jedem Gerät
+                            verfügbar ist und eine gute Reichweite generiert.
+        </p>
+        <p class="body-lg mt-2">
+            Ich lege bei meinen Websites großen Wert auf
+            <strong>Geschwindigkeit,
+                                    Barrierefreiheit und Sicherheit.</strong>
+        </p>
+        <p class="body-lg mt-2">
+            Wussten Sie, dass eine Website verlassen wird, wenn die Website langsamer
+                            lädt als 3 Sekunden? Selbst wenn die Website informativ ist und ein schönes
+                            Design hat. Eine Website, die sofort verlassen wird, hat keinen Wert.
+        </p>
+        <p class="body-lg mt-2">
+            Dadurch, dass ich mich auf die Geschwindigkeit der Website fokussiere, lädt
+                            Ihre Seite deutlich schneller. Durch eine barrierefreie gestaltete Website
+                            steht ihr Angebot mehr Menschen zur Verfügung. Und eine sichere Seite
+                            spricht für sich.
+        </p>
+        <p class="body-lg mt-2">
+            Ich gestalte für jeden Kunden individuell angepasste Websites. Jeder Kunde
+                            hat eine andere Zielgruppe. Durch eine Analyse der Konkurrenz und der
+                            Zielgruppe wird ein auf ihre Bedürfnisse individuell angepasstes Design
+                            erstellt.
+        </p>
+    </section>
 
-{% include "partials/project-list.html" %} {% include "partials/pagination.html"
-%} {% include "partials/cta.html" %} {% endblock %}
+    {% include "partials/project-list.html" %}
+    {% include "partials/pagination.html"
+%}
+    {% include "partials/cta.html" %}
+{% endblock %}

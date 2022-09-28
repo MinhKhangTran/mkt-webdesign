@@ -8,7 +8,7 @@
             {% set gerade = loop.index % 2 == 0 %}
             <article class="step step__{{loop.index}} | d-md-flex gap-5 mt-lg-5 align-items-center {% if gerade %}flex-md-row-reverse{% else %}flex-md-row{% endif %}">
                 <div class="left__panel">
-                    <h3 class="heading-3 text-dark">{{step.benefit_title}}</h3>
+                    <h3 class="heading-3 text-dark">{{step.title}}</h3>
                     <ul class="bulletpoints">
                         {% for bulletpoint in step.bulletpoints %}
                             <li class="d-flex align-items-start gap-2 gap-md-3 body-lg">
