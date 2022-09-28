@@ -1,55 +1,34 @@
-<section class="" id="process" aria-label="process section">
-  <div class="md__wrapper">
-    <h2 class="heading-2 text-dark text-md-center pb-3 pb-lg-0">
-      {{process.title}}
-    </h2>
+<section aria-label="process section" class="" id="process">
+    <div class="md__wrapper">
+        <h2 class="heading-2 text-dark text-md-center pb-3 pb-lg-0">
+            {{process.title}}
+        </h2>
 
-    {% for step in process.steps %} {% set gerade = loop.index % 2 == 0 %}
-    <article
-      class="step step__{{loop.index}} | d-md-flex gap-5 mt-lg-5 align-items-center {% if gerade %}flex-md-row-reverse{% else %}flex-md-row{% endif %}"
-    >
-      <div class="left__panel">
-        <h3 class="heading-3 text-dark">{{step.benefit_title}}</h3>
-        <ul class="bulletpoints">
-          {% for bulletpoint in step.bulletpoints %}
-          <li class="d-flex align-items-start gap-2 gap-md-3 body-lg">
-            <span class="">
-              <svg
-                width="23"
-                height="23"
-                viewBox="0 0 23 23"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  fill-rule="evenodd"
-                  clip-rule="evenodd"
-                  d="M7.51082 15.5367L2.25628 10.672L0 12.7609L7.51082 19.7143L23 5.37461L20.7437 3.28577L7.51082 15.5367Z"
-                  fill="#a97155"
-                />
-              </svg>
-            </span>
-            <span>{{bulletpoint.bulletpoint}}</span>
-          </li>
-          {% endfor %}
-        </ul>
-        <div class="mt-4 mb-md-0 mb-4">
-          <a href="{{step.href}}" class="text-dark | btn-second"
-            >{{step.button_text}}</a
-          >
-        </div>
-      </div>
-      <div class="right__panel | d-flex justify-content-center">
-        <img
-          class="img-fluid {% if gerade %}me-md-auto{% else %}ms-md-auto{% endif %}"
-          src="/images/{{step.image}}.png"
-          alt="{{step.benefit_title}} bild"
-          loading="lazy"
-          width="590"
-          height="350"
-        />
-      </div>
-    </article>
-    {% endfor %}
-  </div>
+        {% for step in process.steps %}
+            {% set gerade = loop.index % 2 == 0 %}
+            <article class="step step__{{loop.index}} | d-md-flex gap-5 mt-lg-5 align-items-center {% if gerade %}flex-md-row-reverse{% else %}flex-md-row{% endif %}">
+                <div class="left__panel">
+                    <h3 class="heading-3 text-dark">{{step.benefit_title}}</h3>
+                    <ul class="bulletpoints">
+                        {% for bulletpoint in step.bulletpoints %}
+                            <li class="d-flex align-items-start gap-2 gap-md-3 body-lg">
+                                <span class="">
+                                    <svg fill="none" height="23" viewbox="0 0 23 23" width="23" xmlns="http://www.w3.org/2000/svg">
+                                        <path clip-rule="evenodd" d="M7.51082 15.5367L2.25628 10.672L0 12.7609L7.51082 19.7143L23 5.37461L20.7437 3.28577L7.51082 15.5367Z" fill-rule="evenodd" fill="#a97155"/>
+                                    </svg>
+                                </span>
+                                <span>{{bulletpoint.bulletpoint}}</span>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                    <div class="mt-4 mb-md-0 mb-4">
+                        <a href="{{step.href}}" class="text-dark | btn-second">{{step.button_text}}</a>
+                    </div>
+                </div>
+                <div class="right__panel | d-flex justify-content-center">
+                    <img class="img-fluid {% if gerade %}me-md-auto{% else %}ms-md-auto{% endif %}" src="/images/{{step.image}}.jpg" alt="{{step.benefit_title}} bild" loading="lazy" width="590" height="350"/>
+                </div>
+            </article>
+        {% endfor %}
+    </div>
 </section>
