@@ -1,6 +1,19 @@
-{% if page_meta %} {% set metaContent = page_meta %} {% endif %} {% extends
-"layouts/base.html" %} {% block content %} {% include "partials/hero.html" %}{%
-include "partials/intro2.html" %} {% include "partials/feat.html" %}{% include
-"partials/process.html" %} {% include "partials/featuredWork.html" %}{% include
-"partials/about.html" %}{% include "partials/home-contact.html" %} {% endblock
+{% if page_meta %}
+    {% set metaContent = page_meta %}
+{% endif %}
+{% extends
+"layouts/base.html" %}
+{% block content %}
+    {% include "partials/hero.html" %}{%
+include "partials/intro2.html" %}
+    {% include "partials/feat.html" %}{% include
+"partials/process.html" %}
+    {% include "partials/featuredWork.html" %}{% include
+"partials/about.html" %}
+    {% if page_cta
+    %}
+        {% set ctaContent = page_cta %}
+    {% endif %}
+    {% include "partials/cta.html" %}
+{% endblock
 %}
