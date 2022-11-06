@@ -19,23 +19,20 @@
   h1 {
     width: 100%;
     text-align: center;
-    @include sm {
-      text-align: start;
-    }
     @include lg {
-      width: 50%;
+      width: 750px;
+      margin-inline: auto;
     }
   }
   p {
     width: 100%;
     padding-block: 1rem 1.5rem;
     text-align: center;
-    @include sm {
-      text-align: start;
-    }
+
     @include lg {
       padding-block: 1.5rem 2rem;
-      width: 50%;
+      width: 550px;
+      margin-inline: auto;
     }
   }
   .button__group {

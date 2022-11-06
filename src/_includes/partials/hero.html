@@ -1,32 +1,14 @@
 <div class="hero__wrapper |">
-  <section
-    id="hero"
-    class="wrapper | d-flex flex-column flex-lg-row align-items-center"
-    aria-label="hero section"
-  >
+  <section id="hero" class="wrapper | d-flex flex-column flex-lg-row justify-content-center align-items-center"
+    aria-label="hero section">
     <div class="hero__left--panel">
       <h1 class="heading-1 text-dark">{{hero.hero_heading}}</h1>
       <p class="text-dark body-lg">{{hero.hero_sub}}</p>
-      <div class="d-flex flex-column flex-sm-row | button__group">
-        <a href="mailto:{{info.email}}" class="text-white | btn-main"
-          >{{hero.hero_btn}}</a
-        >
-        <a href="/beispiele" class="text-dark | btn-second"
-          >{{hero.hero_second_btn}}</a
-        >
+      <div class="d-flex flex-column flex-sm-row justify-content-center | button__group">
+        <a href="mailto:{{info.email}}" class="text-white | btn-main">{{hero.hero_btn}}</a>
+        <a href="/beispiele" class="text-dark | btn-second">{{hero.hero_second_btn}}</a>
       </div>
     </div>
-    <div class="hero__right--panel d-none d-md-inline">
-      <div class="hero__image--wrapper">
-        <img
-          src="/images/hero.jpg"
-          class="d-none d-lg-inline"
-          width="750"
-          height="1400"
-          loading="lazy"
-          alt="hero Bild der Website mkt-webdesign mit vielen Beispielen von Websites"
-        />
-      </div>
-    </div>
+
   </section>
 </div>

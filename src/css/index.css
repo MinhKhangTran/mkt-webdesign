@@ -11420,14 +11420,10 @@ nav .breadcrumb-item.active {
   width: 100%;
   text-align: center;
 }
-@media (min-width: 576px) {
-  #hero h1, #hero .h1 {
-    text-align: start;
-  }
-}
 @media (min-width: 992px) {
   #hero h1, #hero .h1 {
-    width: 50%;
+    width: 750px;
+    margin-inline: auto;
   }
 }
 #hero p {
@@ -11435,15 +11431,11 @@ nav .breadcrumb-item.active {
   padding-block: 1rem 1.5rem;
   text-align: center;
 }
-@media (min-width: 576px) {
-  #hero p {
-    text-align: start;
-  }
-}
 @media (min-width: 992px) {
   #hero p {
     padding-block: 1.5rem 2rem;
-    width: 50%;
+    width: 550px;
+    margin-inline: auto;
   }
 }
 #hero .button__group {
