@@ -2,19 +2,27 @@
 
 .feat__wrapper {
   border-top: solid 2px $dark;
+  border-bottom: solid 2px $dark;
 }
 #feat {
-  padding-block: 4rem;
-
-  .row {
-    gap: math.div(40rem, 16);
+  padding-block: 5rem;
+  h2 {
+    padding-bottom: 3rem;
+  }
+  .reihe {
+    grid-template-columns: repeat(1, 1fr);
+    gap: math.div(64rem, 16);
     @include md {
-      gap: 0;
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @include lg {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 6rem;
     }
   }
   .kasten {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
     box-shadow: 3px 3px 0px #000000;
   }

@@ -11579,22 +11579,33 @@ nav .breadcrumb-item.active {
 
 .feat__wrapper {
   border-top: solid 2px #402e32;
+  border-bottom: solid 2px #402e32;
 }
 
 #feat {
-  padding-block: 4rem;
+  padding-block: 5rem;
 }
-#feat .row {
-  gap: 2.5rem;
+#feat h2, #feat .h2 {
+  padding-bottom: 3rem;
+}
+#feat .reihe {
+  grid-template-columns: repeat(1, 1fr);
+  gap: 4rem;
 }
 @media (min-width: 768px) {
-  #feat .row {
-    gap: 0;
+  #feat .reihe {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 992px) {
+  #feat .reihe {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6rem;
   }
 }
 #feat .kasten {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 10px;
   box-shadow: 3px 3px 0px #000000;
 }
