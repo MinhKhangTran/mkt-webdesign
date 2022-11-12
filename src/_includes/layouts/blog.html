@@ -1,14 +1,14 @@
-{% extends "layouts/base.html" %} {% set projectListItems = pagination.items %} {% block content %} {% if page_cta %} {% set
-ctaContent = page_cta %} {% endif %} 
-
-
+{% if page_meta %} {% set metaContent = page_meta %} {% endif %}
+{% extends "layouts/base.html" %} {% set projectListItems = pagination.items %}
+{% block content %} {% if page_cta %} {% set ctaContent = page_cta %} {% endif
+%}
 
 <section
-  id="blogPage"
-  aria-label="blog page section"
-  class="wrapper pt-lg-5 pt-3 pb-3"
+  id="beispielePage"
+  aria-label="projekt page section"
+  class="wrapper pt-lg-5 pt-3 pb-4 mt-lg-4 mt-3"
 >
-  <h1 class="heading-1 text-dark">{{header.heading}}</h1>
+  <h1 class="heading-1 text-primary">{{header.heading}}</h1>
   <p class="body-lg text-dark">{{header.sub}}</p>
 </section>
 

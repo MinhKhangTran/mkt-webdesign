@@ -7,12 +7,12 @@
       "navigation": "home"
     },
     {
-      "url": "/leistungen/",
-      "navigation": "Leistungen"
-    },
-    {
       "url": "/beispiele/",
       "navigation": "Beispiele"
+    },
+    {
+      "url": "/blog/",
+      "navigation": "Blog"
     },
 
     {

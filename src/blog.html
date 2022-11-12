@@ -1,0 +1,35 @@
+---
+layout: layouts/blog.html
+title: Blog | MKT Webdesign
+header:
+  heading: "Interessante Blogbeiträge"
+  sub: "Ich schreibe über Webentwicklung, (neue) Technologien und Projekte, aus denen ich gelernt habe."
+pagination:
+  data: collections.blog
+  size: 6
+permalink: "blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
+paginationPrevText: "Weitere Posts"
+paginationNextText: "Weitere Posts"
+paginationAnchor: "#blog-list"
+page_cta:
+  cta_heading: Sind Sie bereit für eine gelungene Webpräsenz?
+  cta_sub: Jetzt ein Angebot einholen!
+  cta_button: Loslegen!
+page_meta:
+  metaDesc: description
+  metaDescContent: Ich schreibe über Webentwicklung, (neue) Technologien und Projekte, aus denen ich gelernt habe.
+  metaOgTitle: og:title
+  metaOgTitleContent: Ich schreibe über Webentwicklung, (neue) Technologien und Projekte, aus denen ich gelernt habe.
+  metaOgDesc: og:description
+  metaOgDescContent: Ich schreibe über Webentwicklung, (neue) Technologien und Projekte, aus denen ich gelernt habe.
+  metaOgImage: og:image
+  metaOgImageContent: /images/ogDesc.jpg
+  metaTwitterTitle: twitter:title
+  metaTwitterTitleContent: Ich schreibe über Webentwicklung, (neue) Technologien und Projekte, aus denen ich gelernt habe.
+  metaTwitterDesc: twitter:description
+  metaTwitterDescContent: Ich schreibe über Webentwicklung, (neue) Technologien und Projekte, aus denen ich gelernt habe.
+  metaTwitterImage: twitter:image
+  metaTwitterImageContent: /images/ogDesc.jpg
+  faviconIco: /images/favicon.ico
+  webclip: /images/favicon-32x32.png
+---
