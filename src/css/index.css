@@ -11590,7 +11590,7 @@ nav .breadcrumb-item.active {
 }
 #feat .reihe {
   grid-template-columns: repeat(1, 1fr);
-  gap: 4rem;
+  gap: 3rem;
 }
 @media (min-width: 768px) {
   #feat .reihe {
@@ -11600,7 +11600,7 @@ nav .breadcrumb-item.active {
 @media (min-width: 992px) {
   #feat .reihe {
     grid-template-columns: repeat(3, 1fr);
-    gap: 6rem;
+    gap: 4rem;
   }
 }
 #feat .kasten {

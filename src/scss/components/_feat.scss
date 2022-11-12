@@ -11,13 +11,13 @@
   }
   .reihe {
     grid-template-columns: repeat(1, 1fr);
-    gap: math.div(64rem, 16);
+    gap: math.div(48rem, 16);
     @include md {
       grid-template-columns: repeat(2, 1fr);
     }
     @include lg {
       grid-template-columns: repeat(3, 1fr);
-      gap: 6rem;
+      gap: 4rem;
     }
   }
   .kasten {
