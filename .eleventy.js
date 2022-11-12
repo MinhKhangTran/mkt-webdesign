@@ -47,6 +47,14 @@ module.exports = function (eleventyConfig) {
     ).filter((x) => x.data.featured);
   });
 
+   // add Blog to collections
+   eleventyConfig.addCollection("blog", (collection) => {
+    return collection.getFilteredByGlob("./src/blog/*.md").sort((a, b) => {
+      return a.data.order > b.data.order ? 1 : -1;
+    });;
+  });
+
+
   // Add filters
   eleventyConfig.addFilter("dateFilter", dateFilter);
 

@@ -1,0 +1,23 @@
+<section id="blogList" class="wrapper pb-5" aria-label="projectList section">
+    <div class="row">
+      {% for project in projectListItems %} 
+      <div class="col-lg-6 col-md-6">
+        <a
+        class="text-dark"
+        href="{{project.url}}"
+        >
+            <h2 class="card-title | mb-0 text-dark mt-md-4">
+                {{project.data.cardTitle}}
+                
+            </h2>
+            <p>{{project.data.date}}</p>
+            <p>
+                {{project.data.description}}
+            </p>
+        </a>
+      </div>
+     
+      {% endfor %}
+    </div>
+  </section>
+  
