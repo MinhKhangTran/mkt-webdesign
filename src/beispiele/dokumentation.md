@@ -3,6 +3,9 @@ title: "Dokumentation | MKT Webdesign"
 pageTitle: Dokumentation Website für einen Verein
 cardTitle: Dokumentation
 description: Mit Hilfe einer Dokumentation können Dokumente, Anleitungen oder Ansammlungen von Materialien jeglicher Art strukturiert werden.
+desc: Anhand eines Beispiels möchte ich eine Dokumentation Website erläutern. Es handelt sich um einen fiktiven Sportverein.
+desc2: Das Ziel der Website ist "lediglich" das Informieren der Interessenten über das Verein. Das Verein wird auf der Homepage vorgestellt und alle Sportarten, die der Verein anbietet.
+link: https://doc-verein.netlify.app/
 img: /images/hero-dokumentation-fuer-ein-verein.jpg
 altImg: "Mein persönlicher Blog Bild"
 featured: false

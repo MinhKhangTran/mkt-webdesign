@@ -20,43 +20,34 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto">
          
-          <li class="nav-item dropdown">
+      
+          <li class="nav-item d-flex align-items-center">
             <a
-              class="nav-item dropdown-toggle"
-              href="/leistungen"
-              id="leistungenDropdown"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
+              class=""
+              href="/beispiele/"
+              {{
+              helpers.getLinkActiveState("/beispiele/",
+              page.url)
+              |
+              safe
+              }}
             >
-              Leistungen
+              Beispiele
             </a>
-            <ul class="dropdown-menu" aria-labelledby="leistungenDropdown">
-              <li><a class="dropdown-item" href="/leistungen/web-design/">Web Design</a></li>
-              <li><a class="dropdown-item" href="/leistungen/web-development/">Web Development</a></li>
-              <li><a class="dropdown-item" href="/leistungen/website-optimierung/">Optimierung</a></li>
-            </ul>
           </li>
-          <li class="nav-item dropdown">
+          <li class="nav-item d-flex align-items-center">
             <a
-              class="nav-item dropdown-toggle"
-              href="/beispiele"
-              id="beispieleDropdown"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
+              class=""
+              href="/blog/"
+              {{
+              helpers.getLinkActiveState("/blog/",
+              page.url)
+              |
+              safe
+              }}
             >
-              Website Beispiele
+              Blog
             </a>
-            <ul class="dropdown-menu" aria-labelledby="beispieleDropdown">
-              <li><a class="dropdown-item" href="/beispiele/landingpage/">Landingpage</a></li>
-              <li><a class="dropdown-item" href="/beispiele/business-website/">Business Website</a></li>
-              <li><a class="dropdown-item" href="/beispiele/portfolio/">Portfolio</a></li>
-              <li><a class="dropdown-item" href="/beispiele/event-website/">Event Website</a></li>
-              <li><a class="dropdown-item" href="/beispiele/blog/">Blog</a></li>
-              <li><a class="dropdown-item" href="/beispiele/dokumentation/">Dokumentation</a></li>
-            
-            </ul>
           </li>
           <li class="nav-item d-flex align-items-center">
             <a

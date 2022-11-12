@@ -3,6 +3,9 @@ title: "Business Website | MKT Webdesign"
 pageTitle: Business Website für einen Handwerker (Beispiel)
 cardTitle: Business Website
 description: Eine “normale” Website für Unternehmen, die ihre Webpräsenz verbessern oder ausbauen möchten.
+desc: Anhand eines Beispiels möchte ich die Business Website erläutern. Es handelt sich um eine Business Website für einen Handwerker. Genauer gesagt ein Schreiner.
+desc2: Der Schreiner benötigt für seine Webpräsenz eine Website, in der sich lokale Interessenten oder Interessentinnen informieren können. Die Website zeigt seine Leistungen und Erfahrungen. Mit einigen Zitaten von ehemaligen Kunden oder Kundinnen beweist er den besuchenden Personen, dass er zufriedenstellende Arbeit leistet.
+link: https://next-js-schreini.vercel.app/
 img: /images/hero-business-website.jpg
 altImg: "Business Website für einen Handwerker Hauptbild"
 featured: true

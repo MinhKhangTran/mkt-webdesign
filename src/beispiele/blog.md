@@ -3,6 +3,8 @@ title: "Blog | MKT Webdesign"
 pageTitle: Blog
 cardTitle: Blog
 description: Ein Blog ist eine Ansammlung von subjektiven Ansichten zu bestimmten Themen. Es kann als digitales Tagebuch oder Journal benutzt werden.
+desc: Dieses Beispiel ist mein persönlicher Blog. In diesem Blog schreibe ich wöchentlich über meine Learnings und (Miss)Erfolge in der jeweiligen Woche. 
+link: https://www.minhkhangtran.com/
 img: /images/hero-blog.jpg
 altImg: "Mein persönlicher Blog Bild"
 featured: false

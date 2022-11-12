@@ -3,6 +3,9 @@ title: "Portfolio | MKT Webdesign"
 pageTitle: Minimalistisches Portfolio mit Beispiel
 cardTitle: Portfolio
 description: Eine Portfolio Website ist eine Zusammenstellung der Leistungen und Produkte eines Unternehmens.
+desc: Auf einem Portfolio werden die Leistungen und Produkte eines Unternehmens zusammengestellt. 
+desc2: Da es optisch attraktiver ist, benutzen viele künstlerische Berufe, wie Fotografen, Filmemacher, Künstler etc. Portfolios, um der Welt deren Projekte darzustellen.
+link: https://nextjs-coach-jane-doe.vercel.app/
 img: /images/hero-portfolio-beispiel.jpg
 altImg: "Das Hauptbild des Portfolios (Beispiel)"
 featured: true

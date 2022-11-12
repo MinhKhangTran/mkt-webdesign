@@ -3,6 +3,9 @@ title: "Event Website | MKT Webdesign"
 pageTitle: Event Website
 cardTitle: Event Website
 description: Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf das Event aufmerksam.
+desc: Es handelt sich bei dieser Beispiel Website um einen Food Truck Fest.
+desc2: Dieses Event findet jährlich im Sommer statt. Zusätzlich zu Flyern und Plakate wollen die Organisatoren eine passende Website dazu erstellen. Mit einer geschickten Promotion kommen viele Besucher oder Besucherinnen auf die Website. Das Ziel der Website ist die besuchende Person über das Event zu informieren.
+link: https://nextjs-event-page.vercel.app/
 img: /images/hero-event.jpg
 altImg: "Event Website für Food Truck Fest"
 featured: false
@@ -66,9 +69,7 @@ Eine Event Website promoted ein Event und macht mit Bilder und Informationen auf
 
 Anhand eines Beispiels möchte ich die Event Website erläutern. Es handelt sich bei dem Event um einen Food Truck Fest.
 
-Dieses Event findet jährlich im Sommer statt. Zusätzlich zu Flyern und Plakate wollen die Organisatoren eine passende Website dazu erstellen.
-
-Mit einer geschickten Promotion kommen viele Besucher oder Besucherinnen auf die Website. Das Ziel der Website ist die besuchende Person über das Event zu informieren. Gelegentlich kann man sich in einem Newsletter einschreiben, um immer auf dem aktuellsten Stand zu sein.
+Dieses Event findet jährlich im Sommer statt. Zusätzlich zu Flyern und Plakate wollen die Organisatoren eine passende Website dazu erstellen. Mit einer geschickten Promotion kommen viele Besucher oder Besucherinnen auf die Website. Das Ziel der Website ist die besuchende Person über das Event zu informieren. Gelegentlich kann man sich in einem Newsletter einschreiben, um immer auf dem aktuellsten Stand zu sein.
 
 Im Newsletter kann dann gezielt über das ganze Jahr das Event promoted werden. Ebenso können auf andere ähnliche Events des Organisators aufmerksam gemacht werden.
 
