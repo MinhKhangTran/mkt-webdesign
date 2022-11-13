@@ -10,7 +10,7 @@
                 {{project.data.cardTitle}}
                 
             </h2>
-            <p>{{project.data.date}}</p>
+            <p class="date">{{project.data.date.toLocaleString("de-DE", {weekday:"long", year: 'numeric', month: 'long', day: 'numeric'})}}</p>
             <p>
                 {{project.data.description}}
             </p>

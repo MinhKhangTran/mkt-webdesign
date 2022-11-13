@@ -1,0 +1,13 @@
+#blogList{
+    h2{
+        text-decoration: underline;
+        padding-top: 2rem;
+        @include md{
+            padding-top: 0;
+        }
+    }
+    .date{
+        padding-block: 0.5rem;
+        color: #98654c;
+    }
+}
