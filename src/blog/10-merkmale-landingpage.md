@@ -1,8 +1,8 @@
 ---
-title: "Wie Sie mit diesen 10 Merkmalen eine unvergessliche Landingpage erstellen"
-pageTitle: Wie Sie mit diesen 10 Merkmalen eine unvergessliche Landingpage erstellen
-cardTitle: Wie Sie mit diesen 10 Merkmalen eine unvergessliche Landingpage erstellen
-description: Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die besuchende Person der Landingpage soll zu einer gezielten Handlung gebracht werden.
+title: "10 Elemente einer unvergesslichen Landing Page"
+pageTitle: 10 Elemente einer unvergesslichen Landing Page
+cardTitle: 10 Elemente einer unvergesslichen Landing Page
+description: Machen Sie aus Ihrer Landing Page einen Top-Mitarbeiter, der für Sie rund um die Uhr arbeitet 🚀.
 desc: Landingpages sind verglichen mit "normalen" Websiten etwas spezieller. Landingpages sind vom Aufbau her alle ähnlich gestaltet und haben oft wiederkehrende Komponente.
 desc2: Der Nutzer "landet" auf eine Landingpage, sobald dieser auf eine Werbung oder einen Eintrag auf einer Suchmaschine (Google, Bing, Yahoo etc.) klickt. Dabei kann es sich um eine gezielte Suche des Nutzers handeln.
 link: https://landingpage-beispiel.netlify.app/
@@ -15,17 +15,17 @@ page_cta:
   cta_button: Loslegen!
 page_meta:
   metaDesc: description
-  metaDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaDescContent: Machen Sie aus Ihrer Landing Page einen Top-Mitarbeiter, der für Sie rund um die Uhr arbeitet 🚀.Mit diesen 10 Merkmalen soll die besuchende Person der Landing page zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgTitle: og:title
-  metaOgTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaOgTitleContent: Machen Sie aus Ihrer Landing Page einen Top-Mitarbeiter, der für Sie rund um die Uhr arbeitet 🚀.Mit diesen 10 Merkmalen soll die besuchende Person der Landing page zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgDesc: og:description
-  metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaOgDescContent: Machen Sie aus Ihrer Landing Page einen Top-Mitarbeiter, der für Sie rund um die Uhr arbeitet 🚀.Mit diesen 10 Merkmalen soll die besuchende Person der Landing page zu einer gezielten Handlung (Conversion) gebracht werden.
   metaOgImage: og:image
   metaOgImageContent: /images/og-image-landingpage.jpg
   metaTwitterTitle: twitter:title
-  metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaTwitterTitleContent: Machen Sie aus Ihrer Landing Page einen Top-Mitarbeiter, der für Sie rund um die Uhr arbeitet 🚀.Mit diesen 10 Merkmalen soll die besuchende Person der Landing page zu einer gezielten Handlung (Conversion) gebracht werden.
   metaTwitterDesc: twitter:description
-  metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaTwitterDescContent: Machen Sie aus Ihrer Landing Page einen Top-Mitarbeiter, der für Sie rund um die Uhr arbeitet 🚀.Mit diesen 10 Merkmalen soll die besuchende Person der Landing page zu einer gezielten Handlung (Conversion) gebracht werden.
   metaTwitterImage: twitter:image
   metaTwitterImageContent: /images/og-image-landingpage.jpg
   faviconIco: /images/favicon.ico
@@ -39,14 +39,13 @@ page_meta:
       aria-label="Skip to global navigation"
     ></a>{{pageTitle}}</h1>
 
-  <div class="toc">
+  <!-- <div class="toc">
       <div class="card">
         <div class="card-body">
         <h2><a class="" data-bs-toggle="collapse" href="#collapseTOC" role="button" aria-expanded="false" aria-controls="collapseTOC">Inhaltsverzeichnis 
         <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="24" height="24" fill="currentColor" class="bi bi-chevron-expand" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3.646 9.146a.5.5 0 0 1 .708 0L8 12.793l3.646-3.647a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 0-.708zm0-2.292a.5.5 0 0 0 .708 0L8 3.207l3.646 3.647a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 0 0 0 .708z"/></svg></a></h2>
           <ul class="collapse" id="collapseTOC">
-          <li><a href="#was-ist-eine-landingpage">Was ist eine Landingpage</a></li>
-          <li><a href="#aufbau-einer-landingpage">Aufbau einer Landingpage</a>
+          <li><a href="#die-10-lebenswichtigen-elemente-fur-ihre-landing-page">Die 10 lebenswichtigen Elemente für Ihre Landing Page</a></li>
           <ul>
           <li><a href="#above-the-fold">Above the Fold</a>
           <ul>
@@ -73,63 +72,57 @@ page_meta:
           </ul>
         </div>
       </div>
-  </div>
+  </div> -->
 
-<p class="knopf | my-4 my-md-5"><a target="_blank" class="text-white | btn-main" href="https://landingpage-beispiel.netlify.app/" rel="noopener noreferrer">Hier geht es zur Beispiel Landingpage ➡️</a></p>
 
-<h2 style="position: relative;" id="was-ist-eine-landingpage"><a href="#was-ist-eine-landingpage" aria-label="Was ist eine Landingpage Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Was ist eine Landingpage</h2>
+Wollen Sie passives Einkommen generieren?
+Ich rede nicht von Aktien, ETFs oder andere skurrile Investments. 
+Es ist sogar noch effektiver, wenn Sie es richtig umsetzen.
+Ich rede von einem Mitarbeiter, der für Sie rund um die Uhr arbeitet.
 
-Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung (Conversion) bringen. Beispiele für eine Conversion können etwa sein: der Verkaufsabschluss eines Produktes oder die Anmeldung zu einem Newsletter.
+Das Gute: Dieser Mitarbeiter wird Ihr Mitarbeiter des Monats. Er will nie eine Gehaltserhöhung und braucht kein Weihnachtsgeld.
+Die Rede ist von einer guten Landing Page.
 
-Landingpages sind verglichen mit "normalen" Websiten etwas spezieller. Landingpages sind vom Aufbau her alle ähnlich gestaltet und haben oft wiederkehrende Komponente. Der Name Landingpage kommt aus dem Englischen _landing page_ und kann mit Landeseite übersetzt werden. Meistens werden im Bereich Marketing englische Begriffe verwendet. Es ist daher üblich, dass viele dieser Begriffe nicht übersetzt werden.
 
-Der Nutzer "landet" auf eine Landingpage, sobald dieser auf eine Werbung oder einen Eintrag auf einer Suchmaschine (Google, Bing, Yahoo etc.) klickt. Dabei kann es sich um eine gezielte Suche des Nutzers handeln.
+Eine Landing Page hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Die Landingpage soll die besuchende Person der Website zu einer gezielten Handlung bringen. In dem Fall zum Verkaufsabschluss.
 
-<h2 style="position: relative;" id="aufbau-einer-landingpage"><a href="#aufbau-einer-landingpage" aria-label="Aufbau einer Landingpage Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Aufbau einer Landingpage</h2>
+Sie haben monatelang an einem (Online) Produkt gearbeitet und wollen jetzt so richtig durchstarten.
+Die beste Methode, ein Produkt im Internet zu vermarkten, ist eine Landing Page. Doch es gibt verschiedene Landing Page, aber nicht alle funktionieren gleich.
+Manche ziehen Ihnen mehr Geld aus Ihrem Portemonnaie als Ihnen lieb ist.
 
-Eine Landingpage ist minimalistisch aufgebaut und alles dreht sich um das geworbene Produkt. Die Information der Landingpage soll kurz und klar rüber gebracht werden, um die Entscheidung der besuchenden Person zu beeinflussen. Dabei wir aus Ablenkungsgründen meistens sogar auf eine Navigationsleiste verzichtet.
+Nun zeige ich Ihnen anhand eines Beispiels 10 Elemente, die für Ihre Landing Page lebenswichtig sind.
 
-Unter Web Designer haben Landingpages eher einen schlechten Ruf. Landingpages sind alle ähnlich aufgebaut und fordern den Web Designer daher wenig. Es geht viel mehr um Copywriting und Marketing und weniger um das Design der Website selber. Es soll aber nicht heißen, dass Landingpages nicht schön gestaltet sind.
 
-Anhand eines einfachen Landingpage Beispiel, werden die immer wiederkehrende Komponenten erklärt und untersucht. Diese Landingpage wurde als Beispiel von mir erstellt. Es beinhaltet einen Shaker, der geruchsneutral ist. Diese Produkt ist fiktiv.
+<a target="_blank" href="https://landingpage-beispiel.netlify.app/" rel="noopener noreferrer">Der Link zu dem Landingpage Beispiel</a>
 
-<a target="_blank" href="https://landingpage-beispiel.netlify.app/" rel="noopener noreferrer">Der Link zu einem Landingpage Beispiel</a>
+<h2 style="position: relative;" id="die-10-lebenswichtigen-elemente-fur-ihre-landing-page"><a href="#die-10-lebenswichtigen-elemente-fur-ihre-landing-page" aria-label="Die 10 lebenswichtigen Elemente für Ihre Landing Page" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Die 10 lebenswichtigen Elemente für Ihre Landing Page</h2>
 
-<h3 style="position: relative;" id="above-the-fold"><a href="#above-the-fold" aria-label="Above the Fold Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Above the Fold</h3>
 
-Beim Betreten der Website erscheint stets der "Hero" der Seite. Der "Hero" (aus dem Englischen _hero_, deutsch: Held) ist das Wichtigste auf der Website und soll den Besucher oder den Besucherinnen dazu bringen weiterzulesen. Der "Hero" ist immer "Above the fold" und dieser sollte ohne scrollen ganz sichtbar sein. Der Begriff "Above the fold" wurde bei der Druckerei benutzt. Zeitungen werden gefaltet und das Wichtigste sollte sichtbar und nach dem Falten oben sein.
-
-Wie bei Zeitungen sind die Überschriften, Untertitel und Bilder wichtig und sollen den Leser oder die Leserinnen neugierig machen. Daher müssen diese Komponenten bei einer Landingpage vorkommen.
-
-![Above the Fold](/images/above-the-fold.jpg)
-
-_Above the Fold_
-
-<h4 style="position: relative;" id="1-überschrift-headline-oder-title"><a href="#1-überschrift-headline-oder-title" aria-label="1. Überschrift (Headline oder Title) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>1. Überschrift (Headline oder Title)</h4>
+<h3 style="position: relative;" id="1-überschrift-headline-oder-title"><a href="#1-überschrift-headline-oder-title" aria-label="1. Überschrift (Headline oder Title) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>1. Überschrift (Headline oder Title)</h3>
 
 Die Überschrift soll fesselnd sein und die besuchende Person neugierig machen. In dem Titel muss auch klargestellt werden, welche Probleme, das Produkt lösen soll.
 
-<h4 style="position: relative;" id="2-untertitel-subtitle"><a href="#2-untertitel-subtitle" aria-label="2. Untertitel (Subtitle) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>2. Untertitel (Subtitle)</h4>
+<h3 style="position: relative;" id="2-untertitel-subtitle"><a href="#2-untertitel-subtitle" aria-label="2. Untertitel (Subtitle) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>2. Untertitel (Subtitle)</h4>
 
 Untertitel gehen näher in das Produkt ein und verstärken kurz und bündig die Aussagen aus der Überschrift.
 
-<h4 style="position: relative;" id="3-cta"><a href="#3-cta" aria-label="3. CTA Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>3. CTA</h4>
+<h3 style="position: relative;" id="3-cta"><a href="#3-cta" aria-label="3. CTA Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>3. CTA</h4>
 
 Als einer der wichtigsten Komponente ist der CTA-Aufruf. CTA bedeutet "call-to-action" und soll den Besucher oder die Besucherin zu einer bestimmten Handlung bewegen. Nachdem der Besucher oder die Besucherin neugierig die Überschrift und den Untertitel gelesen hat, will diese Person wissen, was der nächste Schritt ist. An dieser Stelle kommt der CTA. Es handelt sich meistens um einen Button (Knopf) mit einem Aufruf. Beispiele für einen Aufruf könnte sein: "Starte jetzt" oder "Jetzt Anmelden".
 
-<h4 style="position: relative;" id="4-sozialer-nachweis-social-proof"><a href="#4-sozialer-nachweis-social-proof" aria-label="4. Sozialer Nachweis (Social Proof) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>4. Sozialer Nachweis (Social Proof)</h4>
+<h3 style="position: relative;" id="4-sozialer-nachweis-social-proof"><a href="#4-sozialer-nachweis-social-proof" aria-label="4. Sozialer Nachweis (Social Proof) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>4. Sozialer Nachweis (Social Proof)</h3>
 
 Mit Hilfe eines sozialen Nachweises wird für das Produkt Vertrauen und Glaubwürdigkeit geweckt. Es zeigt der suchenden Person die (zufriedenen) Kunden des Produktes.
 
-<h4 style="position: relative;" id="5-bild-oder-video"><a href="#5-bild-oder-video" aria-label="5. Bild oder Video Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>5. Bild oder Video</h4>
+<h3 style="position: relative;" id="5-bild-oder-video"><a href="#5-bild-oder-video" aria-label="5. Bild oder Video Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>5. Bild oder Video</h3>
 
 Ein Bild sagt mehr als 1000 Wörter. Es kann auch ein kurzes Video benutzt werden. Das Bild oder das Video sollte das Produkt von der besten Seite zeigen.
 
-<h3 style="position: relative;" id="below-the-fold"><a href="#below-the-fold" aria-label="Below the Fold Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Below the Fold</h3>
+![Hero](/images/hero-lp.jpg)
 
-Jetzt ist der Besucher oder die Besucherin neugierig und will mehr wissen. Für weitere Informationen wird daher die Landingpage gescrollt.
+_Hero Abschnitt_
 
-<h4 style="position: relative;" id="6-eigenschaften-und-nutzen-des-produktes-features-and-benefits"><a href="#6-eigenschaften-und-nutzen-des-produktes-features-and-benefits" aria-label="6. Eigenschaften und Nutzen des Produktes (Features and benefits) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>6. Eigenschaften und Nutzen des Produktes (Features and benefits)</h4>
+<h3 style="position: relative;" id="6-eigenschaften-und-nutzen-des-produktes-features-and-benefits"><a href="#6-eigenschaften-und-nutzen-des-produktes-features-and-benefits" aria-label="6. Eigenschaften und Nutzen des Produktes (Features and benefits) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>6. Eigenschaften und Nutzen des Produktes (Features and benefits)</h3>
 
 Hier werden die Eigenschaften und die daraus folgenden Nutzen für den Kunden oder die Kundinnen dargestellt. Diese sollten schmackhaft dargestellt werden und überzeugend wirken.
 
@@ -137,7 +130,7 @@ Hier werden die Eigenschaften und die daraus folgenden Nutzen für den Kunden od
 
 _Eigenschaften und Nutzen des Produktes_
 
-<h4 style="position: relative;" id="7-mehr-sozialer-nachweis"><a href="#7-mehr-sozialer-nachweis" aria-label="7. Mehr Sozialer Nachweis Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>7. Mehr Sozialer Nachweis</h4>
+<h3 style="position: relative;" id="7-mehr-sozialer-nachweis"><a href="#7-mehr-sozialer-nachweis" aria-label="7. Mehr Sozialer Nachweis Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>7. Mehr Sozialer Nachweis</h3>
 
 An dieser Stelle wird die Glaubwürdigkeit des Produktes noch mehr verstärkt. Hier werden oft Testimonials von bisherigen Kunden oder Kundinnen gezeigt. Ein Profilbild mit einer persönlichen Bewertung eines zufriedenen Kundens oder einer zufriedenen Kundin symbolisiert die Kompetenz des Produktes.
 
@@ -145,7 +138,7 @@ An dieser Stelle wird die Glaubwürdigkeit des Produktes noch mehr verstärkt. H
 
 _Sozialer Nachweis_
 
-<h4 style="position: relative;" id="8-häufig-gestellte-fragen-faq"><a href="#8-häufig-gestellte-fragen-faq" aria-label="8. Häufig gestellte Fragen (FAQ) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>8. Häufig gestellte Fragen (FAQ)</h4>
+<h3 style="position: relative;" id="8-häufig-gestellte-fragen-faq"><a href="#8-häufig-gestellte-fragen-faq" aria-label="8. Häufig gestellte Fragen (FAQ) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>8. Häufig gestellte Fragen (FAQ)</h3>
 
 Diese Komponente ist nicht zwingend notwendig. Hier können weitere Eigenschaften aufgelistet werden, die oben weniger wichtig waren.
 
@@ -153,7 +146,7 @@ Diese Komponente ist nicht zwingend notwendig. Hier können weitere Eigenschafte
 
 _Häufig gestellte Fragen (FAQ)_
 
-<h4 style="position: relative;" id="9-der-zweite-aufruf-cta"><a href="#9-der-zweite-aufruf-cta" aria-label="9. Der zweite Aufruf (CTA) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>9. Der zweite Aufruf (CTA)</h4>
+<h3 style="position: relative;" id="9-der-zweite-aufruf-cta"><a href="#9-der-zweite-aufruf-cta" aria-label="9. Der zweite Aufruf (CTA) Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>9. Der zweite Aufruf (CTA)</h3>
 
 Falls der Besucher oder die Besucherin bis hier gescrollt hat, dann Glückwunsch. Der Besucher oder die Besucherin braucht wieder Anweisungen für die nächste Handlung. An dieser Stelle muss es einen weiteren CTA-Aufruf geben.
 
@@ -161,7 +154,7 @@ Falls der Besucher oder die Besucherin bis hier gescrollt hat, dann Glückwunsch
 
 _CTA_
 
-<h4 style="position: relative;" id="10-über-mich"><a href="#10-über-mich" aria-label="10. Über mich Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>10. Über mich</h4>
+<h3 style="position: relative;" id="10-über-mich"><a href="#10-über-mich" aria-label="10. Über mich Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>10. Über mich</h3>
 
 Ganz am Ende kann auch eine “Über-mich” Komponente verwendet werden. Mit dieser Komponente kann der Kunde oder die Kundin die Person im Hintergrund sehen und mehr erfahren.
 
@@ -173,11 +166,16 @@ Dadurch wirkt es persönlicher und kann den Kunden oder der Kundin nochmal verst
 
 _Über mich_
 
-<h2 style="position: relative;" id="wireframe"><a href="#wireframe" aria-label="wireframe Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Wireframe</h2>
+<h2 style="position: relative;" id="wie-sieht-ihre-landing-page-aus"><a href="#wie-sieht-ihre-landing-page-aus" aria-label="wie-sieht-ihre-landing-page-aus Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Wie sieht Ihre Landing Page aus?
+</h2>
 
-![Wireframe](/images/full-version-landingpage-beispiel.jpg)
+Und nun zu Ihnen!
+Wie sieht momentan Ihre Landing Page aus? Haben Sie weitere Elemente, die ebenfalls lebenswichtig sind für Ihre Landing Page?
+<a target="_blank" rel="noopener noreferrer" href="mailto:hi@mkt-webdesign.de?subject=Meine Landing Page">
+Schreiben Sie mir eine E-Mail. 
+</a>
+Gerne können Sie mir einen Link zu Ihrer Landing Page schicken. Ich kann Ihnen bestimmt ein paar nützliche Tipps geben 😉.
 
-<h2 style="position: relative;" id="farben-und-schriftarten"><a href="#farben-und-schriftarten" aria-label="Farben und Schriftarten Permalink" class="blog-header-link before"><svg aria-hidden="true" focusable="false" height="20" version="1.1" viewbox="0 0 16 16" width="20"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Farben und Schriftarten</h2>
+Ich freue mich auf Ihre Nachricht.
 
-![Farben und Schriftarten](/images/farben-und-schriftarten-landingpage.jpg)
 
