@@ -76,6 +76,7 @@ page_meta:
 
 
 Wollen Sie passives Einkommen generieren?
+
 Ich rede nicht von Aktien, ETFs oder andere skurrile Investments. 
 Es ist sogar noch effektiver, wenn Sie es richtig umsetzen.
 Ich rede von einem Mitarbeiter, der für Sie rund um die Uhr arbeitet.
