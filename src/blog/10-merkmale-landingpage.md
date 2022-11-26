@@ -180,3 +180,6 @@ Gerne können Sie mir einen Link zu Ihrer Landing Page schicken. Ich kann Ihnen 
 Ich freue mich auf Ihre Nachricht.
 
 
+<p class="mt-5">
+<a href="/blog" class="text-dark | btn-second">Zurück zu den Blogbeiträgen</a>
+</p>
