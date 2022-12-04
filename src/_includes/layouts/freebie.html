@@ -1,0 +1,12 @@
+{% if page_meta %}
+{% set metaContent = page_meta %}
+{% endif %}
+{% extends
+"layouts/base.html" %}
+{% block content %}
+{% include "partials/hero-freebie.html" %}
+{% include "partials/feat.html" %}
+{% include "partials/geplaenkel.html" %}
+
+{% endblock
+%}

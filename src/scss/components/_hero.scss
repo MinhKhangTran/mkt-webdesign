@@ -6,6 +6,85 @@
     position: relative;
   }
 }
+#hero--freebie {
+  min-height: calc(100vh - 98px);
+  display: flex;
+  align-items: center;
+  padding-top: 4rem;
+
+  @include md {
+    min-height: calc(100vh - 60px);
+    
+  }
+  @include lg{
+    padding-top: 0;
+  }
+  p{
+    padding-block: 1.5rem;
+  }
+  form{
+    flex-direction: column;
+    @include md{
+      flex-direction: row;
+    }
+  }
+ button{
+  color: $light;
+  font-weight: 600;
+  width: 100%;
+  @include md{
+    border: 2px solid #402E32;
+    border-radius: 0px 4px 4px 0px;
+    border-left: 0;
+  }
+  
+ }
+ input{
+  @include md{
+    border: none;
+    border-radius: 0;
+    border: 2px solid #402E32;
+    border-radius: 4px 0px 0px 4px;
+  }
+  
+
+ }
+ .input-group{
+  width: 100%;
+  @include md {
+    width: 150%;
+  }
+ }
+ .button__group{
+  padding-top: 1rem;
+    @include md{
+      width: 100%;
+      padding-top: 0rem;
+    }
+   } 
+
+
+  .hero__right--panel {
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(10deg)
+      rotateY(0deg) rotateZ(8deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+    margin-top: 9rem;
+    @include lg {
+      position: absolute;
+      margin-top: 0rem;
+      top: -25%;
+      left: 65%;
+    }
+    @include xl {
+      left: 53%;
+    }
+
+    img {
+      animation: flowIn 3s cubic-bezier(0.33, 1, 0.68, 1);
+    }
+  }
+}
+
 #hero {
   min-height: calc(100vh - 98px);
   justify-content: center;

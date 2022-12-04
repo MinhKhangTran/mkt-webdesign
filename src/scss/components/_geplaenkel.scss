@@ -1,0 +1,52 @@
+#geplaenkel{
+    padding-block: 4rem;
+    @include md{
+      padding-block: 6.5rem;
+    }
+    .middle__p{
+        padding-block: 1.5rem;
+    }
+    .last__p{
+        padding-bottom: 2rem;
+    }
+    form{
+        flex-direction: column;
+        @include md{
+          flex-direction: row;
+        }
+      }
+     button{
+      color: $light;
+      font-weight: 600;
+      width: 100%;
+      @include md{
+        border: 2px solid #402E32;
+        border-radius: 0px 4px 4px 0px;
+        border-left: 0;
+      }
+      
+     }
+     input{
+      @include md{
+        border: none;
+        border-radius: 0;
+        border: 2px solid #402E32;
+        border-radius: 4px 0px 0px 4px;
+      }
+      
+    
+     }
+     .input-group{
+      width: 100%;
+      @include md {
+        width: 150%;
+      }
+     }
+     .button__group{
+    padding-top: 1rem;
+      @include md{
+        width: 100%;
+        padding-top: 0rem;
+      }
+     } 
+}

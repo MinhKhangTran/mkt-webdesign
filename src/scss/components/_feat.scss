@@ -27,3 +27,39 @@
     box-shadow: 3px 3px 0px #000000;
   }
 }
+#feat__freebie {
+  padding-block: 4rem;
+  @include md{
+    padding-block: 6.5rem;
+  }
+article{
+  padding-bottom: 2rem;
+  @include md{
+    padding-bottom: 0;
+  }
+}
+article:last-child{
+  padding-bottom: 0;
+}
+  h2 {
+    padding-bottom: 3rem;
+  }
+  .reihe {
+    grid-template-columns: repeat(1, 1fr);
+    gap: math.div(48rem, 16);
+    @include md {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @include lg {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 4rem;
+    }
+  }
+  .kasten {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 0px #000000;
+    
+  }
+}
