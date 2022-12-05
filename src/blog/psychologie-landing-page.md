@@ -2,7 +2,7 @@
 title: "4 Dinge, die mich an Landing Pages richtig nerven, aber ohne die geht es nicht!"
 pageTitle: 4 Dinge, die mich an Landing Pages richtig nerven, aber ohne die geht es nicht!
 cardTitle: 4 Dinge, die mich an Landing Pages richtig nerven, aber ohne die geht es nicht!
-description: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe.
+description: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe 🫣.
 date: 2022-11-27
 page_cta:
   cta_heading: Benötigen Sie auch eine Landing Page?
@@ -10,17 +10,17 @@ page_cta:
   cta_button: Loslegen!
 page_meta:
   metaDesc: description
-  metaDescContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe.
+  metaDescContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe 🫣.
   metaOgTitle: og:title
-  metaOgTitleContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe.
+  metaOgTitleContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe 🫣.
   metaOgDesc: og:description
-  metaOgDescContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe.
+  metaOgDescContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe 🫣.
   metaOgImage: og:image
   metaOgImageContent: /images/og-image-landingpage.jpg
   metaTwitterTitle: twitter:title
-  metaTwitterTitleContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe.
+  metaTwitterTitleContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe 🫣.
   metaTwitterDesc: twitter:description
-  metaTwitterDescContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe.
+  metaTwitterDescContent: Landing Pages werden für Marketingzwecken verwendet. Sie wurden so gestaltet, dass der Kunde oder die Kundinnen zu einer Handlung aufgefordert werden - Sie können nichts dafür, es sind Ihre Triebe 🫣.
   metaTwitterImage: twitter:image
   metaTwitterImageContent: /images/og-image-landingpage.jpg
   faviconIco: /images/favicon.ico
