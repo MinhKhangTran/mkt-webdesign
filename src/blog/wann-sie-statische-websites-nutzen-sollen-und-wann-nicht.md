@@ -2,7 +2,7 @@
 title: "Wann Sie statische Websites nutzen sollen und wann nicht"
 pageTitle: Wann Sie statische Websites nutzen sollen und wann nicht
 cardTitle: Wann Sie statische Websites nutzen sollen und wann nicht
-description: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website! 🔨
+description: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website 🔨! 
 date: 2022-12-08
 page_cta:
   cta_heading: Profitieren Sie von statischen Websites!
@@ -10,17 +10,17 @@ page_cta:
   cta_button: Loslegen!
 page_meta:
   metaDesc: description
-  metaDescContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website! 🔨
+  metaDescContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website 🔨! 
   metaOgTitle: og:title
-  metaOgTitleContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website! 🔨
+  metaOgTitleContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website 🔨! 
   metaOgDesc: og:description
-  metaOgDescContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website! 🔨
+  metaOgDescContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website 🔨! 
   metaOgImage: og:image
   metaOgImageContent: /images/og-image-landingpage.jpg
   metaTwitterTitle: twitter:title
-  metaTwitterTitleContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website! 🔨
+  metaTwitterTitleContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website 🔨! 
   metaTwitterDesc: twitter:description
-  metaTwitterDescContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website! 🔨
+  metaTwitterDescContent: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website 🔨! 
   metaTwitterImage: twitter:image
   metaTwitterImageContent: /images/og-image-landingpage.jpg
   faviconIco: /images/favicon.ico
