@@ -3,7 +3,7 @@ title: "Wann Sie statische Websites nutzen sollen und wann nicht"
 pageTitle: Wann Sie statische Websites nutzen sollen und wann nicht
 cardTitle: Wann Sie statische Websites nutzen sollen und wann nicht
 description: Es gibt verschiedene Wege eine Website zu erstellen. Die einfachste und effektivste ist die Erstellung einer statischen Website 🔨! 
-date: 2022-12-08
+date: 2022-12-18
 page_cta:
   cta_heading: Profitieren Sie von statischen Websites!
   cta_sub: Jetzt eigene Website überprüfen lassen!
