@@ -2,18 +2,18 @@
   "benefit": [
     {
       "icon": "fast",
-      "benefit_title": "schnell",
+      "benefit_title": "Performance",
       "benefit_text": "Schnelle Websites reduzieren die Absprungrate Ihrer Besucher*innen"
     },
     {
-      "icon": "accessible",
-      "benefit_title": "barrierefrei",
-      "benefit_text": "Jeder soll Ihre Website nutzen und genießen können"
+      "icon": "seo",
+      "benefit_title": "On-Page SEO",
+      "benefit_text": "Erhöhen Sie Ihre Reichweite und sparen Sie dabei viel Geld"
     },
     {
-      "icon": "safe",
-      "benefit_title": "sicher",
-      "benefit_text": "Sie müssen sich keine Gedanken über Server- oder Datenbankangriffe machen"
+      "icon": "accessible",
+      "benefit_title": "Barrierefreiheit",
+      "benefit_text": "Jeder soll Ihre Website nutzen und genießen können"
     }
   ]
 }
