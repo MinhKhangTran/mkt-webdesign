@@ -83,6 +83,9 @@
       animation: flowIn 3s cubic-bezier(0.33, 1, 0.68, 1);
     }
   }
+  .kleine__schrift{
+    font-size: math.div(14rem,16);
+  }
 }
 
 #hero {

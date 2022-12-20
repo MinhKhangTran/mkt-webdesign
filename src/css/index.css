@@ -11486,6 +11486,9 @@ nav .breadcrumb-item.active {
 #hero--freebie .hero__right--panel img {
   animation: flowIn 3s cubic-bezier(0.33, 1, 0.68, 1);
 }
+#hero--freebie .kleine__schrift {
+  font-size: 0.875rem;
+}
 
 #hero {
   min-height: calc(100vh - 98px);
@@ -12485,4 +12488,7 @@ footer .copyright {
     width: 100%;
     padding-top: 0rem;
   }
+}
+#geplaenkel .kleine__schrift {
+  font-size: 0.875rem;
 }
