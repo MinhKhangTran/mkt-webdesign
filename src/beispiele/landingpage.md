@@ -8,5 +8,7 @@ desc2: Der Nutzer "landet" auf eine Landingpage, sobald dieser auf eine Werbung 
 link: https://landingpage-beispiel.netlify.app/
 img: /images/hero-landingpage-beispiel.jpg
 altImg: "Das Hauptbild der Landingpage (Beispiel)"
+featured: true
+order: 1
 ---
 
