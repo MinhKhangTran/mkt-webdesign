@@ -54,6 +54,13 @@ module.exports = function (eleventyConfig) {
     });;
   });
 
+    // add case studies to collections
+    eleventyConfig.addCollection("case-studies", (collection) => {
+      return collection.getFilteredByGlob("./src/case-studies/*.md").sort((a, b) => {
+        return a.data.order > b.data.order ? 1 : -1;
+      });;
+    });
+
 
   // Add filters
   eleventyConfig.addFilter("dateFilter", dateFilter);
