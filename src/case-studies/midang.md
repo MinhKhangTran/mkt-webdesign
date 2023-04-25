@@ -1,14 +1,13 @@
 ---
 title: Midang
-pageTitle: 10 Merkmale einer guten Landingpage mit Beispiel
 cardTitle: Midang (Koreanisches Restaurant)
 description: ✅ Komplette Neuerstellung der Website
 desc: ✅ Deutschs und koreanische Speisekarte
 desc2: ✅ Schnelle Ladezeiten und intuitives Design
-link: https://landingpage-beispiel.netlify.app/
 img: /images/case-studies/midang/midang-thumbnail.jpg
-altImg: "Das Hauptbild der Landingpage (Beispiel)"
-featured: true
+altImg: "Ein Teaser Bild von Midang"
+pageImg: /images/case-studies/midang/midang-hero-image.jpg
+pageAltImg: "Ein episches Bild von den schönsten Komponenten von Midang's Website"
 order: 1
 page_cta:
   cta_heading: Bessern Sie Ihre Webpräsenz auf!
@@ -228,6 +227,3 @@ Landingpages sind von Natur aus sehr flexible aufgebaut. Die beschriebenen Kompo
 
 Das Design von Landingpages wird aber öfters angepasst. Es wird im Hintergrund viel getestet (A/B Vergleich) und analysiert, um die Konversionsrate (Verhältnis der besuchenden Person zu den Konversionen) zu erhöhen.
 
-<p class="mt-5">
-<a href="/beispiele" class="text-dark | btn-second">Zurück zu den Beispielen</a>
-</p>

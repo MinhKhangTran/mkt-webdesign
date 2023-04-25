@@ -1,15 +1,15 @@
 {% if page_meta %} {% set metaContent = page_meta %} {% endif %} {% extends
 "layouts/base.html" %} {% block content %} {% if page_cta %} {% set ctaContent =
-page_cta %} {% endif %} {% if page.url.startsWith("/beispiele") %}
+page_cta %} {% endif %} {% if page.url.startsWith("/case-studies") %}
 
 <div class="wrapper pt-lg-5 mt-lg-4 pt-3 mt-3">
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="/beispiele">Beispiele</a></li>
-      <li class="breadcrumb-item active" aria-current="page">{{pageTitle}}</li>
+      <li class="breadcrumb-item"><a href="/case-studies">Case Studies</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{cardTitle}}</li>
     </ol>
   </nav>
-  <img src="{{img}}" alt="{{altImg}}" class="img-fluid w-100" />
+  <img src="{{pageImg}}" alt="{{pageAltImg}}" class="img-fluid w-100" />
 </div>
 {% elif page.url.startsWith("/leistungen") %}
 <img src="{{img}}" alt="{{altImg}}" class="img-fluid w-100" />
@@ -22,14 +22,20 @@ page_cta %} {% endif %} {% if page.url.startsWith("/beispiele") %}
   class="pb-5 pt-md-5 pt-3 sm__wrapper position-relative"
 >
   {{content |safe}}
+
+  {% if page.url.startsWith("/projekte") %}
+  <div class="wrapper | mb-5">
+    <a href="/projekte" class="text-white | btn-main">Zurück zu den Projekten</a>
+  </div>
+  {% elif page.url.startsWith("/blogposts") %}
+  <div class="wrapper | mb-5">
+    <a href="/blog" class="text-white | btn-main">Zurück zu den Blogposts</a>
+  </div>
+  {% elif page.url.startsWith("/case-studies") %}
+  <p class="mt-5">
+    <a href="/case-studies" class="text-dark | btn-second">Zurück zu den Case Studies</a>
+  </p>
+  {% endif %}
 </section>
 
-{% if page.url.startsWith("/projekte") %}
-<div class="wrapper | mb-5">
-  <a href="/projekte" class="text-white | btn-main">Zurück zu den Projekten</a>
-</div>
-{% elif page.url.startsWith("/blogposts") %}
-<div class="wrapper | mb-5">
-  <a href="/blog" class="text-white | btn-main">Zurück zu den Blogposts</a>
-</div>
-{% endif %} {% include "partials/cta.html" %} {% endblock %}
+ {% include "partials/cta.html" %} {% endblock %}
