@@ -15,17 +15,17 @@ page_cta:
   cta_button: Loslegen!
 page_meta:
   metaDesc: description
-  metaDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaDescContent: Mein Case Study zum koreanischen Restaurant Midang.
   metaOgTitle: og:title
-  metaOgTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaOgTitleContent: Mein Case Study zum koreanischen Restaurant Midang.
   metaOgDesc: og:description
-  metaOgDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaOgDescContent: Mein Case Study zum koreanischen Restaurant Midang.
   metaOgImage: og:image
   metaOgImageContent: /images/og-image-landingpage.jpg
   metaTwitterTitle: twitter:title
-  metaTwitterTitleContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaTwitterTitleContent: Mein Case Study zum koreanischen Restaurant Midang.
   metaTwitterDesc: twitter:description
-  metaTwitterDescContent: Eine Landingpage (oft auch Landing Page) hat nur ein Ziel. Mit einer Landingpage wird ein bestimmtes Angebot oder Produkt geworben. Mit diesen 10 Merkmalen soll die besuchende Person der Landingpage zu einer gezielten Handlung (Conversion) gebracht werden.
+  metaTwitterDescContent: Mein Case Study zum koreanischen Restaurant Midang.
   metaTwitterImage: twitter:image
   metaTwitterImageContent: /images/og-image-landingpage.jpg
   faviconIco: /images/favicon.ico
@@ -114,3 +114,7 @@ Die rote und die schwarze Farbe aus dem Logo habe ich übernommen und weitere Va
 
 Als Schriftart habe ich für die Überschrift eine serife Schriftart (Lora) ausgesucht und für den normalen Text eine sans-serife Schriftart (Poppins).
 Dadurch wirkt der Kontrast zwischen Überschrift und normalem Text ausgeglichen.
+
+![Farben und Schriftarten](/images/case-studies/midang/farben-und-schriftarten.jpg)
+
+![Design](/images/case-studies/midang/design.jpg)
